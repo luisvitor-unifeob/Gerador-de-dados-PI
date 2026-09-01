@@ -5,12 +5,9 @@ from urllib.request import urlretrieve
 
 import random
 import csv
-import os
 import unicodedata
 import geonamescache
 import pycountry
-
-from babel import Locale
 
 from regras import (
     HOJE,
@@ -20,44 +17,45 @@ from regras import (
     criar_username
 )
 
-# LOCALIZAÇÃO
 
-LOCALE_POR_PAIS = {
-    "BR": "pt_BR",
-    "US": "en_US",
-    "PT": "pt_PT",
-    "ES": "es_ES",
-    "FR": "fr_FR",
-    "DE": "de_DE",
-    "IT": "it_IT",
-    "GB": "en_GB",
-    "CA": "en_CA",
-    "AU": "en_AU",
-    "MX": "es_MX",
-    "AR": "es_AR"
+# Pasta onde está este arquivo jogadores.py
+BASE_DIR = Path(__file__).resolve().parent
+
+
+# Países
+
+PAISES = {
+    "BR": {"nome": "Brasil", "locale": "pt_BR"},
+    "US": {"nome": "Estados Unidos", "locale": "en_US"},
+    "PT": {"nome": "Portugal", "locale": "pt_PT"},
+    "ES": {"nome": "Espanha", "locale": "es_ES"},
+    "FR": {"nome": "França", "locale": "fr_FR"},
+    "DE": {"nome": "Alemanha", "locale": "de_DE"},
+    "IT": {"nome": "Itália", "locale": "it_IT"},
+    "GB": {"nome": "Reino Unido", "locale": "en_GB"},
+    "CA": {"nome": "Canadá", "locale": "en_CA"},
+    "AU": {"nome": "Austrália", "locale": "en_AU"},
+    "MX": {"nome": "México", "locale": "es_MX"},
+    "AR": {"nome": "Argentina", "locale": "es_AR"}
 }
 
 
-fakers = {
-    codigo: Faker(locale)
-    for codigo, locale in LOCALE_POR_PAIS.items()
+# Faker específico para cada país
+
+FAKERS = {
+    codigo: Faker(dados["locale"])
+    for codigo, dados in PAISES.items()
 }
 
 
-# Nomes dos países em português
-PORTUGUES = Locale("pt_BR")
+# Localização
 
-
-# Carrega cidades reais
 gc = geonamescache.GeonamesCache(
     min_city_population=1000
 )
 
-PAISES = gc.get_countries()
 
-# BASE DE ESTADOS / REGIÕES
-
-PASTA_BASE = Path("base_geografica")
+PASTA_BASE = BASE_DIR / "base_geografica"
 
 ARQUIVO_ESTADOS = (
     PASTA_BASE / "admin1CodesASCII.txt"
@@ -69,20 +67,18 @@ URL_ESTADOS = (
 )
 
 
-def normalizar_texto(texto):
+def normalizar(texto):
 
     texto = unicodedata.normalize(
         "NFKD",
         texto
     )
 
-    texto = "".join(
-        caractere
-        for caractere in texto
-        if not unicodedata.combining(caractere)
-    )
-
-    return texto.lower().strip()
+    return "".join(
+        letra
+        for letra in texto
+        if not unicodedata.combining(letra)
+    ).lower()
 
 
 def carregar_estados():
@@ -91,18 +87,15 @@ def carregar_estados():
         exist_ok=True
     )
 
-    # Só baixa na primeira vez
+    # Baixa somente se o arquivo ainda não existir
     if not ARQUIVO_ESTADOS.exists():
 
-        print(
-            "Baixando base de estados/regiões..."
-        )
+        print("Baixando base de estados...")
 
         urlretrieve(
             URL_ESTADOS,
             ARQUIVO_ESTADOS
         )
-
 
     estados = {}
 
@@ -117,61 +110,39 @@ def carregar_estados():
             partes = linha.strip().split("\t")
 
             if len(partes) >= 2:
-
-                codigo = partes[0]
-
-                nome = partes[1]
-
-                estados[codigo] = nome
-
+                estados[partes[0]] = partes[1]
 
     return estados
 
 
 ESTADOS = carregar_estados()
 
-# SIGLAS DOS ESTADOS
+
+# Relaciona estados com suas siglas
 
 SIGLAS_ESTADOS = {}
 
+for estado in pycountry.subdivisions:
 
-for subdivisao in pycountry.subdivisions:
+    if estado.country_code in PAISES:
 
-    codigo_pais = subdivisao.country_code
-
-    if codigo_pais in LOCALE_POR_PAIS:
-
-        nome_estado = normalizar_texto(
-            subdivisao.name
+        nome = normalizar(
+            estado.name
         )
 
-        # BR-SP -> SP
-        # US-CA -> CA
-        codigo = subdivisao.code
-
-        if "-" in codigo:
-
-            sigla = codigo.split(
-                "-",
-                1
-            )[1]
-
-        else:
-
-            sigla = codigo
-
+        sigla = estado.code.split(
+            "-",
+            1
+        )[-1]
 
         SIGLAS_ESTADOS[
-            (
-                codigo_pais,
-                nome_estado
-            )
+            (estado.country_code, nome)
         ] = sigla
 
-# CIDADES VÁLIDAS
+
+# Guarda somente cidades válidas
 
 CIDADES = []
-
 
 for cidade in gc.get_cities().values():
 
@@ -183,23 +154,18 @@ for cidade in gc.get_cities().values():
         "admin1code"
     )
 
+    if codigo_pais not in PAISES:
+        continue
 
-    if (
-        codigo_pais in LOCALE_POR_PAIS
-        and codigo_estado
-    ):
+    if not codigo_estado:
+        continue
 
-        chave = (
-            f"{codigo_pais}.{codigo_estado}"
-        )
+    chave_estado = (
+        f"{codigo_pais}.{codigo_estado}"
+    )
 
-        # Só usa cidades cujo estado/região
-        # também existe na base
-        if chave in ESTADOS:
-
-            CIDADES.append(
-                cidade
-            )
+    if chave_estado in ESTADOS:
+        CIDADES.append(cidade)
 
 
 def gerar_localizacao():
@@ -207,7 +173,6 @@ def gerar_localizacao():
     cidade = random.choice(
         CIDADES
     )
-
 
     codigo_pais = cidade[
         "countrycode"
@@ -217,51 +182,35 @@ def gerar_localizacao():
         "admin1code"
     ]
 
-
     chave_estado = (
         f"{codigo_pais}.{codigo_estado}"
     )
-
 
     nome_estado = ESTADOS[
         chave_estado
     ]
 
-
-    # Procura a sigla oficial
-    sigla_estado = SIGLAS_ESTADOS.get(
+    sigla = SIGLAS_ESTADOS.get(
         (
             codigo_pais,
-            normalizar_texto(
-                nome_estado
-            )
+            normalizar(nome_estado)
         )
     )
 
-
-    # Caso o país não utilize uma sigla
-    # compatível, mantém o nome da região
-    estado_final = (
-        sigla_estado
-        if sigla_estado
-        else nome_estado
-    )
-
-
-    pais = PORTUGUES.territories.get(
-        codigo_pais,
-        PAISES[codigo_pais]["name"]
-    )
-
+    if sigla:
+        estado = sigla
+    else:
+        estado = nome_estado
 
     return {
         "cidade": cidade["name"],
-        "estado": estado_final,
-        "pais": pais,
+        "estado": estado,
+        "pais": PAISES[codigo_pais]["nome"],
         "codigo_pais": codigo_pais
     }
 
-# GÊNEROS DE JOGO
+
+# Gêneros de jogos
 
 GENEROS_JOGO = [
     "FPS",
@@ -278,45 +227,26 @@ GENEROS_JOGO = [
 ]
 
 
-PLATAFORMAS_POR_GENERO = {
+# Plataformas disponíveis para cada gênero
 
-    "FPS":
-        ["PC", "PlayStation", "Xbox"],
-
-    "RPG":
-        ["PC", "PlayStation", "Xbox"],
-
-    "Ação":
-        ["PC", "PlayStation", "Xbox"],
-
-    "Aventura":
-        ["PC", "PlayStation", "Xbox"],
-
-    "Estratégia":
-        ["PC"],
-
-    "Corrida":
-        ["PC", "PlayStation", "Xbox"],
-
-    "Esportes":
-        ["PC", "PlayStation", "Xbox"],
-
-    "MOBA":
-        ["PC", "Mobile"],
-
-    "Simulação":
-        ["PC", "PlayStation", "Xbox"],
-
-    "Luta":
-        ["PC", "PlayStation", "Xbox"],
-
-    "Survival":
-        ["PC", "PlayStation", "Xbox"]
+PLATAFORMAS = {
+    "FPS": ["PC", "PlayStation", "Xbox"],
+    "RPG": ["PC", "PlayStation", "Xbox"],
+    "Ação": ["PC", "PlayStation", "Xbox"],
+    "Aventura": ["PC", "PlayStation", "Xbox"],
+    "Estratégia": ["PC"],
+    "Corrida": ["PC", "PlayStation", "Xbox"],
+    "Esportes": ["PC", "PlayStation", "Xbox"],
+    "MOBA": ["PC", "Mobile"],
+    "Simulação": ["PC", "PlayStation", "Xbox"],
+    "Luta": ["PC", "PlayStation", "Xbox"],
+    "Survival": ["PC", "PlayStation", "Xbox"]
 }
 
 
-TEMPO_SESSAO = {
+# Tempo médio das sessões por gênero
 
+TEMPO_SESSAO = {
     "FPS": (0.4, 2.0),
     "RPG": (1.0, 4.0),
     "Ação": (0.7, 2.5),
@@ -330,13 +260,14 @@ TEMPO_SESSAO = {
     "Survival": (1.0, 4.5)
 }
 
-# GERAR JOGADOR
+
+# Gera um jogador
 
 def gerar_jogador(player_id):
 
     local = gerar_localizacao()
 
-    fake = fakers[
+    fake = FAKERS[
         local["codigo_pais"]
     ]
 
@@ -376,15 +307,13 @@ def gerar_jogador(player_id):
     )
 
 
-    data_nascimento = (
-        gerar_data_nascimento(
-            idade
-        )
+    nascimento = gerar_data_nascimento(
+        idade
     )
 
 
-    idade_minima_conta = adicionar_anos(
-        data_nascimento,
+    idade_minima = adicionar_anos(
+        nascimento,
         13
     )
 
@@ -397,7 +326,7 @@ def gerar_jogador(player_id):
 
 
     data_minima = max(
-        idade_minima_conta,
+        idade_minima,
         inicio_sistema
     )
 
@@ -414,9 +343,7 @@ def gerar_jogador(player_id):
 
 
     plataforma = random.choice(
-        PLATAFORMAS_POR_GENERO[
-            genero_jogo
-        ]
+        PLATAFORMAS[genero_jogo]
     )
 
 
@@ -444,16 +371,14 @@ def gerar_jogador(player_id):
     )
 
 
-    tempo_minimo, tempo_maximo = (
-        TEMPO_SESSAO[
-            genero_jogo
-        ]
+    tempo_min, tempo_max = (
+        TEMPO_SESSAO[genero_jogo]
     )
 
 
     tempo_medio = random.uniform(
-        tempo_minimo,
-        tempo_maximo
+        tempo_min,
+        tempo_max
     )
 
 
@@ -468,9 +393,7 @@ def gerar_jogador(player_id):
         100,
         max(
             1,
-            int(
-                horas_jogadas / 25
-            ) + 1
+            int(horas_jogadas / 25) + 1
         )
     )
 
@@ -517,125 +440,82 @@ def gerar_jogador(player_id):
     )
 
 
-    inicio_ultimo_acesso = max(
+    inicio_acesso = max(
         data_criacao,
         HOJE - timedelta(days=365)
     )
 
 
     ultimo_acesso = data_aleatoria(
-        inicio_ultimo_acesso,
+        inicio_acesso,
         HOJE
     )
 
 
     return {
-
-        "player_id":
-            player_id,
-
-        "nome":
-            nome,
-
-        "username":
-            username,
-
-        "idade":
-            idade,
-
-        "data_nascimento":
-            data_nascimento.isoformat(),
-
-        "genero":
-            genero,
-
-        "cidade":
-            local["cidade"],
-
-        "estado":
-            local["estado"],
-
-        "pais":
-            local["pais"],
-
-        "plataforma":
-            plataforma,
-
-        "genero_jogo":
-            genero_jogo,
-
-        "nivel_jogador":
-            nivel,
-
-        "data_criacao_conta":
-            data_criacao.isoformat(),
-
-        "horas_jogadas":
-            horas_jogadas,
-
-        "numero_sessoes":
-            numero_sessoes,
-
-        "quantidade_compras":
-            compras,
-
-        "valor_gasto":
-            valor_gasto,
-
-        "ultimo_acesso":
-            ultimo_acesso.isoformat()
+        "player_id": player_id,
+        "nome": nome,
+        "username": username,
+        "idade": idade,
+        "data_nascimento": nascimento.isoformat(),
+        "genero": genero,
+        "cidade": local["cidade"],
+        "estado": local["estado"],
+        "pais": local["pais"],
+        "plataforma": plataforma,
+        "genero_jogo": genero_jogo,
+        "nivel_jogador": nivel,
+        "data_criacao_conta": data_criacao.isoformat(),
+        "horas_jogadas": horas_jogadas,
+        "numero_sessoes": numero_sessoes,
+        "quantidade_compras": compras,
+        "valor_gasto": valor_gasto,
+        "ultimo_acesso": ultimo_acesso.isoformat()
     }
 
-# GERAR CSV
 
-def gerar_arquivo_jogadores(
-    quantidade
-):
+# Salva os jogadores em um CSV
 
-    os.makedirs(
-        "dados",
+def gerar_arquivo_jogadores(quantidade):
+
+    # Sempre salva dentro da pasta gerador/dados
+    pasta = BASE_DIR / "dados"
+
+    pasta.mkdir(
         exist_ok=True
     )
 
 
+    # Inclui microssegundos para nunca repetir o nome
     momento = datetime.now().strftime(
-        "%Y%m%d_%H%M%S"
+        "%Y%m%d_%H%M%S_%f"
     )
 
 
-    caminho = (
-        f"dados/"
+    caminho = pasta / (
         f"jogadores_{quantidade}_"
         f"{momento}.csv"
     )
 
 
     colunas = [
-
         "player_id",
         "nome",
         "username",
-
         "idade",
         "data_nascimento",
         "genero",
-
         "cidade",
         "estado",
         "pais",
-
         "plataforma",
         "genero_jogo",
-
         "nivel_jogador",
         "data_criacao_conta",
-
         "horas_jogadas",
         "numero_sessoes",
-
         "quantidade_compras",
         "valor_gasto",
-
         "ultimo_acesso"
     ]
 
@@ -647,12 +527,10 @@ def gerar_arquivo_jogadores(
         encoding="utf-8-sig"
     ) as arquivo:
 
-
         escritor = csv.DictWriter(
             arquivo,
             fieldnames=colunas
         )
-
 
         escritor.writeheader()
 
@@ -662,11 +540,9 @@ def gerar_arquivo_jogadores(
             quantidade + 1
         ):
 
-
             jogador = gerar_jogador(
                 player_id
             )
-
 
             escritor.writerow(
                 jogador
@@ -676,7 +552,8 @@ def gerar_arquivo_jogadores(
             if player_id % 1000 == 0:
 
                 print(
-                    f"{player_id:,} jogadores gerados..."
+                    player_id,
+                    "jogadores gerados..."
                 )
 
 
