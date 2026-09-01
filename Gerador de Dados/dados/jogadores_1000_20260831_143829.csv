@@ -1,0 +1,1001 @@
+﻿player_id,nome,username,idade,data_nascimento,genero,cidade,estado,pais,plataforma,genero_jogo,nivel_jogador,data_criacao_conta,horas_jogadas,numero_sessoes,quantidade_compras,valor_gasto,ultimo_acesso
+1,Hortense Dupré,hortense.dupre1,45,1981-01-11,Feminino,Sérent,Brittany,França,PC,Luta,16,2024-03-30,393.2,290,0,0,2025-09-26
+2,Vitor Hugo Nascimento,vitor.hugo.nascimento2,46,1980-02-12,Masculino,Nossa Senhora Aparecida,SE,Brasil,Mobile,MOBA,17,2015-08-08,418.5,184,2,29.8,2026-08-04
+3,Matheus Moreira,matheus.moreira3,46,1980-03-20,Masculino,Coxixola,PB,Brasil,Xbox,Aventura,39,2018-10-30,970.9,637,0,0,2026-05-19
+4,David Williams,david.williams4,27,1998-11-11,Masculino,Razorback,NSW,Austrália,Xbox,Luta,3,2022-07-04,58.2,96,0,0,2026-08-18
+5,João Gabriel Alves,joao.gabriel.alves5,22,2003-10-29,Masculino,André da Rocha,RS,Brasil,PC,Corrida,24,2022-04-19,588.9,393,0,0,2025-12-27
+6,Léon Tanguy,leon.tanguy6,34,1992-01-16,Masculino,Juigné-sur-Sarthe,Pays de la Loire,França,PlayStation,RPG,1,2015-01-14,4.4,2,1,19.9,2025-12-19
+7,Liz Sampaio,liz.sampaio7,40,1986-05-27,Feminino,Italva,RJ,Brasil,PlayStation,Luta,4,2023-08-20,90.6,264,0,0,2025-11-08
+8,Valentin Albers,valentin.albers8,33,1993-02-10,Masculino,Einfeld,SH,Alemanha,Xbox,Corrida,1,2026-03-17,14.2,25,2,14.89,2026-05-22
+9,Rubén Prieto,ruben.prieto9,27,1999-03-30,Masculino,Puerto Peñasco,SON,México,PC,MOBA,60,2013-01-20,1492.5,1893,22,558.16,2026-05-22
+10,Maurice Briand,maurice.briand10,53,1973-06-25,Masculino,Montmorot,Bourgogne,França,Xbox,Luta,53,2015-03-07,1314.1,1232,0,0,2025-12-06
+11,Ana Sophia Vieira,ana.sophia.vieira11,34,1992-06-30,Feminino,Combinado,TO,Brasil,PC,FPS,50,2019-01-19,1228.2,699,0,0,2026-04-28
+12,Julio Abrego,julio.abrego12,40,1986-02-11,Masculino,Santa María del Refugio,GUA,México,PlayStation,Esportes,38,2011-03-13,928.4,626,0,0,2026-05-26
+13,Rebecca Velasquez,rebecca.velasquez13,33,1993-01-20,Feminino,Narwee,NSW,Austrália,Xbox,Luta,21,2013-09-18,510.2,903,0,0,2026-05-02
+14,Noemí Villaseñor,noemi.villasenor14,50,1976-07-13,Feminino,San Nicolás Zoyapetlayoca,PUE,México,PlayStation,RPG,2,2024-11-03,42.0,34,0,0,2025-12-02
+15,Harald Dobes,harald.dobes15,43,1983-04-19,Masculino,Freienwill,SH,Alemanha,PC,Estratégia,15,2015-04-28,352.6,360,29,867.37,2026-08-06
+16,Olga Nonis,olga.nonis16,20,2006-06-01,Feminino,Ferno,Lombardy,Itália,PC,Estratégia,4,2021-11-26,89.9,34,0,0,2026-02-28
+17,Margaret Monnier,margaret.monnier17,38,1988-07-26,Feminino,Villeneuve-la-Rivière,OCC,França,Xbox,Aventura,2,2025-09-27,35.5,30,1,29.9,2026-05-20
+18,Blake Swanson,blake.swanson18,44,1982-02-22,Masculino,Caddo Mills,TX,Estados Unidos,PlayStation,Simulação,100,2011-10-22,3740.1,2587,28,1097.38,2026-08-25
+19,Leopoldo Flaiano,leopoldo.flaiano19,20,2005-11-25,Masculino,Capraia e Limite,Tuscany,Itália,PC,Estratégia,12,2023-06-13,283.3,207,0,0,2025-12-07
+20,Sharon Russo,sharon.russo20,38,1988-07-26,Feminino,Nuuanu - Punchbowl,HI,Estados Unidos,Mobile,MOBA,30,2021-09-09,740.5,303,0,0,2026-01-16
+21,Steven Campbell,steven.campbell21,20,2006-08-07,Masculino,Kamerunga,QLD,Austrália,PlayStation,Ação,16,2022-08-22,378.4,184,18,388.47,2025-09-30
+22,María Dolores Pallarès,maria.dolores.pallares22,21,2004-11-13,Feminino,Cañamares,Castille-La Mancha,Espanha,Xbox,Survival,2,2021-10-02,39.1,13,1,29.9,2026-07-08
+23,Luc Julien,luc.julien23,48,1978-01-19,Masculino,Manthelan,CVL,França,Xbox,FPS,27,2016-06-09,661.1,578,0,0,2025-10-18
+24,Edward Rosario,edward.rosario24,38,1988-08-11,Masculino,Alton,TX,Estados Unidos,Xbox,Luta,92,2013-12-26,2287.3,1747,0,0,2026-04-05
+25,María Cristina Sosa,maria.cristina.sosa25,43,1983-06-17,Feminino,La Piedad,QUE,México,PC,FPS,18,2023-07-31,439.8,290,20,868.09,2025-12-27
+26,Lynn Cain,lynn.cain26,25,2001-01-09,Feminino,Melbourne,FL,Estados Unidos,PC,Ação,85,2014-04-26,2114.6,1020,0,0,2026-08-28
+27,Brett Williams,brett.williams27,46,1979-09-07,Masculino,Houghton,ENG,Reino Unido,PlayStation,Aventura,10,2024-08-02,233.5,246,0,0,2026-03-02
+28,Derrick Cox,derrick.cox28,25,2000-10-02,Masculino,Cordova Bay,BC,Canadá,PC,Estratégia,34,2013-12-31,835.4,751,2,44.8,2025-11-05
+29,Brittany Pierce,brittany.pierce29,47,1979-06-10,Feminino,Parkdale,VIC,Austrália,PlayStation,FPS,13,2020-09-28,319.4,259,15,548.68,2026-08-30
+30,Jordan Brown,jordan.brown30,21,2005-04-19,Feminino,North Oaks,MN,Estados Unidos,Xbox,FPS,1,2025-04-05,10.2,17,1,59.9,2025-10-30
+31,Jeremy Flores,jeremy.flores31,46,1979-12-17,Masculino,Millersport,OH,Estados Unidos,PC,Corrida,17,2023-10-30,415.7,283,21,848.08,2025-11-28
+32,Viridiana Rosiello,viridiana.rosiello32,26,2000-07-12,Feminino,Lecce Nei Marsi,65,Itália,PC,Luta,1,2026-03-28,18.4,13,1,59.9,2026-05-04
+33,Paula Harris,paula.harris33,22,2004-06-14,Feminino,Deer Park,IL,Estados Unidos,PC,Ação,9,2025-05-12,216.1,200,0,0,2026-02-07
+34,Leandra Ferrera,leandra.ferrera34,32,1994-02-02,Feminino,Soto del Real,M,Espanha,Xbox,FPS,7,2022-11-24,164.4,97,6,279.4,2026-03-27
+35,Curtis Weber,curtis.weber35,35,1990-12-16,Masculino,Elbridge,NY,Estados Unidos,PC,Luta,38,2010-08-03,932.7,741,0,0,2025-10-27
+36,Samantha Parker,samantha.parker36,54,1971-09-05,Feminino,Nashua,NH,Estados Unidos,Xbox,Ação,6,2020-04-18,139.2,101,0,0,2025-12-27
+37,Jerzy Bohnbach,jerzy.bohnbach37,34,1991-12-01,Masculino,Rhede,North Rhine-Westphalia,Alemanha,Xbox,Ação,31,2010-03-25,762.3,415,6,214.49,2025-10-26
+38,Valeska Neuschäfer,valeska.neuschafer38,54,1972-01-15,Feminino,Haßloch,RP,Alemanha,PC,Esportes,29,2018-07-20,700.0,1031,0,0,2026-03-01
+39,Denise Salinas,denise.salinas39,54,1971-09-30,Feminino,Hubbard Lake,MI,Estados Unidos,PlayStation,Aventura,3,2026-02-07,72.6,31,0,0,2026-03-04
+40,Lucia Marrone,lucia.marrone40,18,2008-08-11,Feminino,Sorgà,34,Itália,PC,Aventura,60,2022-06-18,1481.9,765,30,1002.27,2026-04-10
+41,Eric Long,eric.long41,18,2008-04-25,Masculino,Great Missenden,ENG,Reino Unido,Xbox,Esportes,36,2022-07-15,895.6,899,4,134.6,2026-02-11
+42,Tracy Holland,tracy.holland42,40,1986-05-18,Feminino,Great Houghton,ENG,Reino Unido,PC,Simulação,8,2023-06-12,193.6,58,0,0,2026-08-30
+43,María Eugenia Yáñez,maria.eugenia.yanez43,47,1979-01-11,Feminino,Ignacio Pérez,QUE,México,Xbox,Survival,1,2026-08-08,6.1,2,1,19.9,2026-08-28
+44,Alana Oliveira,alana.oliveira44,21,2004-12-21,Feminino,Nossa Senhora do Socorro,SE,Brasil,Xbox,RPG,2,2024-01-16,41.7,12,1,4.99,2025-11-16
+45,Daniel Miguel,daniel.miguel45,32,1994-01-07,Masculino,Almodóvar del Pinar,Castille-La Mancha,Espanha,PC,Estratégia,100,2015-12-09,4111.8,1554,6,329.4,2026-04-18
+46,Darren Campbell,darren.campbell46,51,1974-09-02,Masculino,Barlborough,ENG,Reino Unido,PC,FPS,67,2019-08-11,1653.1,997,0,0,2025-10-31
+47,Mark Bowen,mark.bowen47,55,1970-09-18,Masculino,Champlain,NY,Estados Unidos,PC,Aventura,100,2013-03-22,2887.0,1036,21,798.17,2025-12-28
+48,Théo Rodrigues,theo.rodrigues48,27,1999-01-22,Masculino,Passo de Torres,SC,Brasil,Xbox,RPG,100,2021-10-21,2857.2,850,5,174.59,2026-08-10
+49,Minerva Villareal,minerva.villareal49,36,1990-05-01,Feminino,Copándaro de Galeana,Michoacán,México,PC,Estratégia,38,2014-11-16,947.8,787,13,358.97,2026-03-31
+50,Sante Murialdo,sante.murialdo50,33,1992-11-28,Masculino,Gosaldo,34,Itália,Mobile,MOBA,10,2020-06-16,246.6,208,8,354.2,2026-05-28
+51,Kurt Holt,kurt.holt51,47,1979-04-05,Masculino,Sontheim,Bavaria,Alemanha,Xbox,Survival,54,2017-08-17,1345.0,932,13,568.7,2025-09-06
+52,Susan Gomez,susan.gomez52,22,2003-12-21,Feminino,Trappe,PA,Estados Unidos,PlayStation,FPS,20,2020-01-29,475.9,793,7,244.39,2026-05-11
+53,Olivier Bourgeois,olivier.bourgeois53,42,1984-03-29,Masculino,Reynès,OCC,França,Xbox,Corrida,44,2019-09-17,1076.3,1499,27,912.84,2026-08-02
+54,Malcolm Moore,malcolm.moore54,42,1984-07-10,Masculino,Bilsthorpe,ENG,Reino Unido,PlayStation,Esportes,64,2018-09-27,1593.4,1304,0,0,2026-02-16
+55,Ágata Mena,agata.mena55,26,2000-06-27,Feminino,Primer Ensanche,Navarre,Espanha,PC,Ação,23,2018-06-04,565.5,583,0,0,2025-10-20
+56,Marie Boone,marie.boone56,55,1971-07-29,Feminino,Panorama Hills,AB,Canadá,PC,Estratégia,12,2016-04-13,295.3,238,20,723.27,2026-04-20
+57,Jacob Wright,jacob.wright57,46,1980-02-26,Masculino,Beechville,NS,Canadá,Xbox,RPG,100,2011-11-01,4067.8,1396,19,628.19,2026-01-11
+58,Matheus Novais,matheus.novais58,29,1996-11-05,Masculino,Tupaciguara,MG,Brasil,PC,Estratégia,27,2014-11-21,651.4,499,14,493.69,2025-09-09
+59,Alex Cousin,alex.cousin59,21,2004-10-14,Feminino,Plélo,Brittany,França,PC,Estratégia,6,2019-08-20,132.8,50,3,94.7,2026-01-31
+60,Elizabeth Green,elizabeth.green60,34,1991-10-21,Feminino,Firthcliffe,NY,Estados Unidos,PC,Corrida,5,2025-03-22,124.2,102,0,0,2026-06-03
+61,Maria Munoz,maria.munoz61,29,1997-03-29,Feminino,Midlothian,TX,Estados Unidos,PlayStation,Luta,10,2021-09-13,227.4,238,0,0,2026-06-20
+62,Jacob Smith,jacob.smith62,21,2005-03-25,Masculino,Orchard Homes,MT,Estados Unidos,PC,Estratégia,44,2018-12-05,1092.4,606,5,309.5,2025-09-03
+63,Ornella Branciforte,ornella.branciforte63,29,1997-01-12,Feminino,Cornaiano,32,Itália,PC,Estratégia,8,2013-02-03,186.1,179,0,0,2026-05-11
+64,Christopher Shaw,christopher.shaw64,38,1987-11-08,Masculino,Fulton,IL,Estados Unidos,Xbox,Corrida,91,2016-02-16,2274.6,1786,0,0,2026-05-15
+65,Salvador Galván,salvador.galvan65,41,1985-03-06,Masculino,Puerto de Chiquihuite,QUE,México,PC,Aventura,32,2011-06-06,796.5,656,23,762.88,2026-02-23
+66,Mariano Gonzales,mariano.gonzales66,52,1974-04-05,Masculino,El Cerrillo Vista Hermosa,MEX,México,Mobile,MOBA,24,2011-08-02,580.3,263,0,0,2025-09-19
+67,Calebe Araújo,calebe.araujo67,32,1994-06-03,Masculino,Santa Maria do Herval,RS,Brasil,PC,Aventura,4,2021-11-16,85.7,84,3,29.7,2026-04-10
+68,Gotthilf Rörricht,gotthilf.rorricht68,35,1990-10-15,Masculino,Rain,Bavaria,Alemanha,PC,Corrida,99,2011-09-20,2453.7,2221,28,912.83,2026-07-08
+69,Geneviève Pottier,genevieve.pottier69,38,1987-09-25,Feminino,Ger,New Aquitaine,França,PC,Estratégia,100,2011-05-18,4215.7,2606,30,937.18,2026-01-04
+70,Sylvie Perret,sylvie.perret70,19,2007-06-15,Feminino,Sarbazan,New Aquitaine,França,Xbox,Corrida,2,2025-09-07,29.8,19,1,39.9,2026-06-13
+71,Anthony Fernandez,anthony.fernandez71,28,1997-09-20,Masculino,Pointe-Claire,QC,Canadá,PC,Estratégia,20,2010-10-31,487.8,217,0,0,2026-02-24
+72,Honoré Godard,honore.godard72,23,2002-09-14,Masculino,Grenay,Rhône-Alpes,França,Xbox,Luta,5,2021-05-30,115.0,211,2,49.8,2025-09-11
+73,Joseph Cohen,joseph.cohen73,43,1983-01-07,Masculino,Riverdale,IL,Estados Unidos,PC,Aventura,7,2025-11-17,162.0,88,1,79.9,2026-03-20
+74,Lorenzo Kallert,lorenzo.kallert74,54,1972-03-14,Masculino,Daaden,RP,Alemanha,PC,Ação,3,2016-11-10,64.5,51,5,154.59,2025-10-24
+75,Claudine Legrand,claudine.legrand75,30,1995-12-10,Feminino,Upie,Rhône-Alpes,França,PlayStation,Ação,28,2021-04-23,690.4,956,2,34.89,2026-07-14
+76,Andres Mühle,andres.muhle76,43,1983-07-01,Masculino,Neckarzimmern,BW,Alemanha,Mobile,MOBA,4,2016-07-10,92.2,67,6,189.4,2025-12-28
+77,Jacques Carpentier,jacques.carpentier77,16,2010-04-09,Masculino,Colombiers,OCC,França,Xbox,Esportes,10,2024-04-16,238.9,164,0,0,2026-01-20
+78,Jared Hughes,jared.hughes78,31,1994-10-16,Masculino,Archdale,NC,Estados Unidos,PC,Ação,69,2013-04-23,1703.5,718,4,129.69,2026-06-26
+79,Ellinor Staude,ellinor.staude79,36,1990-05-15,Feminino,Bad Elster,Saxony,Alemanha,PlayStation,RPG,2,2025-01-11,31.2,9,0,0,2026-06-21
+80,Sigfried Holt,sigfried.holt80,36,1990-01-13,Masculino,Eselsberg,BW,Alemanha,PC,Ação,36,2010-01-28,896.1,608,24,872.69,2026-07-13
+81,Ligia Acero,ligia.acero81,35,1991-05-03,Feminino,Campaspero,Castille and León,Espanha,PC,Luta,1,2024-05-11,1.3,1,1,39.9,2026-02-05
+82,Leticia Puerta,leticia.puerta82,31,1995-04-10,Feminino,Càrcer,V,Espanha,PC,Esportes,16,2022-12-19,396.3,300,22,718.07,2025-12-14
+83,Éric Paris,eric.paris83,32,1993-12-31,Masculino,Peaugres,Rhône-Alpes,França,Xbox,FPS,51,2010-03-29,1260.1,2980,0,0,2026-08-15
+84,Mauro Godoy,mauro.godoy84,42,1984-02-24,Masculino,El Pedregal,Michoacán,México,PC,Ação,31,2014-01-09,762.7,318,0,0,2025-12-20
+85,Heather Hawkins,heather.hawkins85,49,1976-12-07,Feminino,Lionville,PA,Estados Unidos,Mobile,MOBA,12,2024-08-16,281.9,115,11,413.99,2025-12-31
+86,Gregorio Marroquín,gregorio.marroquin86,52,1974-08-13,Masculino,Tecalitlán,JAL,México,PC,MOBA,3,2020-04-19,74.8,63,1,14.9,2026-05-23
+87,María Manuela Madrid,maria.manuela.madrid87,52,1973-09-08,Feminino,Cucalón,AR,Espanha,PC,Corrida,18,2018-11-05,436.1,283,2,24.8,2026-02-19
+88,Richard Roy,richard.roy88,21,2005-05-22,Masculino,Malvern,PA,Estados Unidos,Xbox,Corrida,44,2019-11-23,1092.3,828,0,0,2026-05-31
+89,Rhavi Peixoto,rhavi.peixoto89,38,1987-12-03,Masculino,Aratiba,RS,Brasil,PC,Corrida,10,2024-04-06,245.0,225,0,0,2025-12-16
+90,Stephanie Arroyo,stephanie.arroyo90,22,2003-11-12,Feminino,West Vancouver,BC,Canadá,PC,Luta,18,2020-09-13,433.6,457,18,478.38,2026-04-15
+91,Lucia Romero,lucia.romero91,40,1986-08-26,Feminino,Alejo Ledesma,X,Argentina,PC,Aventura,14,2019-09-09,347.6,127,10,484.0,2026-08-31
+92,Kristin Smith,kristin.smith92,41,1985-02-20,Feminino,Shalvey,NSW,Austrália,Xbox,Ação,9,2024-12-08,204.8,148,7,229.39,2025-12-17
+93,Michael Ayers,michael.ayers93,36,1990-07-10,Masculino,Mount Riverview,NSW,Austrália,PC,Estratégia,99,2010-10-13,2465.7,1688,25,687.86,2025-12-23
+94,Cristina Goldoni,cristina.goldoni94,51,1975-04-19,Feminino,Mosso,Piedmont,Itália,PC,Luta,37,2012-07-12,903.9,772,19,663.46,2026-03-05
+95,Christiane Becker,christiane.becker95,22,2003-09-20,Feminino,Gatow,State of Berlin,Alemanha,PlayStation,Ação,18,2018-05-31,436.4,211,0,0,2026-04-04
+96,Aurore Duhamel,aurore.duhamel96,41,1985-03-25,Feminino,Bellegarde-en-Forez,Rhône-Alpes,França,PC,Estratégia,3,2025-10-28,54.8,30,0,0,2026-05-21
+97,Alfredo Espino,alfredo.espino97,27,1998-12-10,Masculino,San Pedro Coyutla,Veracruz,México,PlayStation,Survival,5,2020-06-11,104.7,101,3,114.79,2025-10-09
+98,Tonino Rossini,tonino.rossini98,23,2002-09-12,Masculino,Baratte,Piedmont,Itália,PlayStation,Survival,23,2019-03-20,557.4,543,0,0,2026-08-06
+99,Alejandro Covarrubias,alejandro.covarrubias99,42,1983-11-01,Masculino,Mavoro,MEX,México,Mobile,MOBA,2,2025-09-27,31.8,49,0,0,2026-02-05
+100,Evangelina Pablo,evangelina.pablo100,26,1999-10-16,Feminino,Zafarraya,Andalusia,Espanha,PlayStation,Esportes,5,2024-09-30,122.9,227,3,129.7,2026-08-28
+101,Marian Morton,marian.morton101,38,1987-10-19,Feminino,Llanfachraeth,Wales,Reino Unido,PC,Estratégia,100,2012-05-11,3244.1,2595,0,0,2025-10-25
+102,Sandra Cabezas,sandra.cabezas102,31,1994-12-03,Feminino,Albalatillo,AR,Espanha,PC,Estratégia,39,2021-09-11,972.2,354,0,0,2025-10-04
+103,Brenda Liu,brenda.liu103,24,2001-10-23,Feminino,Yountville,CA,Estados Unidos,PlayStation,Simulação,100,2017-03-24,3768.2,991,8,229.29,2026-07-10
+104,Laurent Gallet,laurent.gallet104,18,2007-11-29,Masculino,Montrouge,IDF,França,PlayStation,Ação,14,2024-10-08,327.5,217,21,778.08,2026-03-28
+105,Abel Mora,abel.mora105,25,2000-10-27,Masculino,Zucaina,V,Espanha,PlayStation,Simulação,40,2015-08-28,989.6,702,0,0,2025-09-15
+106,Danny Oderwald,danny.oderwald106,36,1990-07-02,Masculino,Ebermannstadt,Bavaria,Alemanha,Xbox,Aventura,43,2022-08-02,1072.3,567,0,0,2026-07-13
+107,Daniela Rörricht,daniela.rorricht107,50,1975-11-07,Feminino,Hesel,Lower Saxony,Alemanha,PC,Estratégia,5,2023-07-01,112.6,75,5,154.59,2026-05-30
+108,Michelle Brown,michelle.brown108,53,1973-01-07,Feminino,Mystic Island,NJ,Estados Unidos,Xbox,Survival,51,2012-05-11,1257.4,499,0,0,2026-04-06
+109,Rafaela Ayala,rafaela.ayala109,32,1994-01-29,Feminino,Ogíjares,Andalusia,Espanha,PC,Luta,1,2026-06-22,7.7,10,0,0,2026-07-24
+110,Samuel Gonçalves,samuel.goncalves110,24,2001-09-12,Masculino,Itaguara,MG,Brasil,Mobile,MOBA,3,2025-09-20,74.6,40,0,0,2026-03-25
+111,Manuel Romero,manuel.romero111,34,1991-10-23,Masculino,Noja,S,Espanha,PlayStation,Corrida,3,2011-12-06,64.9,83,3,64.7,2026-03-11
+112,Rose-Marie Möchlichen,rose-marie.mochlichen112,27,1999-01-25,Feminino,Samtens,MV,Alemanha,PC,Simulação,52,2020-05-29,1291.2,333,0,0,2025-11-13
+113,Elizabeth Campos,elizabeth.campos113,38,1988-01-06,Feminino,Babson Park,FL,Estados Unidos,Xbox,Corrida,100,2016-03-20,2716.2,1657,0,0,2026-01-28
+114,Aloys Johann,aloys.johann114,17,2008-12-08,Masculino,Oberwesel,RP,Alemanha,PlayStation,Luta,1,2026-06-03,7.9,8,1,39.9,2026-06-14
+115,Eileen Hammond,eileen.hammond115,28,1998-07-26,Feminino,Markyate,ENG,Reino Unido,Xbox,Luta,14,2020-08-12,349.5,337,14,488.78,2025-09-25
+116,Hermann-Josef Cichorius,hermann-josef.cichorius116,19,2007-08-23,Masculino,Altfraunhofen,Bavaria,Alemanha,PlayStation,Luta,9,2023-08-22,209.4,462,18,518.38,2026-04-28
+117,Vittoria Ovadia,vittoria.ovadia117,27,1999-02-05,Feminino,Osilo,Sardinia,Itália,Xbox,Ação,1,2025-11-21,10.3,14,1,19.9,2026-05-24
+118,Tina Abbagnale,tina.abbagnale118,54,1971-09-27,Feminino,Quercianella,Tuscany,Itália,Xbox,Esportes,12,2021-02-01,299.4,346,0,0,2025-09-26
+119,William Whitney,william.whitney119,51,1975-01-23,Masculino,Clayton,MO,Estados Unidos,Xbox,Aventura,63,2016-05-04,1569.7,782,8,364.29,2025-11-14
+120,Matthew Murray,matthew.murray120,48,1978-04-28,Masculino,Enoggera,QLD,Austrália,PlayStation,Simulação,40,2011-05-10,989.0,668,0,0,2025-12-10
+121,Anthony Goodwin,anthony.goodwin121,40,1985-12-25,Masculino,Kellyville Ridge,NSW,Austrália,Xbox,RPG,2,2026-07-12,36.3,21,0,0,2026-08-01
+122,Elliot Franklin,elliot.franklin122,32,1994-01-05,Masculino,Potsgrove,ENG,Reino Unido,Xbox,Simulação,9,2019-09-13,221.9,65,0,0,2026-07-29
+123,Édouard Lesage,edouard.lesage123,39,1987-07-26,Masculino,Tinténiac,Brittany,França,Xbox,Corrida,43,2022-03-17,1066.0,924,0,0,2026-04-17
+124,Abdul Burton,abdul.burton124,21,2005-02-28,Masculino,Oxford,ENG,Reino Unido,Xbox,Esportes,1,2020-07-04,12.2,7,0,0,2026-03-28
+125,Adam Harrington,adam.harrington125,40,1986-02-08,Masculino,Kings Bay Base,GA,Estados Unidos,Mobile,MOBA,5,2021-10-15,117.6,171,6,174.58,2025-09-14
+126,Brian Lawrence,brian.lawrence126,21,2005-03-12,Masculino,North Warren,PA,Estados Unidos,PlayStation,Luta,2,2025-02-24,32.6,77,0,0,2025-09-15
+127,Katherine Gibson,katherine.gibson127,49,1976-09-23,Feminino,Westford,MA,Estados Unidos,PlayStation,Esportes,42,2018-02-20,1027.3,615,28,1002.47,2025-11-17
+128,Otto Pinto,otto.pinto128,20,2005-10-03,Masculino,Paraopeba,MG,Brasil,PlayStation,FPS,1,2024-11-17,17.5,19,0,0,2026-01-14
+129,Thibaut Perret,thibaut.perret129,34,1991-12-09,Masculino,Revel,Rhône-Alpes,França,Xbox,RPG,59,2023-10-13,1457.1,389,26,812.76,2026-05-23
+130,Iván Salas,ivan.salas130,20,2006-01-14,Masculino,Tezhuatepec,PUE,México,PlayStation,Ação,2,2024-06-27,45.6,44,4,169.78,2026-03-06
+131,Darío Vives,dario.vives131,36,1990-05-04,Masculino,Culla,V,Espanha,Xbox,Luta,21,2018-08-08,502.0,1506,21,593.17,2025-12-20
+132,Georgina Valle,georgina.valle132,30,1996-07-17,Feminino,Tecuanipa,PUE,México,PC,Simulação,2,2022-07-22,26.7,13,0,0,2025-12-20
+133,Enzo Zichichi,enzo.zichichi133,51,1975-01-30,Masculino,Sant'Angelo in Lizzola,The Marches,Itália,PlayStation,FPS,24,2023-09-28,589.9,398,0,0,2026-01-27
+134,Gianni Lanfranchi,gianni.lanfranchi134,54,1972-01-02,Masculino,Brumano,Lombardy,Itália,Xbox,Survival,8,2019-12-30,195.3,124,10,379.09,2026-03-29
+135,Emily Richardson,emily.richardson135,38,1988-06-27,Feminino,Maugansville,MD,Estados Unidos,PlayStation,Simulação,7,2018-03-30,166.2,62,1,29.9,2026-08-20
+136,Michael Perez,michael.perez136,32,1993-12-10,Masculino,Tarragindi,QLD,Austrália,PlayStation,Esportes,100,2012-07-31,3034.6,2245,0,0,2025-11-25
+137,Pina Pareto,pina.pareto137,30,1995-10-12,Feminino,Pogliano Milanese,Lombardy,Itália,PlayStation,Ação,43,2015-02-21,1057.4,737,0,0,2026-08-06
+138,Jodi Ford,jodi.ford138,35,1990-11-16,Feminino,Williamsport,PA,Estados Unidos,PC,Ação,2,2022-02-11,39.9,28,2,84.89,2026-05-30
+139,Alice Wong,alice.wong139,37,1988-12-29,Feminino,Scarcroft,ENG,Reino Unido,PC,Survival,44,2011-03-31,1099.6,278,13,488.79,2026-02-23
+140,Rodolfo Contarini,rodolfo.contarini140,34,1992-06-23,Masculino,Avane,Tuscany,Itália,PlayStation,FPS,1,2023-08-20,16.8,24,1,29.9,2026-08-26
+141,Matthew Dixon,matthew.dixon141,55,1971-08-03,Masculino,Brooksville,MS,Estados Unidos,Xbox,FPS,8,2021-08-07,179.0,90,2,89.8,2026-08-08
+142,Karina Cruz,karina.cruz142,28,1998-03-08,Feminino,Santo Domingo,YUC,México,Xbox,Survival,3,2016-09-04,58.6,19,1,29.9,2026-04-12
+143,Samantha Snyder,samantha.snyder143,21,2005-05-04,Feminino,Yorkeys Knob,QLD,Austrália,PC,Ação,1,2025-08-03,14.1,11,1,29.9,2026-02-12
+144,Maryse Lebrun,maryse.lebrun144,26,1999-09-08,Feminino,Saint-Paul-des-Landes,Rhône-Alpes,França,Xbox,Simulação,49,2015-04-03,1220.4,967,18,533.47,2025-12-20
+145,Regina Mosley,regina.mosley145,34,1992-07-27,Feminino,Oakbrook Terrace,IL,Estados Unidos,PC,Aventura,1,2013-02-02,12.4,13,0,0,2026-03-08
+146,Craig Lee,craig.lee146,41,1985-01-16,Masculino,Goodview,MN,Estados Unidos,Xbox,Corrida,2,2016-07-07,33.5,69,0,0,2025-09-09
+147,Martin Nicholson,martin.nicholson147,17,2008-10-04,Masculino,Prescott,WI,Estados Unidos,PC,RPG,3,2023-03-02,62.0,22,2,49.8,2025-11-06
+148,Angelica Green,angelica.green148,53,1972-12-03,Feminino,Moonee Beach,NSW,Austrália,Xbox,Aventura,100,2015-08-23,2578.0,935,8,229.29,2026-03-16
+149,Olalla Amor,olalla.amor149,45,1981-08-29,Feminino,Vita,Castille and León,Espanha,PC,Survival,100,2010-08-27,2722.6,1681,0,0,2026-03-05
+150,George Hughes,george.hughes150,44,1982-08-06,Masculino,Barraba,NSW,Austrália,PlayStation,RPG,59,2021-01-25,1456.9,425,26,777.67,2026-04-09
+151,Rodolfo de la O,rodolfo.de.la.o151,31,1995-01-02,Masculino,San Miguel Tenango,PUE,México,PlayStation,Survival,49,2015-05-21,1219.0,384,9,159.19,2025-10-11
+152,Felix Finke,felix.finke152,39,1986-09-26,Masculino,Obersöchering,Bavaria,Alemanha,PlayStation,Ação,100,2013-01-05,6450.6,2734,5,244.5,2025-10-19
+153,Diego Olivo,diego.olivo153,24,2002-02-05,Masculino,Colonia Arboledas (San Andrés),MEX,México,Xbox,Corrida,1,2025-02-19,10.5,11,0,0,2026-04-10
+154,Michele Collodi,michele.collodi154,44,1982-08-06,Masculino,Abbadia Lariana,Lombardy,Itália,PC,Luta,3,2016-01-21,54.1,133,6,184.4,2026-04-06
+155,David Andrews,david.andrews155,47,1979-03-30,Masculino,Mosman,NSW,Austrália,PlayStation,Survival,21,2025-04-10,524.8,130,0,0,2025-10-17
+156,Amanda Lynch,amanda.lynch156,44,1982-07-19,Feminino,Jackson,TN,Estados Unidos,Xbox,Corrida,23,2024-03-18,574.1,477,27,762.57,2026-02-26
+157,Fritz Süßebier,fritz.suebier157,44,1982-01-12,Masculino,Kamen,North Rhine-Westphalia,Alemanha,PlayStation,Luta,38,2014-02-10,934.6,787,0,0,2026-05-15
+158,Leopoldo Bertolucci,leopoldo.bertolucci158,55,1971-08-12,Masculino,Sessa Cilento,72,Itália,PC,Luta,66,2014-06-18,1627.8,1398,10,379.09,2026-05-08
+159,Eugenia Cazares,eugenia.cazares159,43,1983-02-14,Feminino,Artículo Primero Constitucional,PUE,México,PlayStation,Simulação,100,2011-05-02,4285.8,1745,0,0,2026-01-25
+160,Clelia Emo,clelia.emo160,44,1982-02-03,Feminino,Oppido Mamertina,78,Itália,PlayStation,FPS,27,2019-03-17,668.7,885,13,418.79,2026-08-13
+161,Christine Owen,christine.owen161,48,1978-08-27,Feminino,East Markham,ENG,Reino Unido,PlayStation,Corrida,10,2014-05-08,229.6,169,0,0,2026-06-19
+162,Michelle Henry,michelle.henry162,29,1997-03-31,Feminino,Denman Island Trust Area,BC,Canadá,Mobile,MOBA,1,2014-11-30,1.4,1,0,0,2025-11-04
+163,Stanley Marsden,stanley.marsden163,21,2005-06-26,Masculino,Gronant,Wales,Reino Unido,PC,Survival,54,2022-07-03,1332.4,499,0,0,2025-11-02
+164,Remigio Gallart,remigio.gallart164,16,2010-03-06,Masculino,Brea de Tajo,M,Espanha,Xbox,RPG,10,2024-12-04,227.6,142,0,0,2025-10-17
+165,Amanda Vasconcelos,amanda.vasconcelos165,54,1972-06-10,Feminino,Santo Antônio da Platina,PR,Brasil,PlayStation,Esportes,9,2014-01-22,208.9,255,0,0,2025-09-06
+166,Klara Neuschäfer,klara.neuschafer166,34,1992-04-16,Feminino,Dachsenhausen,RP,Alemanha,Xbox,Corrida,1,2021-01-31,7.7,19,0,0,2026-01-22
+167,Frieder Hettner,frieder.hettner167,33,1993-04-13,Masculino,Unkel,RP,Alemanha,PC,MOBA,12,2017-12-28,293.1,360,17,698.3,2025-11-05
+168,John Moore,john.moore168,31,1995-04-05,Masculino,Dunn Loring,VA,Estados Unidos,PlayStation,RPG,2,2024-12-20,27.9,9,1,29.9,2026-04-22
+169,Pavel Ritter,pavel.ritter169,17,2008-12-02,Masculino,Fehrbellin,BB,Alemanha,Xbox,Survival,45,2022-05-19,1106.1,497,0,0,2026-05-12
+170,Georgina Mesa,georgina.mesa170,30,1996-08-20,Feminino,San Mateo Texcalyacac,MEX,México,PC,Simulação,100,2011-01-12,2823.2,2555,16,603.58,2026-01-19
+171,Lupe Mora,lupe.mora171,40,1986-06-07,Feminino,Villanueva del Fresno,EX,Espanha,PC,Survival,3,2024-02-14,55.9,21,2,44.89,2026-05-15
+172,Helena Mireles,helena.mireles172,23,2002-11-17,Feminino,Huatecalco,MOR,México,PC,Estratégia,12,2016-08-17,280.9,179,0,0,2026-01-17
+173,Raffaellino Zabarella,raffaellino.zabarella173,46,1979-12-11,Masculino,Viola,Piedmont,Itália,PC,Simulação,8,2015-09-27,191.6,182,15,408.68,2026-03-07
+174,Nadia Garibaldi,nadia.garibaldi174,25,2001-04-13,Feminino,Aquila di Arroscia,42,Itália,PlayStation,RPG,10,2024-08-17,241.5,196,13,433.7,2026-05-21
+175,Marie Charrier,marie.charrier175,34,1992-02-03,Feminino,Escoutoux,Rhône-Alpes,França,Xbox,Esportes,100,2013-01-21,5147.0,2909,9,224.19,2026-02-13
+176,Adrienne Leblanc,adrienne.leblanc176,18,2008-05-14,Feminino,Gémozac,New Aquitaine,França,Xbox,Survival,9,2021-08-14,200.1,79,0,0,2025-10-13
+177,Giuliana Tremonti,giuliana.tremonti177,39,1986-12-31,Feminino,Spigno Saturnia Superiore,62,Itália,PC,Estratégia,4,2020-06-02,92.5,59,0,0,2025-09-18
+178,Giorgio Littizzetto,giorgio.littizzetto178,55,1971-06-17,Masculino,San Nicola Manfredi,72,Itália,Xbox,Esportes,2,2025-07-30,49.4,32,0,0,2026-07-13
+179,Juliette Marchal,juliette.marchal179,37,1989-01-06,Feminino,Croulebarbe,IDF,França,PC,FPS,48,2018-02-12,1182.0,803,14,243.96,2026-06-06
+180,Milena Cassiano,milena.cassiano180,43,1983-06-13,Feminino,Pinhal Grande,RS,Brasil,PC,Survival,14,2024-07-04,335.2,88,2,139.8,2025-09-22
+181,Adam Crawford,adam.crawford181,26,2000-08-07,Masculino,Newton,AB,Canadá,PC,Ação,55,2019-10-27,1371.0,694,14,583.69,2026-05-28
+182,Heidi Robbins,heidi.robbins182,25,2001-04-28,Feminino,Colfax,IL,Estados Unidos,Xbox,Corrida,28,2015-07-30,698.8,1283,18,498.38,2026-04-11
+183,Danilo Guariento,danilo.guariento183,18,2008-03-29,Masculino,San Cataldo,Sicily,Itália,PC,FPS,6,2021-09-12,139.1,71,0,0,2026-07-22
+184,Bradley Irwin,bradley.irwin184,36,1990-08-01,Masculino,Wollongbar,NSW,Austrália,Xbox,Corrida,1,2015-09-04,10.0,16,1,39.9,2026-01-17
+185,Maria Losekann,maria.losekann185,48,1978-06-16,Feminino,Horrenberg,BW,Alemanha,Xbox,Aventura,8,2025-06-03,183.3,182,0,0,2026-06-28
+186,Alice Carpentier,alice.carpentier186,38,1987-10-19,Feminino,Auneuil,HDF,França,Xbox,Ação,32,2016-07-27,790.9,804,23,977.88,2026-05-11
+187,Olivia Medina,olivia.medina187,48,1978-01-25,Feminino,Justo Daract,D,Argentina,PlayStation,Aventura,8,2026-01-15,194.2,98,0,0,2026-04-02
+188,Concha Jover,concha.jover188,22,2003-12-03,Feminino,Illar,Andalusia,Espanha,PC,Aventura,12,2022-02-13,286.1,247,0,0,2026-07-23
+189,Joshua Horne,joshua.horne189,49,1976-12-29,Masculino,Darlington,WI,Estados Unidos,PC,Aventura,37,2010-08-13,924.2,736,0,0,2025-10-01
+190,Eloah Freitas,eloah.freitas190,33,1992-09-03,Feminino,Sarzedo,MG,Brasil,PC,Aventura,96,2013-07-29,2377.4,1244,23,782.97,2025-12-28
+191,Aurelio Agustín,aurelio.agustin191,45,1980-10-31,Masculino,Borjabad,Castille and León,Espanha,PlayStation,RPG,100,2013-10-01,2853.3,1572,0,0,2026-01-11
+192,Martina Naser,martina.naser192,36,1990-08-03,Feminino,Bollschweil,BW,Alemanha,Mobile,MOBA,15,2016-02-26,366.5,165,7,389.3,2026-05-03
+193,Robert Anderson,robert.anderson193,38,1988-01-14,Masculino,Wahneta,FL,Estados Unidos,PC,Estratégia,20,2025-02-13,479.2,286,1,79.9,2025-09-29
+194,Darío Camacho,dario.camacho194,53,1972-11-05,Masculino,Portezuelo,HID,México,PC,Simulação,9,2023-09-05,213.3,84,0,0,2026-05-15
+195,Hugh Parry,hugh.parry195,18,2008-03-30,Masculino,Cowes,ENG,Reino Unido,PlayStation,Aventura,10,2023-09-13,225.4,94,9,319.19,2025-10-27
+196,Marion Davis,marion.davis196,46,1980-06-02,Feminino,Newbiggin,ENG,Reino Unido,Xbox,Corrida,8,2023-01-29,177.5,288,28,1097.74,2026-06-24
+197,Jesse Hall,jesse.hall197,47,1978-12-17,Masculino,Hilmar-Irwin,CA,Estados Unidos,PlayStation,RPG,26,2019-01-13,640.7,500,26,967.67,2026-03-19
+198,William Fleming,william.fleming198,26,1999-12-12,Masculino,Whitby,ON,Canadá,PC,Estratégia,3,2022-06-23,56.3,33,0,0,2026-07-09
+199,Teresa Sloan,teresa.sloan199,52,1974-04-24,Feminino,Winterville,NC,Estados Unidos,PC,FPS,6,2010-04-15,133.6,96,2,109.8,2025-10-30
+200,David Cameron,david.cameron200,38,1988-07-14,Masculino,Lexington,ON,Canadá,PC,FPS,7,2017-11-26,151.9,162,0,0,2026-04-21
+201,Becky Stout,becky.stout201,40,1986-03-14,Feminino,Oyster Bay Cove,NY,Estados Unidos,Xbox,RPG,1,2026-05-11,3.7,3,1,29.9,2026-07-19
+202,Robert Vasquez,robert.vasquez202,33,1993-02-11,Masculino,Balaklava,SA,Austrália,Xbox,Ação,17,2022-03-17,419.0,444,24,717.87,2026-03-28
+203,Adelina Colom,adelina.colom203,39,1987-07-17,Feminino,Válor,Andalusia,Espanha,PC,Estratégia,2,2023-04-27,40.4,27,2,159.8,2026-03-29
+204,Mariana Martins,mariana.martins204,28,1997-12-17,Feminino,Santa Bárbara do Sul,RS,Brasil,PC,Corrida,16,2020-05-11,381.4,899,16,513.58,2025-09-11
+205,Amelia Berenguer,amelia.berenguer205,31,1995-03-22,Feminino,Sant Julià de Cerdanyola,Catalonia,Espanha,Xbox,Simulação,27,2015-10-30,651.4,635,26,817.67,2026-02-18
+206,Leticia Arriaga,leticia.arriaga206,51,1975-07-15,Feminino,Doctor González,NLE,México,PlayStation,Luta,23,2019-06-06,573.4,748,6,279.4,2026-07-08
+207,Kevin Lopez,kevin.lopez207,17,2009-08-08,Masculino,Eclectic,AL,Estados Unidos,Xbox,RPG,2,2026-02-19,36.1,11,1,4.99,2026-07-15
+208,Fernanda Nascimento,fernanda.nascimento208,42,1984-06-16,Feminino,Belém do Brejo do Cruz,PB,Brasil,PC,Corrida,1,2024-03-02,22.4,42,4,104.6,2025-09-05
+209,Sara Lee,sara.lee209,45,1980-09-29,Feminino,Riverside,CA,Estados Unidos,Xbox,Corrida,2,2021-11-23,37.6,79,2,109.8,2026-08-13
+210,Bradley Arias,bradley.arias210,55,1970-12-20,Masculino,Avon-by-the-Sea,NJ,Estados Unidos,PC,RPG,15,2016-04-08,357.2,135,0,0,2026-03-25
+211,Patricia Williams,patricia.williams211,35,1991-04-22,Feminino,Cottage Grove,OR,Estados Unidos,PlayStation,Aventura,80,2015-04-08,1984.4,2128,28,762.65,2025-09-24
+212,Rogelio Yuste,rogelio.yuste212,27,1999-07-03,Masculino,Ciudad Jardín,M,Espanha,Xbox,Ação,81,2019-01-19,2021.0,943,0,0,2026-02-05
+213,José Manuel Ayala,jose.manuel.ayala213,43,1983-04-18,Masculino,Aguilar del Río Alhama,RI,Espanha,PC,MOBA,6,2023-10-15,144.5,174,0,0,2025-11-21
+214,Elena Patberg,elena.patberg214,29,1997-02-12,Feminino,Neustadt in Holstein,SH,Alemanha,PC,Estratégia,19,2018-08-06,450.4,154,13,343.97,2026-02-17
+215,Felisa Carbajo,felisa.carbajo215,27,1999-03-04,Feminino,Grijalba,Castille and León,Espanha,PlayStation,Corrida,18,2017-10-21,434.9,651,18,608.47,2026-08-14
+216,Maitê Castro,maite.castro216,54,1972-01-08,Feminino,Matinha,MA,Brasil,Xbox,Corrida,7,2013-08-22,169.7,193,0,0,2026-01-02
+217,Bruno Prodi,bruno.prodi217,23,2003-06-12,Masculino,Castenaso,45,Itália,Xbox,Survival,59,2020-11-18,1474.9,358,0,0,2026-07-12
+218,Thomas Coleman,thomas.coleman218,41,1985-06-08,Masculino,South Townsville,QLD,Austrália,PC,Esportes,11,2018-07-03,263.1,198,19,548.1,2026-08-13
+219,Éléonore Torres,eleonore.torres219,26,2000-01-30,Feminino,Rosières-aux-Salines,Grand Est,França,PC,Ação,5,2021-08-20,121.7,90,0,0,2025-09-09
+220,Melissa White,melissa.white220,16,2010-01-24,Feminino,Grafton,NH,Estados Unidos,PlayStation,Ação,8,2024-09-14,186.0,86,0,0,2026-06-19
+221,Molly Brown,molly.brown221,34,1992-07-13,Feminino,Dupont,PA,Estados Unidos,PC,FPS,68,2011-07-09,1685.9,1097,27,1192.39,2026-02-27
+222,Benjamin Ollivier,benjamin.ollivier222,33,1993-06-08,Masculino,Paris 17 Batignolles-Monceau,IDF,França,PlayStation,Corrida,26,2016-01-28,629.8,417,24,847.87,2026-01-29
+223,Benjamin Prévost,benjamin.prevost223,28,1998-03-31,Masculino,Saint-Piat,CVL,França,Xbox,FPS,100,2011-07-16,3797.3,2969,0,0,2026-06-26
+224,Tonino Piovani,tonino.piovani224,33,1993-07-05,Masculino,Pennadomo,65,Itália,PlayStation,Survival,78,2017-09-25,1926.9,577,0,0,2026-03-05
+225,Alana Novais,alana.novais225,44,1981-11-29,Feminino,Descanso,SC,Brasil,PC,RPG,1,2021-03-14,7.1,2,1,9.9,2026-07-08
+226,Hannah Ramirez,hannah.ramirez226,42,1984-06-17,Feminino,Oaklands Park,SA,Austrália,PC,RPG,100,2016-01-19,2502.1,1212,0,0,2025-11-17
+227,Diane Jimenez,diane.jimenez227,46,1979-10-24,Feminino,Pinehurst,TX,Estados Unidos,PC,Survival,9,2020-05-24,224.1,99,0,0,2025-10-23
+228,María Berríos,maria.berrios228,31,1995-02-23,Feminino,Hermenegildo J. Aldana,Veracruz,México,PC,Esportes,1,2026-06-21,6.9,8,1,14.9,2026-07-30
+229,Hugues Bernard,hugues.bernard229,33,1993-07-17,Masculino,Magland,Rhône-Alpes,França,PC,Estratégia,100,2012-06-08,5594.7,2648,0,0,2025-10-29
+230,Odette Reynaud,odette.reynaud230,47,1978-10-24,Feminino,Auchy-les-Mines,HDF,França,PC,MOBA,9,2014-04-16,219.6,163,6,129.49,2026-05-14
+231,Annunziata Gatto,annunziata.gatto231,16,2009-10-14,Feminino,Pedrengo,Lombardy,Itália,PlayStation,FPS,8,2025-01-11,178.4,114,2,64.89,2026-04-16
+232,Laura Williams,laura.williams232,42,1984-01-02,Feminino,Luverne,AL,Estados Unidos,PC,FPS,2,2023-07-12,47.5,29,2,54.8,2026-06-06
+233,Charles Mcclure,charles.mcclure233,16,2009-12-04,Masculino,Jefferson,NC,Estados Unidos,Xbox,RPG,4,2026-03-07,81.7,25,2,59.8,2026-04-26
+234,Juan Pablo Cabrera,juan.pablo.cabrera234,49,1977-08-06,Masculino,Chapanay,M,Argentina,PC,Estratégia,44,2020-09-28,1091.9,683,27,912.57,2026-03-12
+235,Mason Brown,mason.brown235,17,2009-06-18,Masculino,Mora,NM,Estados Unidos,PlayStation,Ação,1,2022-12-02,23.4,27,0,0,2026-01-20
+236,Scott Golden,scott.golden236,54,1972-02-23,Masculino,Aldershot,QLD,Austrália,PC,Survival,72,2011-02-24,1796.6,808,22,618.25,2025-10-14
+237,Daniel Martin,daniel.martin237,30,1996-01-14,Masculino,Chase River,BC,Canadá,PC,Corrida,25,2023-06-03,620.2,624,0,0,2026-05-30
+238,Giovanni Guidotti,giovanni.guidotti238,29,1996-12-17,Masculino,Nasino-Borgo,42,Itália,PC,Luta,100,2010-09-13,2829.2,1970,0,0,2025-12-11
+239,Jonathan Hernandez,jonathan.hernandez239,23,2002-09-30,Masculino,Monterey Park,CA,Estados Unidos,PlayStation,Corrida,9,2021-03-24,216.3,331,0,0,2026-03-15
+240,Julie Calderon,julie.calderon240,23,2003-01-12,Feminino,Linden,AL,Estados Unidos,Xbox,FPS,3,2016-12-26,59.3,82,0,0,2025-11-22
+241,Isaac Tejada,isaac.tejada241,36,1990-04-15,Masculino,Santiago Tlaltepoxco,HID,México,PlayStation,FPS,18,2023-11-21,445.2,245,21,747.99,2025-10-06
+242,Tiffany Davis,tiffany.davis242,38,1988-01-24,Feminino,Bardia,NSW,Austrália,PC,Aventura,15,2016-08-29,369.4,219,7,154.39,2026-04-18
+243,Renata Gonzalez,renata.gonzalez243,50,1976-07-15,Feminino,Inriville,X,Argentina,PC,Simulação,42,2021-09-17,1044.1,289,3,69.88,2026-01-18
+244,Estefanía Merino,estefania.merino244,44,1981-09-15,Feminino,Quintanaélez,Castille and León,Espanha,Xbox,FPS,24,2019-08-12,592.3,894,0,0,2026-06-10
+245,Emma Gonzalez,emma.gonzalez245,50,1976-05-13,Feminino,Mutquin,K,Argentina,PC,Simulação,3,2023-12-21,68.3,27,2,19.8,2025-09-11
+246,Tracey Ellis,tracey.ellis246,51,1974-12-06,Feminino,Mintlaw,SCT,Reino Unido,Xbox,Ação,46,2021-03-31,1135.1,543,18,658.65,2026-02-21
+247,Heidi Clark,heidi.clark247,26,2000-04-05,Feminino,Kamloops,BC,Canadá,Xbox,Aventura,17,2014-04-20,418.9,260,0,0,2026-02-06
+248,Sara Saavedra,sara.saavedra248,29,1997-01-01,Feminino,Ocoyoacac,MEX,México,Mobile,MOBA,85,2018-11-09,2104.5,1135,19,478.55,2026-08-25
+249,Andrey Kade,andrey.kade249,35,1991-06-01,Masculino,Radeburg,Saxony,Alemanha,PC,Estratégia,11,2020-10-26,265.4,229,0,0,2026-07-01
+250,Ignacio Naranjo,ignacio.naranjo250,39,1987-04-13,Masculino,Tuxcacuesco,JAL,México,Xbox,Simulação,35,2019-10-24,869.4,260,0,0,2026-06-18
+251,Reginald Snyder,reginald.snyder251,49,1977-06-26,Masculino,Gateway,AK,Estados Unidos,PlayStation,RPG,100,2017-10-05,6400.5,1617,0,0,2026-08-18
+252,Ermenegildo Giolitti,ermenegildo.giolitti252,28,1997-11-05,Masculino,Castel Ritaldi,55,Itália,Xbox,FPS,1,2017-01-13,18.6,16,1,14.9,2026-01-31
+253,Michèle Arnaud,michele.arnaud253,28,1998-07-12,Feminino,Sierentz,Grand Est,França,PC,Estratégia,28,2020-01-09,690.8,348,27,922.57,2025-09-05
+254,Anthony Burnett,anthony.burnett254,41,1984-09-13,Masculino,New Brighton,PA,Estados Unidos,PC,Ação,100,2012-05-04,5307.0,2469,0,0,2026-07-09
+255,Ale Aparicio,ale.aparicio255,38,1988-07-30,Feminino,Vadillo de la Guareña,Castille and León,Espanha,PC,Aventura,7,2024-09-09,156.7,64,2,49.8,2025-09-24
+256,Michael Green,michael.green256,40,1985-11-17,Masculino,Salida,CO,Estados Unidos,PlayStation,Esportes,52,2010-04-02,1293.4,796,0,0,2026-07-21
+257,Tommy Elliott,tommy.elliott257,35,1990-12-16,Masculino,The Colony,TX,Estados Unidos,PC,Ação,2,2023-10-31,49.8,70,3,154.7,2026-02-12
+258,Isabella Käster,isabella.kaster258,48,1978-07-19,Feminino,Trebur,Hesse,Alemanha,Xbox,Survival,1,2025-10-21,8.8,5,1,4.99,2026-05-07
+259,Philippine Neveu,philippine.neveu259,19,2006-12-12,Feminino,Les Chartreux,Provence-Alpes-Côte d'Azur,França,Xbox,Luta,6,2023-02-25,128.8,195,5,154.5,2025-10-11
+260,Kyle Smith,kyle.smith260,40,1985-11-07,Masculino,McGregor,FL,Estados Unidos,Xbox,Luta,85,2011-10-27,2104.7,1719,10,359.09,2025-11-04
+261,Wilfrido Anguiano,wilfrido.anguiano261,33,1992-12-26,Masculino,Coyotitán,SIN,México,PC,Aventura,13,2022-06-27,321.0,129,4,149.78,2025-10-21
+262,Reinhold Geisel,reinhold.geisel262,41,1985-08-09,Masculino,Buckenhof,Bavaria,Alemanha,PC,Corrida,32,2012-08-19,788.5,470,0,0,2026-05-04
+263,Xavier Charrier,xavier.charrier263,51,1974-09-24,Masculino,Saint-Christophe-sur-le-Nais,CVL,França,Xbox,FPS,6,2020-12-01,131.1,145,0,0,2025-09-12
+264,Amando Giner,amando.giner264,47,1979-02-14,Masculino,San Blas-Canillejas,M,Espanha,PC,Esportes,13,2010-03-10,320.6,248,8,359.2,2026-06-20
+265,Franz Josef Noack,franz.josef.noack265,35,1991-03-21,Masculino,Waibstadt,BW,Alemanha,PC,Estratégia,3,2017-06-23,63.5,40,0,0,2025-09-09
+266,Carol Todd,carol.todd266,42,1984-03-09,Feminino,Oakdale,NY,Estados Unidos,PC,Luta,4,2014-07-20,88.5,237,4,124.69,2026-01-05
+267,Lorenzo Sampaio,lorenzo.sampaio267,43,1982-12-16,Masculino,Machadinho,RS,Brasil,PC,MOBA,10,2024-11-16,237.2,100,0,0,2026-06-27
+268,Alexa Wagner,alexa.wagner268,20,2006-07-20,Feminino,Gefell,Thuringia,Alemanha,PC,Ação,37,2020-11-20,918.6,545,10,234.27,2025-10-19
+269,Verónica Oliveras,veronica.oliveras269,29,1997-04-18,Feminino,Zamora,Castille and León,Espanha,Xbox,Simulação,26,2021-03-16,639.9,185,0,0,2025-12-02
+270,Resi Franke,resi.franke270,18,2008-01-17,Feminino,Teningen,BW,Alemanha,Xbox,Aventura,19,2021-12-02,455.9,169,8,324.29,2026-05-07
+271,Charles Louis,charles.louis271,49,1976-10-12,Masculino,Saint-Hippolyte-du-Fort,OCC,França,PC,Estratégia,2,2023-10-22,43.2,29,2,99.8,2026-04-19
+272,Riccardo Boezio,riccardo.boezio272,39,1987-01-24,Masculino,Perdaxius,Sardinia,Itália,Xbox,Esportes,20,2016-10-09,487.8,774,0,0,2025-11-27
+273,Carrie Lawrence,carrie.lawrence273,44,1982-08-10,Feminino,Soledad,CA,Estados Unidos,PlayStation,Simulação,50,2018-01-16,1241.9,606,0,0,2025-11-09
+274,Jacob Matthews,jacob.matthews274,32,1994-04-04,Masculino,Saugus,MA,Estados Unidos,PC,Estratégia,100,2012-01-31,2478.9,1294,0,0,2026-08-26
+275,Carlos Fischer,carlos.fischer275,16,2010-02-18,Masculino,Heretsried,Bavaria,Alemanha,PC,MOBA,2,2024-01-18,46.2,27,0,0,2026-07-21
+276,Noemí Gracia,noemi.gracia276,49,1977-01-12,Feminino,Acatempa,GRO,México,Xbox,Aventura,42,2021-09-01,1031.2,503,0,0,2026-05-24
+277,María José Alarcón,maria.jose.alarcon277,42,1984-05-04,Feminino,Villa Zaragoza,SLP,México,Mobile,MOBA,70,2018-11-11,1736.9,1569,10,419.0,2026-04-19
+278,Damian Wilson,damian.wilson278,27,1999-03-23,Masculino,Presteigne,Wales,Reino Unido,PlayStation,FPS,23,2015-03-25,553.9,710,2,94.8,2025-11-09
+279,Augusto Marconi,augusto.marconi279,16,2009-10-22,Masculino,Casteltodino,55,Itália,PlayStation,RPG,6,2023-05-27,128.9,33,3,59.7,2026-04-08
+280,Rubén Ruelas,ruben.ruelas280,27,1999-08-20,Masculino,Heroica Matamoros,TAM,México,PlayStation,Corrida,28,2019-10-26,681.5,794,0,0,2025-12-01
+281,Donato Iannuzzi,donato.iannuzzi281,39,1987-08-19,Masculino,Montresta,Sardinia,Itália,PC,MOBA,33,2019-11-21,802.3,485,3,99.79,2025-12-13
+282,Isaac Cantú,isaac.cantu282,17,2009-01-12,Masculino,San Antonio Rayón,TAM,México,PC,Estratégia,9,2023-11-05,205.5,88,7,334.39,2026-04-14
+283,Françoise Poulain,francoise.poulain283,47,1979-03-26,Feminino,Saint-Prouant,Pays de la Loire,França,PC,MOBA,5,2020-05-02,115.7,157,0,0,2026-06-06
+284,Frederike Becker,frederike.becker284,26,2000-07-15,Feminino,Bad Laer,Lower Saxony,Alemanha,PC,Aventura,100,2015-04-04,3841.3,1511,16,468.58,2025-11-04
+285,Luigina Civaschi,luigina.civaschi285,52,1974-08-27,Feminino,Concordia sulla Secchia,45,Itália,Xbox,Aventura,17,2015-06-27,402.9,367,16,578.58,2025-10-01
+286,Martine Dupuis,martine.dupuis286,39,1986-10-16,Feminino,Eyragues,Provence-Alpes-Côte d'Azur,França,PlayStation,Survival,8,2023-07-12,197.6,95,0,0,2026-04-27
+287,Marcelo Folch,marcelo.folch287,26,2000-05-22,Masculino,Gargüera,EX,Espanha,PC,Estratégia,7,2024-03-11,164.2,71,0,0,2026-01-13
+288,Carlos Ulibarri,carlos.ulibarri288,36,1990-07-10,Masculino,Adjuntas del Río,GUA,México,Xbox,Simulação,34,2023-02-09,839.5,468,0,0,2026-07-21
+289,Joseph Juarez,joseph.juarez289,40,1986-06-17,Masculino,Keansburg,NJ,Estados Unidos,PC,Survival,55,2017-01-03,1364.2,554,21,572.99,2026-01-31
+290,Isabella Acosta,isabella.acosta290,19,2007-02-08,Feminino,Pavón,B,Argentina,Xbox,RPG,97,2020-11-02,2407.2,808,26,662.67,2026-08-05
+291,Kevin Almeida,kevin.almeida291,17,2009-06-30,Masculino,Irapuã,SP,Brasil,Xbox,Simulação,23,2022-11-14,558.6,239,0,0,2026-06-10
+292,Gregory Edwards,gregory.edwards292,55,1971-08-02,Masculino,Fairfield Island,BC,Canadá,PlayStation,RPG,1,2026-05-24,22.1,7,0,0,2026-08-04
+293,Ester Costa,ester.costa293,37,1989-06-05,Feminino,Nova Bassano,RS,Brasil,PC,Esportes,31,2016-06-27,752.0,499,0,0,2025-11-21
+294,Tammy Obrien,tammy.obrien294,38,1987-10-31,Feminino,Weedpatch,CA,Estados Unidos,PC,RPG,37,2014-05-29,908.6,317,9,334.19,2026-08-19
+295,Esparta Garza,esparta.garza295,42,1983-12-08,Feminino,Los Ángeles,OAX,México,PlayStation,Aventura,15,2019-10-04,357.1,333,0,0,2026-08-01
+296,Hasan Dietz,hasan.dietz296,44,1981-10-27,Masculino,Oberröblingen,Saxony-Anhalt,Alemanha,Xbox,Survival,34,2012-04-22,825.0,210,1,19.9,2026-05-26
+297,Júlia Garcia,julia.garcia297,54,1972-07-28,Feminino,Boa Esperança do Iguaçu,PR,Brasil,Xbox,Ação,79,2012-04-30,1955.7,1098,0,0,2026-06-23
+298,Vito Salata,vito.salata298,46,1980-05-27,Masculino,Furtei,Sardinia,Itália,Xbox,Simulação,74,2017-10-13,1845.7,910,0,0,2025-09-29
+299,Suzanne Poirier,suzanne.poirier299,19,2007-06-26,Feminino,Salouël,HDF,França,PlayStation,RPG,77,2021-10-10,1912.7,823,20,653.18,2026-06-10
+300,Fernando Quintero,fernando.quintero300,41,1984-09-25,Masculino,Hueyapán,PUE,México,Xbox,Aventura,67,2011-08-18,1659.0,1039,0,0,2026-04-26
+301,André Caldeira,andre.caldeira301,42,1983-12-09,Masculino,Anguera,BA,Brasil,Mobile,MOBA,54,2012-10-18,1327.2,573,9,234.37,2026-06-05
+302,David Griffin,david.griffin302,24,2002-02-01,Masculino,Yulee,FL,Estados Unidos,Xbox,Ação,5,2023-10-04,106.0,86,0,0,2026-05-07
+303,Suzanne Jacquot,suzanne.jacquot303,31,1995-06-29,Feminino,Prahecq,New Aquitaine,França,Xbox,Ação,20,2010-10-02,496.1,265,0,0,2025-12-29
+304,Taylor Stewart,taylor.stewart304,53,1972-12-07,Masculino,Needville,TX,Estados Unidos,PC,Ação,51,2023-08-15,1271.1,533,22,692.98,2026-05-29
+305,Maya Sá,maya.sa305,55,1971-03-14,Feminino,Cotriguaçu,MT,Brasil,Xbox,Survival,23,2019-05-15,551.1,128,11,438.99,2026-04-22
+306,Júlia Fernandes,julia.fernandes306,55,1971-06-11,Feminino,Alpendurada,13,Portugal,PlayStation,Luta,4,2018-05-20,94.0,67,0,0,2025-11-28
+307,Léon Rossi,leon.rossi307,51,1975-03-27,Masculino,Hillion,Brittany,França,PlayStation,FPS,5,2023-03-10,104.8,67,0,0,2025-12-21
+308,Eric Garcia,eric.garcia308,55,1971-02-17,Masculino,Poseyville,IN,Estados Unidos,PC,Esportes,10,2021-04-16,225.9,162,12,488.8,2026-08-04
+309,Lisa Vezzali,lisa.vezzali309,28,1997-11-12,Feminino,Castiglione delle Stiviere,Lombardy,Itália,PC,Estratégia,4,2013-05-14,91.5,85,1,19.9,2026-05-04
+310,Gustavo Henrique Cirino,gustavo.henrique.cirino310,27,1998-11-10,Masculino,Santa Terezinha,SC,Brasil,PC,Ação,3,2023-11-11,57.4,56,4,129.78,2025-10-02
+311,Nico Bellucci,nico.bellucci311,17,2009-08-28,Masculino,Pontechianale,Piedmont,Itália,PC,Luta,2,2025-04-21,48.6,33,0,0,2026-06-05
+312,Lara Costela,lara.costela312,27,1999-02-02,Feminino,Pintadas,BA,Brasil,Xbox,Corrida,63,2015-05-02,1565.6,1211,0,0,2026-01-15
+313,Zacarías Barela,zacarias.barela313,28,1997-12-17,Masculino,Xilocuautla,PUE,México,PlayStation,Esportes,5,2015-04-18,121.3,230,12,303.89,2026-01-23
+314,Paola Morillo,paola.morillo314,24,2002-02-11,Feminino,Turre,Andalusia,Espanha,PlayStation,Simulação,13,2019-12-28,311.5,203,0,0,2025-09-10
+315,Alana Rodrigues,alana.rodrigues315,17,2009-04-17,Feminino,Cezarina,GO,Brasil,PC,FPS,18,2023-12-06,438.8,292,19,678.37,2025-11-13
+316,Victor Cummings,victor.cummings316,31,1995-06-07,Masculino,Farmington,MS,Estados Unidos,PC,MOBA,13,2013-09-11,317.7,271,0,0,2026-04-27
+317,Carolina Collado,carolina.collado317,41,1985-05-08,Feminino,Nicolás Bravo,TAM,México,Mobile,MOBA,42,2013-10-20,1036.5,1223,0,0,2026-08-29
+318,Salvador Villegas,salvador.villegas318,20,2006-03-31,Masculino,Tapias de Santa Cruz (Pedro Ruiz González),ZAC,México,PC,Luta,27,2021-07-29,653.9,747,0,0,2026-08-21
+319,Robert Walker,robert.walker319,33,1993-01-10,Masculino,Braintree,MA,Estados Unidos,PlayStation,Ação,2,2025-03-04,27.3,31,2,39.8,2026-04-12
+320,Christopher Shelton,christopher.shelton320,20,2006-04-24,Masculino,Bullaburra,NSW,Austrália,PC,Estratégia,20,2022-03-19,491.0,260,14,363.96,2026-06-29
+321,Darío Valadez,dario.valadez321,43,1982-11-10,Masculino,Santa María de los Ángeles,JAL,México,PlayStation,RPG,1,2023-12-27,9.5,3,0,0,2026-07-25
+322,Alexander Henderson,alexander.henderson322,47,1978-10-07,Masculino,LaFollette,TN,Estados Unidos,PlayStation,Corrida,2,2014-09-03,28.0,45,2,74.8,2025-10-12
+323,Allen Rios,allen.rios323,51,1974-11-28,Masculino,Creswick,VIC,Austrália,PC,Estratégia,90,2014-09-09,2237.4,877,0,0,2025-12-09
+324,Michael Andrade,michael.andrade324,47,1979-07-27,Masculino,Braidwood,NSW,Austrália,Xbox,Ação,25,2018-11-28,616.4,391,0,0,2026-04-23
+325,Eric Frederick,eric.frederick325,26,2000-03-03,Masculino,Everett,WA,Estados Unidos,Xbox,Survival,5,2023-08-06,117.1,74,3,39.79,2026-08-31
+326,Amelia Cuellar,amelia.cuellar326,53,1973-08-04,Feminino,San Isidro,JAL,México,PC,RPG,5,2018-11-26,111.2,102,6,174.58,2026-05-03
+327,Mitchell Ortiz,mitchell.ortiz327,50,1976-08-23,Masculino,Jabiru,NT,Austrália,PC,Survival,13,2013-10-02,302.8,146,0,0,2026-05-05
+328,Krista Johnston,krista.johnston328,51,1975-02-01,Feminino,Sparks,GA,Estados Unidos,PC,Survival,3,2011-11-13,67.7,31,0,0,2025-12-22
+329,Alexandrie Brunet,alexandrie.brunet329,32,1993-12-28,Feminino,Merville,HDF,França,PlayStation,Corrida,13,2022-05-23,307.9,420,14,413.6,2026-04-05
+330,Monique Singh,monique.singh330,27,1999-06-21,Feminino,Sayreville Junction,NJ,Estados Unidos,PlayStation,Corrida,29,2018-12-03,720.3,1513,29,752.37,2026-05-02
+331,Juan Carlos Carreón,juan.carlos.carreon331,50,1975-10-11,Masculino,La Lira,QUE,México,PC,Ação,100,2010-07-15,4541.4,2282,25,962.5,2026-05-18
+332,Davi Martins,davi.martins332,32,1993-12-14,Masculino,Pinheiro,RS,Brasil,PC,Corrida,13,2025-08-08,306.6,172,0,0,2026-06-02
+333,Mark Gonzalez,mark.gonzalez333,37,1988-10-25,Masculino,Palm Desert,CA,Estados Unidos,PC,Estratégia,100,2010-03-21,4794.1,1920,0,0,2025-10-28
+334,Paola Borrego,paola.borrego334,34,1992-01-12,Feminino,Acoapa,HID,México,Xbox,Survival,100,2016-02-04,3246.7,1196,17,558.48,2026-06-10
+335,Gertrudis Riera,gertrudis.riera335,45,1981-06-23,Feminino,Cristóbal,Castille and León,Espanha,PC,Esportes,53,2013-03-12,1307.8,1245,0,0,2025-11-16
+336,Vanessa Massey,vanessa.massey336,37,1989-03-23,Feminino,Chelsea,QC,Canadá,Xbox,Esportes,13,2023-07-14,314.4,337,25,937.77,2026-04-20
+337,Julia Lindsey,julia.lindsey337,28,1998-08-07,Feminino,Wheeler,TX,Estados Unidos,PC,Luta,43,2018-07-24,1071.6,847,0,0,2025-12-17
+338,Marie Renaud,marie.renaud338,55,1970-12-09,Feminino,Sainte-Geneviève,HDF,França,Xbox,Luta,18,2011-11-07,430.4,531,0,0,2025-12-29
+339,Abel Acosta,abel.acosta339,40,1985-09-20,Masculino,10 de Abril,GRO,México,PC,Simulação,10,2010-07-07,225.6,83,6,214.49,2026-08-08
+340,Fatma Schottin,fatma.schottin340,19,2006-09-19,Feminino,Liebschwitz,Thuringia,Alemanha,Xbox,Corrida,8,2025-07-13,194.3,150,0,0,2025-09-14
+341,Jade Nascimento,jade.nascimento341,45,1981-07-24,Feminino,Bom Sucesso do Sul,PR,Brasil,PlayStation,Corrida,12,2014-06-26,277.8,235,0,0,2026-07-26
+342,Wálter Lucas,walter.lucas342,49,1977-07-29,Masculino,Zucaina,V,Espanha,Mobile,MOBA,40,2018-02-15,991.5,477,12,249.16,2025-11-06
+343,Joe Becker,joe.becker343,25,2001-01-26,Masculino,Falcon,WA,Austrália,Xbox,RPG,6,2024-08-09,138.9,38,0,0,2026-04-09
+344,Jeffery Rivers,jeffery.rivers344,21,2004-11-16,Masculino,Tarrawanna,NSW,Austrália,Xbox,Ação,8,2023-08-08,176.4,121,0,0,2026-06-01
+345,Roy Chandler,roy.chandler345,41,1985-05-23,Masculino,Glen Allen,VA,Estados Unidos,PlayStation,Ação,1,2026-05-03,24.9,11,1,79.9,2026-07-14
+346,Lucia Niscoromni,lucia.niscoromni346,28,1997-09-03,Feminino,Castellafiume,65,Itália,PC,Corrida,4,2022-04-25,84.4,152,7,174.57,2026-05-15
+347,Timothy Montgomery,timothy.montgomery347,22,2003-11-05,Masculino,Diamond Head,HI,Estados Unidos,PC,Ação,8,2025-02-10,192.3,86,7,244.39,2025-09-27
+348,Ernestine Radisch,ernestine.radisch348,18,2007-11-19,Feminino,Wasserburg,Bavaria,Alemanha,PlayStation,RPG,12,2025-08-25,288.6,115,0,0,2026-08-22
+349,Donatello Ginesio,donatello.ginesio349,23,2002-11-21,Masculino,Villeneuve,Aosta Valley,Itália,PlayStation,Aventura,17,2022-04-14,405.9,220,0,0,2026-06-06
+350,Ana Ulibarri,ana.ulibarri350,46,1980-07-29,Feminino,Campestre las Palomas [Fraccionamiento],JAL,México,PC,FPS,2,2014-10-18,32.4,50,5,179.5,2026-05-02
+351,Blanca Ontiveros,blanca.ontiveros351,52,1974-05-28,Feminino,Casahuatlán,MOR,México,PC,MOBA,5,2021-07-25,106.2,58,3,59.79,2026-06-24
+352,Shirley Larson,shirley.larson352,29,1997-08-02,Feminino,Jamestown,NY,Estados Unidos,Xbox,Esportes,1,2021-08-02,19.4,48,0,0,2026-01-24
+353,James Paul,james.paul353,16,2010-08-04,Masculino,Eddyville,KY,Estados Unidos,PlayStation,RPG,5,2024-06-05,101.7,66,3,49.7,2026-02-02
+354,Tara Simmons,tara.simmons354,28,1997-11-26,Feminino,Jellico,TN,Estados Unidos,Xbox,Esportes,1,2021-01-05,0.9,1,0,0,2026-02-21
+355,Michelle Calderon,michelle.calderon355,41,1985-05-17,Feminino,Freeland,WA,Estados Unidos,PlayStation,Aventura,2,2015-07-13,42.3,47,3,44.7,2026-05-06
+356,Esparta Narváez,esparta.narvaez356,42,1984-02-09,Feminino,El Porvenir,OAX,México,Xbox,Corrida,35,2014-09-10,870.3,843,0,0,2025-10-25
+357,Alexandre Menard,alexandre.menard357,27,1999-01-09,Masculino,La Roque-d'Anthéron,Provence-Alpes-Côte d'Azur,França,Xbox,Aventura,7,2025-12-09,161.8,105,3,169.7,2025-12-11
+358,André Rocha,andre.rocha358,34,1992-06-07,Masculino,Pirpirituba,PB,Brasil,Xbox,Survival,5,2020-10-25,105.9,62,5,134.59,2025-11-16
+359,Natividad Espinosa,natividad.espinosa359,26,2000-03-20,Feminino,Sochiapa,Veracruz,México,PC,Estratégia,21,2018-09-03,520.0,242,0,0,2026-03-03
+360,John Dyer,john.dyer360,18,2008-07-29,Masculino,Hassall Grove,NSW,Austrália,PC,Ação,3,2025-10-11,60.9,41,0,0,2026-05-26
+361,Howard Begum,howard.begum361,19,2006-09-01,Masculino,Havant,ENG,Reino Unido,PlayStation,Survival,4,2021-08-08,97.0,23,2,24.8,2026-08-26
+362,Keith Wright,keith.wright362,50,1975-11-24,Masculino,Mono Vista,CA,Estados Unidos,Xbox,Esportes,3,2017-06-19,72.5,89,6,184.4,2026-08-08
+363,Vadim Eberth,vadim.eberth363,35,1990-10-07,Masculino,Langenhorn,HH,Alemanha,PC,Corrida,31,2014-05-10,768.6,649,0,0,2026-08-16
+364,Alexandre Camargo,alexandre.camargo364,47,1979-02-01,Masculino,Maquiné,RS,Brasil,PC,Estratégia,65,2022-06-29,1621.5,544,0,0,2026-04-24
+365,Michela Lercari,michela.lercari365,25,2000-12-28,Feminino,Reggio nell'Emilia,45,Itália,Xbox,Ação,36,2022-02-25,892.3,667,16,603.49,2026-08-21
+366,Raffaella Baroffio,raffaella.baroffio366,36,1989-11-29,Feminino,Diso,Apulia,Itália,Mobile,MOBA,14,2023-11-05,330.1,294,6,244.49,2026-05-23
+367,Gelsomina Draghi,gelsomina.draghi367,52,1974-03-16,Feminino,Stradella,Lombardy,Itália,PlayStation,Corrida,100,2017-01-07,2635.8,1793,0,0,2025-12-29
+368,Reza Mohaupt,reza.mohaupt368,52,1974-01-24,Masculino,Mixdorf,BB,Alemanha,PlayStation,Esportes,20,2014-10-08,488.4,303,6,209.49,2026-06-13
+369,Dorothe Knappe,dorothe.knappe369,55,1971-04-25,Feminino,Neuhaus am Inn,Bavaria,Alemanha,PlayStation,Esportes,3,2025-12-24,73.2,50,0,0,2026-02-13
+370,Josephine Johnson,josephine.johnson370,28,1997-10-16,Feminino,Grundisburgh,ENG,Reino Unido,Xbox,Aventura,31,2018-06-23,756.5,602,0,0,2026-01-05
+371,Lucía Suárez,lucia.suarez371,54,1971-12-31,Feminino,Nacuche,YUC,México,PlayStation,Survival,13,2017-11-18,300.6,96,6,224.49,2026-01-24
+372,Céline Marchand,celine.marchand372,51,1975-04-30,Feminino,Youx,Rhône-Alpes,França,PC,Estratégia,21,2021-08-27,518.5,269,21,847.99,2026-06-30
+373,Davi Jesus,davi.jesus373,28,1998-05-05,Masculino,Godoy Moreira,PR,Brasil,PC,Estratégia,12,2011-09-25,296.8,289,0,0,2025-10-05
+374,Scott Marquez,scott.marquez374,26,2000-02-09,Masculino,O'Neill,NE,Estados Unidos,PC,RPG,42,2023-02-20,1029.8,342,15,543.68,2026-08-05
+375,Janna Geisel,janna.geisel375,27,1999-05-03,Feminino,Bahnhof Reken,North Rhine-Westphalia,Alemanha,PlayStation,Survival,4,2017-06-29,88.1,59,1,39.9,2026-04-08
+376,Maik Anders,maik.anders376,39,1987-03-04,Masculino,Bad Soden-Salmünster,Hesse,Alemanha,PC,Estratégia,56,2018-02-02,1398.3,1404,29,1002.28,2026-05-21
+377,René Nuñez,rene.nunez377,32,1994-03-29,Masculino,Pajarón,Castille-La Mancha,Espanha,PC,Estratégia,19,2017-05-14,472.6,233,12,443.89,2025-12-06
+378,Megan Owen,megan.owen378,20,2005-09-15,Feminino,Stonegate,CO,Estados Unidos,PlayStation,Aventura,7,2023-12-10,157.2,179,17,463.48,2026-02-09
+379,Liberto Salgari,liberto.salgari379,54,1972-03-07,Masculino,Onzo,42,Itália,PlayStation,Ação,100,2010-01-18,5543.9,2491,0,0,2025-09-03
+380,Catherine Rossi,catherine.rossi380,16,2010-01-10,Feminino,Bonnières-sur-Seine,IDF,França,PlayStation,RPG,9,2025-02-20,213.1,193,0,0,2026-01-01
+381,Ashlee Robinson,ashlee.robinson381,48,1978-03-18,Feminino,Bay St. George South,NL,Canadá,PlayStation,Ação,44,2021-09-25,1086.7,746,3,104.7,2026-07-24
+382,Piergiorgio Innocenti,piergiorgio.innocenti382,45,1981-08-18,Masculino,Altare,42,Itália,PlayStation,FPS,16,2023-10-01,375.4,230,22,713.07,2025-11-15
+383,Úrsula Borrego,ursula.borrego383,40,1986-08-29,Feminino,Rincón de Buena Vista,Veracruz,México,Xbox,Ação,67,2014-01-22,1664.3,815,0,0,2025-10-07
+384,Gregory Collins,gregory.collins384,34,1992-05-08,Masculino,Converse,IN,Estados Unidos,PlayStation,Luta,3,2024-12-23,56.5,110,0,0,2026-02-04
+385,Bernardo Herrero,bernardo.herrero385,55,1971-03-29,Masculino,Valderrobres,AR,Espanha,Mobile,MOBA,31,2017-07-30,751.5,762,0,0,2026-07-01
+386,Maria Isis da Cruz,maria.isis.da.cruz386,52,1974-04-27,Feminino,Carmo,RJ,Brasil,PC,Luta,21,2019-11-09,502.3,395,5,189.59,2025-11-06
+387,Rolf-Dieter Mälzer,rolf-dieter.malzer387,32,1994-06-04,Masculino,Selters,RP,Alemanha,PC,Esportes,8,2022-04-13,195.7,188,0,0,2026-04-26
+388,Donna Ball,donna.ball388,24,2002-07-05,Feminino,Peterborough,ON,Canadá,Xbox,Ação,17,2015-12-07,412.2,310,1,39.9,2025-10-28
+389,João Valente,joao.valente389,46,1980-04-12,Masculino,Santarém,14,Portugal,Xbox,FPS,7,2019-07-22,160.4,151,0,0,2025-12-20
+390,Ian Duarte,ian.duarte390,48,1978-03-28,Masculino,Lagoa da Prata,MG,Brasil,PlayStation,Esportes,33,2012-08-24,808.7,775,0,0,2026-01-07
+391,Auguste Petit,auguste.petit391,29,1996-11-23,Masculino,Moyrazès,OCC,França,PlayStation,Luta,3,2021-01-24,69.5,94,8,194.2,2026-06-20
+392,Davi Miguel Sales,davi.miguel.sales392,28,1998-07-07,Masculino,Baía Formosa,RN,Brasil,Xbox,FPS,21,2019-02-09,501.9,280,0,0,2025-12-14
+393,Hugh Rose,hugh.rose393,31,1995-07-17,Masculino,East Wemyss,SCT,Reino Unido,Xbox,Survival,53,2010-03-03,1314.9,427,2,39.8,2025-12-19
+394,Calisto Capdevila,calisto.capdevila394,38,1987-09-11,Masculino,Urdazubi / Urdax,Navarre,Espanha,PC,Estratégia,28,2018-08-08,693.5,480,0,0,2026-08-27
+395,Fernanda Solé,fernanda.sole395,31,1994-09-12,Feminino,la Prosperitat,Catalonia,Espanha,PC,Corrida,25,2014-09-29,606.3,378,0,0,2025-12-08
+396,Petros Schomber,petros.schomber396,33,1993-08-16,Masculino,Höxter,North Rhine-Westphalia,Alemanha,PC,MOBA,10,2024-06-15,234.7,204,0,0,2026-07-22
+397,Lutz Rudolph,lutz.rudolph397,22,2004-08-03,Masculino,Gersdorf,Saxony,Alemanha,PlayStation,Esportes,1,2024-09-02,3.6,2,0,0,2025-11-28
+398,Folker Scheel,folker.scheel398,46,1980-03-03,Masculino,Friedrichroda,Thuringia,Alemanha,PlayStation,Survival,5,2014-10-08,107.5,26,0,0,2026-01-04
+399,Gina Tate,gina.tate399,52,1974-03-04,Feminino,Mount Nelson,TAS,Austrália,PC,Esportes,11,2019-02-26,274.4,527,0,0,2025-12-23
+400,Erdogan Rust,erdogan.rust400,25,2001-05-23,Masculino,Kiel,SH,Alemanha,PC,Corrida,49,2017-04-30,1207.2,968,20,693.0,2026-08-15
+401,Barbara Potter,barbara.potter401,43,1983-03-06,Feminino,Ashtead,ENG,Reino Unido,PlayStation,Simulação,7,2011-06-14,151.6,41,3,164.79,2026-04-12
+402,Wilfrido Bahena,wilfrido.bahena402,55,1971-01-17,Masculino,Fraccionamiento Privadas del Sol,Michoacán,México,PlayStation,Aventura,5,2010-06-03,103.4,56,1,39.9,2026-06-10
+403,Brian Brown,brian.brown403,53,1973-05-13,Masculino,Millville,NJ,Estados Unidos,PlayStation,Simulação,6,2017-09-05,131.6,126,10,244.09,2026-03-08
+404,Tamara Mcintosh,tamara.mcintosh404,32,1994-08-06,Feminino,Croydon North,VIC,Austrália,PlayStation,RPG,46,2018-06-09,1137.8,809,16,593.4,2026-03-29
+405,Adrian Price,adrian.price405,27,1998-09-28,Masculino,Wilton,ENG,Reino Unido,PC,Estratégia,18,2025-06-08,446.1,190,0,0,2026-04-02
+406,Lautaro Benjamin Sosa,lautaro.benjamin.sosa406,19,2006-11-07,Masculino,Costa de Araujo,M,Argentina,PC,MOBA,23,2022-11-29,557.6,224,0,0,2025-09-14
+407,Sandra Lopez,sandra.lopez407,36,1990-07-11,Feminino,Duncan,OK,Estados Unidos,PlayStation,Ação,1,2015-03-25,23.3,18,0,0,2026-08-26
+408,Stella Trussardi,stella.trussardi408,48,1977-11-16,Feminino,Terranova da Sibari,78,Itália,PC,Luta,44,2020-08-09,1085.5,772,3,69.7,2026-05-09
+409,Clarice Sá,clarice.sa409,41,1985-01-30,Feminino,Rodeiro,MG,Brasil,Xbox,Survival,64,2014-11-05,1575.7,454,0,0,2025-11-23
+410,Giorgio Maffei,giorgio.maffei410,20,2006-07-25,Masculino,Prato di Coppola,62,Itália,PC,Esportes,19,2022-08-14,463.6,248,9,244.28,2026-05-26
+411,Antoine Lemaire,antoine.lemaire411,24,2002-01-22,Masculino,Bining,Grand Est,França,PC,Esportes,42,2019-03-26,1029.4,517,0,0,2026-08-21
+412,Wilfrido Cazares,wilfrido.cazares412,45,1981-08-20,Masculino,Ciudad Coahuila (Kilómetro Cincuenta y Siete),BCN,México,PC,Survival,6,2025-01-20,131.3,56,0,0,2026-07-19
+413,Félix Quero,felix.quero413,52,1974-01-04,Masculino,Pozán de Vero,AR,Espanha,Xbox,Esportes,96,2010-09-04,2384.5,2021,0,0,2026-03-02
+414,Eduardo Andrade,eduardo.andrade414,26,2000-04-17,Masculino,Ciríaco,RS,Brasil,Xbox,Luta,6,2014-04-27,136.6,203,8,164.38,2025-11-16
+415,Christine Ehlert,christine.ehlert415,24,2002-03-15,Feminino,Rahm,North Rhine-Westphalia,Alemanha,PlayStation,Esportes,2,2020-11-19,33.2,17,0,0,2026-08-23
+416,Wendy Bryan,wendy.bryan416,19,2007-02-24,Feminino,Sturry,ENG,Reino Unido,PC,Estratégia,3,2025-12-30,51.1,33,0,0,2026-03-30
+417,Marilyn Morley,marilyn.morley417,26,2000-05-12,Feminino,Four Crosses,Wales,Reino Unido,PlayStation,Ação,15,2019-01-14,351.0,322,0,0,2025-11-10
+418,Florencia Melgar,florencia.melgar418,45,1981-03-08,Feminino,Tuzuapan,PUE,México,PlayStation,Survival,100,2012-07-24,5468.9,1925,3,84.7,2025-12-17
+419,Olivia Henríquez,olivia.henriquez419,23,2003-01-02,Feminino,Las Esperanzas,Coahuila,México,Xbox,Simulação,90,2019-12-30,2241.3,722,5,229.5,2025-10-23
+420,Reina Valverde,reina.valverde420,21,2005-01-21,Feminino,Valadeces,TAM,México,Xbox,FPS,10,2019-05-09,230.9,219,19,598.37,2026-04-29
+421,Anthony Harris,anthony.harris421,50,1976-01-15,Masculino,Essex Junction,VT,Estados Unidos,PlayStation,Survival,43,2014-09-21,1055.9,893,10,319.0,2025-11-30
+422,Esteban Lovato,esteban.lovato422,46,1979-09-11,Masculino,Guásimas (De Belem),SON,México,Xbox,Luta,5,2020-02-18,111.2,118,1,39.9,2026-08-10
+423,Eugenia Agostini,eugenia.agostini423,21,2005-02-09,Feminino,Prato di Coppola,62,Itália,Xbox,Simulação,14,2018-05-14,348.2,170,15,488.59,2026-03-04
+424,Kyle Patel,kyle.patel424,39,1987-03-29,Masculino,Edgware,ENG,Reino Unido,Xbox,Aventura,12,2012-05-02,292.4,102,0,0,2025-11-06
+425,Cody Gardner,cody.gardner425,38,1988-04-16,Masculino,Greenbriar,FL,Estados Unidos,Xbox,Survival,29,2022-04-30,704.7,675,12,299.07,2025-12-21
+426,Cynthia Lovato,cynthia.lovato426,48,1978-05-14,Feminino,Atenxoxola,GRO,México,PlayStation,Survival,77,2017-05-07,1903.1,1412,18,608.47,2026-08-11
+427,Angela Oneal,angela.oneal427,33,1993-05-06,Feminino,Cypress Gardens,FL,Estados Unidos,PlayStation,Aventura,7,2022-05-12,173.0,59,0,0,2026-02-14
+428,Rachel Evans,rachel.evans428,21,2005-05-07,Feminino,Cromer,ENG,Reino Unido,PlayStation,Simulação,81,2019-01-27,2001.3,685,0,0,2025-12-24
+429,Claudine Bigot,claudine.bigot429,50,1976-08-26,Feminino,Creney-près-Troyes,Grand Est,França,Mobile,MOBA,48,2017-02-11,1182.7,536,7,389.3,2025-12-02
+430,Gaetano Liebelt,gaetano.liebelt430,16,2009-10-15,Masculino,Eberswalde,BB,Alemanha,PlayStation,FPS,11,2024-05-26,270.6,167,10,334.0,2025-11-21
+431,Saverio Bragadin,saverio.bragadin431,37,1989-03-28,Masculino,Raffadali,Sicily,Itália,PC,Aventura,31,2014-11-25,759.7,363,10,324.18,2025-12-05
+432,Lauren Young,lauren.young432,45,1980-10-20,Feminino,New Milford,CT,Estados Unidos,Xbox,Luta,3,2021-12-19,52.4,97,0,0,2026-01-14
+433,Alex Charrier,alex.charrier433,33,1993-08-19,Feminino,Ableiges,IDF,França,Xbox,Survival,1,2026-08-11,2.8,1,0,0,2026-08-27
+434,Kyle Cooper,kyle.cooper434,24,2002-03-10,Masculino,Camborne,ENG,Reino Unido,PlayStation,RPG,4,2024-05-22,97.4,87,8,274.2,2025-12-09
+435,Gabriela Pimenta,gabriela.pimenta435,17,2009-01-14,Feminino,Darcinópolis,TO,Brasil,PC,Estratégia,4,2022-12-19,87.6,64,5,174.5,2026-03-05
+436,Frédéric Mathieu,frederic.mathieu436,37,1989-05-13,Masculino,Ondes,OCC,França,PC,Survival,46,2023-01-29,1144.1,336,0,0,2026-02-11
+437,Connor Jones,connor.jones437,50,1976-02-20,Masculino,Holbrook,NY,Estados Unidos,PlayStation,Corrida,62,2014-01-29,1541.9,1019,18,738.29,2025-12-28
+438,Luciana Salgari,luciana.salgari438,26,1999-12-05,Feminino,Carro,42,Itália,PC,FPS,51,2017-07-31,1269.6,1065,0,0,2026-02-19
+439,James Houston,james.houston439,41,1984-12-14,Masculino,Fairland,OK,Estados Unidos,Xbox,Corrida,10,2012-11-14,240.2,293,1,39.9,2026-04-18
+440,Jacopo Carosone,jacopo.carosone440,34,1992-04-21,Masculino,Arcisate,Lombardy,Itália,Xbox,Aventura,19,2012-02-24,458.0,241,2,89.8,2026-02-27
+441,Gerald Sutton,gerald.sutton441,49,1977-05-08,Masculino,Henley-on-Thames,ENG,Reino Unido,PC,Aventura,2,2022-08-31,45.3,47,1,79.9,2025-09-21
+442,Catarina Porto,catarina.porto442,29,1997-08-02,Feminino,Eugênio de Castro,RS,Brasil,PlayStation,Aventura,100,2018-10-27,3083.2,1043,0,0,2025-12-15
+443,Heidi Hanson,heidi.hanson443,38,1988-08-01,Feminino,Moama,NSW,Austrália,PC,Estratégia,34,2014-11-06,835.2,580,0,0,2025-10-07
+444,Audrey Lemonnier,audrey.lemonnier444,41,1985-06-02,Feminino,Bligny-lès-Beaune,Bourgogne,França,PC,Estratégia,23,2017-03-18,562.2,292,0,0,2025-12-02
+445,Luna Ribeiro,luna.ribeiro445,49,1977-02-24,Feminino,Iraí,RS,Brasil,Xbox,FPS,1,2026-07-11,9.7,5,1,59.9,2026-08-11
+446,Valentim Morais,valentim.morais446,21,2005-02-18,Masculino,Massamá,Lisbon,Portugal,PC,MOBA,58,2022-07-10,1434.8,634,0,0,2025-10-19
+447,Bertrand Poirier,bertrand.poirier447,50,1976-04-10,Masculino,Samatan,OCC,França,Xbox,Ação,89,2010-06-08,2203.3,1058,0,0,2025-12-21
+448,Angelina Sibilia,angelina.sibilia448,54,1972-01-09,Feminino,Corleto Perticara,Basilicate,Itália,PlayStation,Luta,17,2022-11-28,417.4,475,9,224.1,2025-09-05
+449,Isabel Brito,isabel.brito449,26,2000-03-28,Feminino,Horizonte,CE,Brasil,Xbox,RPG,9,2017-12-26,218.8,105,10,364.0,2026-01-29
+450,Grégoire Dubois,gregoire.dubois450,16,2010-03-30,Masculino,Rethel,Grand Est,França,PC,Luta,3,2025-11-08,51.7,48,3,179.7,2026-04-14
+451,David Hayes,david.hayes451,47,1979-07-22,Masculino,El Dorado Hills,CA,Estados Unidos,PC,Simulação,29,2012-10-25,719.9,188,18,553.56,2026-07-06
+452,Abril Pujol,abril.pujol452,55,1971-05-01,Feminino,Ajamil,RI,Espanha,Xbox,Ação,14,2018-06-22,349.3,250,17,513.39,2026-04-19
+453,Juan Carlos Bartolomé,juan.carlos.bartolome453,25,2001-06-04,Masculino,Mas de Barberans,Catalonia,Espanha,PlayStation,Aventura,100,2018-09-10,2748.0,1335,0,0,2026-08-17
+454,Erin Hunter,erin.hunter454,34,1991-10-09,Feminino,Independent Hill,VA,Estados Unidos,PC,Esportes,41,2019-08-02,1009.6,598,4,149.6,2026-01-26
+455,Antony Reid,antony.reid455,50,1975-09-16,Masculino,Gelligaer,Wales,Reino Unido,PC,Survival,34,2011-10-04,829.2,300,2,29.8,2026-01-20
+456,Michelle Mcbride,michelle.mcbride456,48,1977-10-12,Feminino,Lombard,IL,Estados Unidos,Xbox,Aventura,1,2024-11-03,2.0,1,1,59.9,2025-12-18
+457,Paulina Colón,paulina.colon457,55,1971-04-10,Feminino,Pantitlán,GRO,México,Xbox,Corrida,33,2022-01-07,820.4,636,18,673.29,2025-10-02
+458,Clara Câmara,clara.camara458,37,1988-12-10,Feminino,Jundiá,AL,Brasil,PC,Estratégia,13,2021-08-09,311.1,213,0,0,2026-03-03
+459,Jessica Taylor,jessica.taylor459,20,2005-10-11,Feminino,Danville,CA,Estados Unidos,Xbox,RPG,20,2024-07-10,475.5,227,8,299.38,2025-11-26
+460,Camillo Miniati,camillo.miniati460,48,1977-11-08,Masculino,Budrio,45,Itália,Xbox,Ação,33,2018-07-31,804.6,564,0,0,2025-12-20
+461,Gabriel Castillo,gabriel.castillo461,43,1983-07-17,Masculino,Miguel Hidalgo,TAB,México,Xbox,Survival,18,2025-08-10,439.7,114,0,0,2026-05-25
+462,Marguerite Garcia,marguerite.garcia462,32,1993-10-11,Feminino,Boucau,New Aquitaine,França,PC,Estratégia,8,2013-03-02,178.4,99,1,39.9,2026-07-26
+463,Marcantonio Bondumier,marcantonio.bondumier463,43,1983-08-02,Masculino,Santa Maria di Licodia,Sicily,Itália,PlayStation,Survival,30,2013-12-30,740.8,293,3,54.7,2026-06-28
+464,Christopher Fuller,christopher.fuller464,34,1991-12-24,Masculino,Melcher-Dallas,IA,Estados Unidos,PC,Ação,3,2025-05-04,64.6,55,0,0,2025-12-08
+465,David Carroll,david.carroll465,47,1979-01-30,Masculino,Cape Canaveral,FL,Estados Unidos,Xbox,Luta,30,2021-07-14,729.6,861,0,0,2026-05-11
+466,Jose Cunningham,jose.cunningham466,35,1990-11-09,Masculino,Ocean City,FL,Estados Unidos,PC,Esportes,3,2025-10-11,51.3,28,2,14.89,2025-12-30
+467,Marina Tassoni,marina.tassoni467,26,1999-11-28,Feminino,Chienes,32,Itália,PC,Survival,26,2025-03-08,636.4,144,2,44.8,2025-09-05
+468,Lourdes Saura,lourdes.saura468,35,1990-10-27,Feminino,Loscorrales,AR,Espanha,Mobile,MOBA,100,2010-01-05,3659.9,1746,8,249.38,2026-02-14
+469,Jason Deleon,jason.deleon469,49,1976-09-17,Masculino,Kearny,AZ,Estados Unidos,PlayStation,RPG,4,2021-06-15,86.0,64,1,29.9,2025-12-10
+470,Nicolás Alarcón,nicolas.alarcon470,25,2001-07-12,Masculino,Filomeno Mata,Veracruz,México,Xbox,RPG,23,2025-04-21,568.1,169,13,423.7,2026-08-30
+471,Nicodemo Fuentes,nicodemo.fuentes471,17,2009-06-04,Masculino,els Pallaresos,Catalonia,Espanha,PlayStation,Luta,5,2022-08-23,111.0,236,0,0,2026-05-08
+472,Santiago Nevárez,santiago.nevarez472,16,2009-11-07,Masculino,Ciudad Río Bravo,TAM,México,PC,RPG,5,2023-02-04,112.6,67,2,89.8,2026-06-18
+473,Yasmin Jäntsch,yasmin.jantsch473,20,2005-12-19,Feminino,Clausthal-Zellerfeld,Lower Saxony,Alemanha,Xbox,RPG,77,2020-06-27,1909.9,718,0,0,2025-10-09
+474,Olivier Reynaud,olivier.reynaud474,55,1971-05-23,Masculino,Gray,Bourgogne,França,Xbox,Luta,51,2012-04-06,1272.9,1312,0,0,2026-02-22
+475,Claire Jacquot,claire.jacquot475,45,1980-10-23,Feminino,Peille,Provence-Alpes-Côte d'Azur,França,Xbox,Ação,4,2022-12-14,82.6,91,5,159.68,2026-05-30
+476,Luisa Soto,luisa.soto476,34,1992-08-05,Feminino,Colonia Benito Juárez,HID,México,PC,Esportes,5,2025-01-10,106.6,74,1,9.9,2026-03-13
+477,Donata Jacobi Jäckel,donata.jacobi.jackel477,41,1985-08-28,Feminino,Neutraubling,Bavaria,Alemanha,PlayStation,Corrida,16,2017-03-06,381.5,788,27,732.66,2026-06-05
+478,Sandra King,sandra.king478,27,1999-04-05,Feminino,Doubleview,WA,Austrália,PC,Estratégia,12,2017-06-21,283.8,226,0,0,2026-08-27
+479,Carrie Moody,carrie.moody479,23,2003-04-26,Feminino,Everett,PA,Estados Unidos,Mobile,MOBA,61,2019-03-09,1523.2,858,4,174.69,2026-04-04
+480,Gretl Linke,gretl.linke480,22,2004-02-06,Feminino,Nehren,BW,Alemanha,PlayStation,Survival,26,2021-07-26,639.9,454,17,518.39,2026-03-05
+481,María Elena Guajardo,maria.elena.guajardo481,51,1975-03-26,Feminino,La Palma,GUA,México,PC,Corrida,2,2025-02-05,49.3,34,2,44.89,2026-07-16
+482,Tina Gutknecht,tina.gutknecht482,26,1999-09-12,Feminino,Leinzell,BW,Alemanha,Xbox,Corrida,39,2014-10-06,954.9,1295,17,593.48,2025-10-28
+483,Adelia Saez,adelia.saez483,49,1976-09-09,Feminino,Arellano,Navarre,Espanha,Xbox,FPS,2,2024-03-12,44.7,64,0,0,2026-07-15
+484,Benjamin Howe,benjamin.howe484,23,2002-09-16,Masculino,View Royal,BC,Canadá,PlayStation,Simulação,38,2018-10-01,929.3,563,0,0,2025-09-08
+485,Erika Capecchi,erika.capecchi485,18,2008-05-03,Feminino,Armeno,Piedmont,Itália,PC,Simulação,1,2025-12-11,17.4,6,1,19.9,2026-08-05
+486,Mary Williams,mary.williams486,50,1975-12-08,Feminino,Cranbourne East,VIC,Austrália,Xbox,RPG,11,2010-07-31,263.8,104,0,0,2026-05-31
+487,Kyle Nelson,kyle.nelson487,36,1990-06-18,Masculino,Huntington Bay,NY,Estados Unidos,PlayStation,Luta,3,2010-05-12,56.5,178,13,383.79,2026-06-12
+488,Sönke Kraushaar,sonke.kraushaar488,49,1977-04-11,Masculino,Dornheim,Hesse,Alemanha,Mobile,MOBA,31,2018-01-11,770.2,426,9,369.1,2025-11-14
+489,Alphonse Le Goff,alphonse.le.goff489,18,2008-04-05,Masculino,Saint-Estèphe,New Aquitaine,França,PlayStation,FPS,8,2025-12-11,187.7,104,0,0,2026-08-24
+490,Oswaldo Rentería,oswaldo.renteria490,28,1998-05-03,Masculino,Álamo,Veracruz,México,PC,RPG,53,2014-05-15,1316.5,359,17,573.39,2026-08-28
+491,Daniel Benavídez,daniel.benavidez491,43,1983-05-23,Masculino,Carrillo Puerto,Veracruz,México,Mobile,MOBA,33,2020-10-02,811.9,806,0,0,2026-02-12
+492,Vicente Benito,vicente.benito492,43,1983-03-22,Masculino,Muñico,Castille and León,Espanha,PlayStation,Luta,14,2021-07-31,326.2,306,9,209.37,2025-11-08
+493,Martina Acuña,martina.acuna493,22,2004-06-26,Feminino,Chichinales,R,Argentina,PC,Estratégia,1,2023-11-12,2.5,2,1,59.9,2026-07-06
+494,Laura Soranzo,laura.soranzo494,44,1982-06-30,Feminino,Levada,34,Itália,PC,Luta,1,2023-10-22,22.0,36,2,109.8,2026-02-28
+495,Sara Pugh,sara.pugh495,28,1998-07-27,Feminino,Arana Hills,QLD,Austrália,PlayStation,Aventura,4,2026-03-13,77.9,83,7,179.48,2026-08-20
+496,Kelly Swanson,kelly.swanson496,39,1986-11-25,Feminino,Sciotodale,OH,Estados Unidos,PC,Simulação,20,2024-06-24,483.4,146,12,343.8,2026-08-30
+497,Sébastien Weber,sebastien.weber497,43,1982-12-02,Masculino,Saint-Martin-de-Seignanx,New Aquitaine,França,PC,Estratégia,20,2024-04-07,487.6,172,15,463.68,2026-05-26
+498,Patricia Vilar,patricia.vilar498,18,2008-06-06,Feminino,Gotor,AR,Espanha,PC,Estratégia,28,2021-06-17,697.4,757,23,608.06,2025-11-04
+499,Chad Brown,chad.brown499,52,1973-12-10,Masculino,Dickson City,PA,Estados Unidos,Xbox,Esportes,5,2014-04-29,124.3,154,0,0,2026-02-17
+500,Roberta Ajello,roberta.ajello500,41,1985-08-11,Feminino,Boissano,42,Itália,PC,Survival,34,2023-02-28,836.3,440,22,737.98,2025-11-10
+501,Mariane Aragão,mariane.aragao501,36,1989-12-13,Feminino,Redenção da Serra,SP,Brasil,Xbox,Ação,100,2013-01-20,3333.3,1822,19,473.37,2026-04-18
+502,Durante Marrone,durante.marrone502,18,2008-02-14,Masculino,Gorno,Lombardy,Itália,PC,Survival,1,2023-02-22,20.0,5,0,0,2025-12-22
+503,Lucia Acerbi,lucia.acerbi503,21,2004-11-28,Feminino,Arosio,Lombardy,Itália,PlayStation,RPG,27,2019-08-13,664.1,261,0,0,2026-02-23
+504,Claire Thorpe,claire.thorpe504,35,1990-10-25,Feminino,Keele,ENG,Reino Unido,PC,Ação,34,2012-12-24,848.9,909,0,0,2026-01-03
+505,William Cole,william.cole505,51,1975-01-01,Masculino,Fowler,CA,Estados Unidos,PlayStation,RPG,42,2014-03-18,1042.4,596,0,0,2026-05-03
+506,Kelly Gould,kelly.gould506,46,1980-07-25,Feminino,Red Oak,IA,Estados Unidos,PC,Estratégia,9,2012-09-19,207.8,146,2,44.89,2025-10-15
+507,Josefina Paz,josefina.paz507,24,2002-08-29,Feminino,Ibarreta,P,Argentina,PC,RPG,5,2023-05-03,104.3,65,0,0,2025-10-12
+508,Sarah Collins,sarah.collins508,32,1994-05-10,Feminino,Northolt,ENG,Reino Unido,PC,Ação,5,2023-09-08,100.4,85,0,0,2026-05-03
+509,Mateus Lopes,mateus.lopes509,36,1990-07-25,Masculino,Itabira,MG,Brasil,Mobile,MOBA,4,2022-12-16,88.3,54,0,0,2025-12-07
+510,Kimberly Galvan,kimberly.galvan510,27,1999-01-07,Feminino,Watford City,ND,Estados Unidos,PC,Ação,7,2013-11-06,155.4,77,0,0,2025-12-26
+511,Iván Jordá,ivan.jorda511,48,1978-06-04,Masculino,Vallgorguina,Catalonia,Espanha,PlayStation,Luta,10,2023-04-12,239.9,288,0,0,2025-12-04
+512,Tanya Harris,tanya.harris512,52,1974-04-26,Feminino,Centerville,PA,Estados Unidos,PC,Estratégia,39,2016-09-19,953.6,410,0,0,2025-11-25
+513,Sabine Giraud,sabine.giraud513,41,1985-04-25,Feminino,Méounes-lès-Montrieux,Provence-Alpes-Côte d'Azur,França,PC,Corrida,63,2013-01-20,1569.2,949,13,438.79,2026-04-22
+514,Estela Sauceda,estela.sauceda514,20,2005-12-30,Feminino,Santa Isabel [Fraccionamiento],AGU,México,Xbox,Luta,8,2020-11-21,178.5,403,0,0,2026-08-25
+515,Gemma Harrison,gemma.harrison515,37,1989-04-07,Feminino,Hawick,SCT,Reino Unido,PlayStation,Corrida,12,2016-07-16,299.3,382,8,249.29,2026-01-25
+516,Neil Morgan,neil.morgan516,54,1972-01-28,Masculino,Great Paxton,ENG,Reino Unido,PC,RPG,24,2010-12-10,594.4,151,0,0,2026-02-18
+517,Travis Graham,travis.graham517,45,1981-01-17,Masculino,Pawling,NY,Estados Unidos,PC,Survival,80,2020-08-19,1976.1,588,0,0,2026-08-18
+518,Noémi Renaud,noemi.renaud518,55,1970-10-16,Feminino,L'Isle-sur-la-Sorgue,Provence-Alpes-Côte d'Azur,França,PlayStation,Ação,100,2010-11-10,3192.7,1901,0,0,2026-03-19
+519,Rhonda Burch,rhonda.burch519,38,1988-02-23,Feminino,Beggs,OK,Estados Unidos,PC,Estratégia,100,2013-03-21,3904.8,1547,0,0,2025-10-22
+520,Dawn Lewis,dawn.lewis520,18,2008-04-30,Feminino,Menard,TX,Estados Unidos,PlayStation,Corrida,4,2024-08-01,81.5,121,0,0,2026-03-31
+521,Alvaro Bustamante,alvaro.bustamante521,26,2000-01-23,Masculino,San Pedro Nichtalucum,CHP,México,PC,MOBA,50,2023-12-12,1229.8,553,0,0,2026-04-22
+522,Lunna Jesus,lunna.jesus522,24,2002-03-22,Feminino,Carvoeira,SC,Brasil,PlayStation,FPS,10,2018-02-14,245.7,394,0,0,2026-08-31
+523,Elias Longoria,elias.longoria523,27,1998-09-23,Masculino,Tzintzuntzan,Michoacán,México,Xbox,RPG,82,2023-09-12,2044.4,536,24,792.69,2025-10-26
+524,Dean Holmes,dean.holmes524,52,1973-09-10,Masculino,Amersham on the Hill,ENG,Reino Unido,Xbox,Ação,6,2017-06-25,141.1,61,6,119.49,2026-05-28
+525,Cecilia Naccari,cecilia.naccari525,25,2001-06-29,Feminino,Oglianico,Piedmont,Itália,PlayStation,Luta,2,2020-02-13,49.7,146,8,314.2,2025-09-30
+526,Esther Sosa,esther.sosa526,44,1982-08-26,Feminino,Irámuco,GUA,México,Xbox,Esportes,34,2021-01-19,837.9,499,0,0,2025-11-08
+527,Élise Buisson,elise.buisson527,19,2007-02-25,Feminino,Sauzet,Rhône-Alpes,França,PC,Estratégia,50,2020-08-20,1248.5,1049,3,119.7,2026-01-08
+528,Gavin Peacock,gavin.peacock528,50,1976-01-21,Masculino,Dorking,ENG,Reino Unido,Xbox,Luta,2,2014-11-16,40.9,54,0,0,2026-04-16
+529,Lucie Boyer,lucie.boyer529,35,1991-06-03,Feminino,La Bohalle,Pays de la Loire,França,Xbox,Corrida,12,2012-02-10,279.4,254,9,384.19,2026-06-21
+530,Kevin Zhang,kevin.zhang530,25,2000-11-03,Masculino,Pegs Creek,WA,Austrália,PC,MOBA,40,2022-01-31,989.0,464,30,822.36,2025-12-19
+531,Oswaldo Menchaca,oswaldo.menchaca531,17,2009-04-29,Masculino,San Ignacio de Rivera (Ojo de Agua),GUA,México,PC,Survival,3,2025-12-06,68.8,26,1,39.9,2026-05-03
+532,Anne Guyot,anne.guyot532,47,1979-02-26,Feminino,Chaingy,CVL,França,Xbox,RPG,59,2022-05-17,1466.5,436,22,462.98,2026-06-26
+533,Jesse Foster,jesse.foster533,44,1982-07-04,Masculino,Saint-Louis-de-Terrebonne,QC,Canadá,PC,Aventura,100,2010-02-05,4083.6,2041,0,0,2025-10-08
+534,Odalis Bárcena,odalis.barcena534,53,1973-05-19,Feminino,Numancia,M,Espanha,PC,MOBA,47,2018-04-22,1168.4,498,15,379.04,2025-10-02
+535,Teresa Jensen,teresa.jensen535,44,1981-09-25,Feminino,Hillen,MD,Estados Unidos,PlayStation,Esportes,2,2025-06-03,26.1,20,2,34.8,2026-04-24
+536,Sara Cavalcanti,sara.cavalcanti536,49,1977-02-22,Feminino,São José do Cedro,SC,Brasil,Mobile,MOBA,100,2011-10-07,3085.4,1299,0,0,2026-02-04
+537,Josephine Hall,josephine.hall537,46,1980-03-17,Feminino,Sedgefield,ENG,Reino Unido,PC,Ação,7,2012-07-22,154.6,112,0,0,2026-08-11
+538,Amanda Clark,amanda.clark538,45,1981-07-31,Feminino,Highland Heights,OH,Estados Unidos,PC,Corrida,9,2021-09-04,208.2,238,0,0,2026-01-02
+539,Ralph Peterson,ralph.peterson539,53,1972-11-19,Masculino,Annandale,QLD,Austrália,PC,RPG,53,2015-10-01,1311.5,460,11,263.9,2025-09-17
+540,Angelina Diaz,angelina.diaz540,30,1995-12-29,Feminino,Victorica,L,Argentina,PC,Estratégia,3,2025-12-19,56.5,37,0,0,2026-04-05
+541,Christian Ferrell,christian.ferrell541,51,1975-04-17,Masculino,Moama,NSW,Austrália,PlayStation,Esportes,33,2021-07-27,804.1,741,13,373.97,2026-05-20
+542,Anthony Willis,anthony.willis542,36,1990-01-29,Masculino,Caledonia,WI,Estados Unidos,Xbox,Esportes,100,2013-04-25,2478.4,2698,18,428.74,2025-09-13
+543,Joyce Thomas,joyce.thomas543,26,1999-11-23,Feminino,Uppermill,ENG,Reino Unido,PC,RPG,3,2021-10-22,61.8,17,1,29.9,2026-06-10
+544,Brandon Rosales,brandon.rosales544,40,1985-12-07,Masculino,Oaklands Park,SA,Austrália,Xbox,Simulação,57,2018-07-16,1403.6,513,0,0,2026-03-02
+545,Marcos Briones,marcos.briones545,54,1972-02-06,Masculino,La Concha (La Concepción),SIN,México,PlayStation,Luta,4,2018-04-12,88.5,145,0,0,2026-03-09
+546,Tristan Bernier,tristan.bernier546,42,1984-05-04,Masculino,Buros,New Aquitaine,França,PlayStation,FPS,19,2011-05-19,474.8,296,27,827.84,2025-12-08
+547,Todd Chan,todd.chan547,28,1998-03-31,Masculino,Union Springs,NY,Estados Unidos,Xbox,Survival,32,2018-01-18,795.7,673,0,0,2025-10-04
+548,Daniel Powell,daniel.powell548,45,1980-11-06,Masculino,Mosman Park,WA,Austrália,PC,Luta,3,2023-09-29,57.0,49,2,24.89,2025-09-13
+549,Benjamin Jones,benjamin.jones549,23,2003-01-24,Masculino,Brownsfield,LA,Estados Unidos,PlayStation,Esportes,16,2023-04-27,388.6,522,0,0,2026-05-22
+550,Nilo Torres,nilo.torres550,31,1994-10-04,Masculino,Tosos,AR,Espanha,PlayStation,Corrida,2,2016-03-07,28.2,26,0,0,2026-03-15
+551,Robert Bass,robert.bass551,20,2006-03-27,Masculino,Bohners Lake,WI,Estados Unidos,PC,MOBA,9,2020-10-31,216.7,299,18,673.2,2026-04-09
+552,Teodora Jover,teodora.jover552,45,1980-12-16,Feminino,Ourol,Galicia,Espanha,PC,Ação,31,2018-04-14,761.2,630,0,0,2026-04-26
+553,Diego Alfaro,diego.alfaro553,55,1971-04-02,Masculino,San Andrés Metla,MEX,México,PlayStation,RPG,57,2013-07-22,1424.9,926,3,94.79,2026-07-23
+554,Tatiana Pirandello,tatiana.pirandello554,45,1981-03-12,Feminino,Prelà Castello,42,Itália,Xbox,Aventura,7,2022-04-08,162.8,151,5,139.5,2026-04-21
+555,Maurilio Canil,maurilio.canil555,42,1984-07-17,Masculino,Montagano,67,Itália,Xbox,FPS,26,2022-06-03,635.3,319,13,518.97,2026-04-18
+556,Michael Bullock,michael.bullock556,40,1986-08-06,Masculino,Northwood,ON,Canadá,PC,FPS,93,2010-08-30,2316.7,1242,0,0,2026-02-17
+557,Pierluigi Zacchia,pierluigi.zacchia557,46,1980-08-30,Masculino,Dosimo,Lombardy,Itália,PC,Estratégia,31,2021-09-24,751.4,329,28,912.65,2026-05-30
+558,Scott Nichols,scott.nichols558,16,2010-07-29,Masculino,Dupont Circle,DC,Estados Unidos,PC,RPG,9,2024-10-17,201.2,102,0,0,2025-12-21
+559,Martina Molina,martina.molina559,50,1976-05-24,Feminino,General Galarza,E,Argentina,PlayStation,Aventura,19,2024-08-10,456.2,183,15,473.86,2025-11-12
+560,Flavia Vitturi,flavia.vitturi560,20,2006-08-16,Feminino,Villa Minozzo,45,Itália,Mobile,MOBA,18,2022-08-13,427.7,306,23,812.79,2026-02-05
+561,Marisela Cornejo,marisela.cornejo561,45,1980-10-03,Feminino,Xuchapa,PUE,México,PlayStation,Esportes,28,2014-10-05,695.7,1592,7,124.39,2026-05-23
+562,Maria Manacorda,maria.manacorda562,18,2008-05-05,Feminino,Villanuova sul Clisi,Lombardy,Itália,Xbox,FPS,5,2023-07-02,123.2,191,8,259.47,2025-09-18
+563,Rolf Speer,rolf.speer563,50,1976-04-07,Masculino,Schuttertal,BW,Alemanha,PC,Luta,3,2010-06-22,53.9,47,2,34.89,2026-01-21
+564,Alejandro Alcolea,alejandro.alcolea564,42,1984-06-06,Masculino,Puerto Rico,Canary Islands,Espanha,PlayStation,RPG,1,2026-07-19,2.4,2,0,0,2026-08-26
+565,Renée Henry,renee.henry565,46,1979-10-30,Feminino,Port-sur-Saône,Bourgogne,França,PC,RPG,72,2016-08-07,1794.7,1354,0,0,2026-05-10
+566,Justin Miller,justin.miller566,17,2009-08-20,Masculino,Vidor,TX,Estados Unidos,PlayStation,Corrida,8,2023-10-30,178.4,113,0,0,2026-05-23
+567,Adam Serrano,adam.serrano567,23,2002-10-11,Masculino,Southport,IN,Estados Unidos,PC,FPS,29,2017-10-16,714.5,1775,0,0,2026-05-06
+568,Irmtraut Ruppert,irmtraut.ruppert568,25,2001-05-29,Feminino,Uehlfeld,Bavaria,Alemanha,PC,Esportes,100,2016-01-17,3184.3,1660,18,678.29,2026-03-04
+569,Calvin Duffy,calvin.duffy569,54,1972-08-21,Masculino,Hilliard,OH,Estados Unidos,Mobile,MOBA,9,2023-02-04,218.1,208,0,0,2025-10-21
+570,Matthew Martin,matthew.martin570,44,1982-05-15,Masculino,St-Jean-Port-Joli,QC,Canadá,Xbox,Simulação,18,2019-07-10,427.9,158,0,0,2026-08-23
+571,Miguel Tintzmann,miguel.tintzmann571,52,1974-08-10,Masculino,Altlandsberg,BB,Alemanha,Xbox,Esportes,13,2022-03-04,302.2,273,0,0,2026-05-17
+572,Flavio Malpighi,flavio.malpighi572,27,1999-04-15,Masculino,Ostiglia,Lombardy,Itália,Xbox,Corrida,16,2024-02-15,388.7,405,12,388.8,2026-08-09
+573,Vicente Campos,vicente.campos573,52,1974-07-02,Masculino,Sobreda,15,Portugal,PlayStation,Survival,37,2023-09-30,923.3,223,20,728.09,2025-12-10
+574,Kazim Wulf,kazim.wulf574,48,1978-08-13,Masculino,Destedt,Lower Saxony,Alemanha,Xbox,Esportes,48,2017-01-12,1199.9,646,0,0,2026-02-07
+575,Mariana Caldera,mariana.caldera575,29,1996-11-25,Feminino,Solalpan 1ra. Sección,MEX,México,PlayStation,Simulação,39,2016-11-15,952.8,583,0,0,2025-11-02
+576,Isabelle Pottier,isabelle.pottier576,32,1994-03-02,Feminino,Vieux-Charmont,Bourgogne,França,PC,Luta,2,2022-06-09,31.0,85,2,19.8,2025-10-29
+577,Jennifer Mays,jennifer.mays577,48,1977-11-04,Feminino,Shields,MI,Estados Unidos,Mobile,MOBA,10,2025-09-07,236.4,169,16,583.49,2025-09-08
+578,Valerio Acevedo,valerio.acevedo578,16,2009-09-15,Masculino,Espera,Andalusia,Espanha,Mobile,MOBA,12,2025-03-23,277.8,131,0,0,2025-10-29
+579,John Fisher,john.fisher579,18,2008-07-23,Masculino,Freer,TX,Estados Unidos,PC,Luta,1,2026-04-09,5.5,4,1,19.9,2026-07-04
+580,Anastasie Pascal,anastasie.pascal580,42,1984-04-24,Feminino,Bachant,HDF,França,PC,Luta,5,2022-06-07,113.0,156,2,79.8,2026-02-25
+581,Bianca Hettner,bianca.hettner581,50,1975-11-23,Feminino,Sahlkamp,Lower Saxony,Alemanha,PC,MOBA,18,2018-03-25,434.1,763,30,767.63,2026-02-01
+582,Julio César Piña,julio.cesar.pina582,31,1995-02-18,Masculino,Santo Niño Aguanaval,Coahuila,México,Xbox,Luta,16,2019-04-25,399.6,361,19,688.19,2026-08-11
+583,Louis Barbe,louis.barbe583,40,1985-11-25,Masculino,Cadolive,Provence-Alpes-Côte d'Azur,França,PlayStation,Survival,22,2017-03-24,531.6,165,3,174.7,2025-09-07
+584,Karla Peralta,karla.peralta584,37,1988-11-09,Feminino,Manto del Río Ejido,MEX,México,Xbox,Esportes,7,2015-12-16,157.2,241,0,0,2025-10-08
+585,Jared Boyer,jared.boyer585,33,1993-08-26,Masculino,Lillian,AL,Estados Unidos,PlayStation,Simulação,95,2021-07-21,2374.9,1041,0,0,2026-01-04
+586,Bernard Pineau,bernard.pineau586,45,1981-07-02,Masculino,Cancale,Brittany,França,PlayStation,Ação,16,2019-12-19,399.0,287,2,119.8,2026-04-23
+587,Amalia Zecchini,amalia.zecchini587,51,1975-01-27,Feminino,Tagliolo Monferrato,Piedmont,Itália,Xbox,FPS,5,2024-09-17,111.0,84,4,84.69,2026-05-05
+588,Giampaolo Armellini,giampaolo.armellini588,51,1974-10-10,Masculino,Belforte,The Marches,Itália,Xbox,Corrida,6,2021-03-04,142.4,113,9,254.1,2026-08-22
+589,Hortense Auger,hortense.auger589,30,1995-11-07,Feminino,Liancourt,HDF,França,PC,Estratégia,35,2021-12-26,859.1,368,1,79.9,2026-04-22
+590,Philip Parkinson,philip.parkinson590,39,1986-11-03,Masculino,Haslingfield,ENG,Reino Unido,Xbox,Corrida,100,2010-08-19,2555.0,2632,1,39.9,2025-09-10
+591,Shawna Brown,shawna.brown591,21,2005-02-15,Feminino,Oakes,ND,Estados Unidos,Xbox,Survival,11,2025-01-26,266.8,104,3,179.7,2026-04-14
+592,Cosme Hoz,cosme.hoz592,32,1994-03-30,Masculino,Yerri,Navarre,Espanha,PlayStation,Survival,28,2011-01-05,686.1,268,0,0,2025-12-31
+593,Christopher Flowers,christopher.flowers593,27,1999-04-28,Masculino,Montague,MI,Estados Unidos,Xbox,FPS,100,2015-03-23,4357.8,2228,0,0,2025-11-27
+594,Kathleen Barton,kathleen.barton594,23,2003-02-08,Feminino,Whitchurch,ENG,Reino Unido,PC,Estratégia,13,2020-12-12,311.7,293,3,49.7,2025-10-03
+595,Verena Stumpf,verena.stumpf595,24,2002-08-11,Feminino,Poppenricht,Bavaria,Alemanha,Xbox,Aventura,14,2023-07-21,345.3,116,0,0,2025-10-27
+596,Tiffany Potts,tiffany.potts596,33,1993-03-13,Feminino,Pikesville,MD,Estados Unidos,PC,Simulação,9,2016-07-19,203.8,85,4,164.6,2025-09-11
+597,Juan Williams,juan.williams597,29,1996-10-26,Masculino,Riverside,CA,Estados Unidos,PlayStation,Survival,22,2021-07-13,536.2,133,0,0,2026-08-14
+598,Elizabeth Wilson,elizabeth.wilson598,27,1998-11-17,Feminino,Trenton,MI,Estados Unidos,PC,Aventura,78,2019-05-18,1946.5,997,0,0,2026-01-19
+599,Daniel Costela,daniel.costela599,54,1971-09-22,Masculino,Tacaimbó,PE,Brasil,PC,Estratégia,7,2018-10-30,157.2,54,0,0,2026-01-19
+600,Rosa Tomaselli,rosa.tomaselli600,46,1980-07-05,Feminino,Gignod,Aosta Valley,Itália,PC,Estratégia,11,2017-05-10,251.2,178,0,0,2026-08-16
+601,Pablo Feliu,pablo.feliu601,36,1990-08-07,Masculino,Rosselló,Catalonia,Espanha,PlayStation,RPG,11,2011-04-25,273.9,108,3,149.7,2026-05-18
+602,Slawomir Karz,slawomir.karz602,39,1987-08-10,Masculino,Weststadt,MV,Alemanha,PC,FPS,1,2026-06-18,5.4,5,1,4.99,2026-08-24
+603,María Jesús Fuster,maria.jesus.fuster603,51,1975-06-09,Feminino,Belmontejo,Castille-La Mancha,Espanha,PC,Ação,4,2016-10-04,91.3,107,0,0,2026-05-15
+604,Lynda Price,lynda.price604,54,1972-02-26,Feminino,Fishguard,Wales,Reino Unido,Xbox,Esportes,7,2024-10-22,153.9,108,5,259.5,2026-01-04
+605,Jesús Gil,jesus.gil605,55,1970-09-18,Masculino,Colonia Progreso,OAX,México,PC,Survival,22,2013-04-20,542.5,146,0,0,2026-02-16
+606,Gema Pareja,gema.pareja606,48,1978-04-21,Feminino,Alcalá del Valle,Andalusia,Espanha,Mobile,MOBA,5,2024-01-28,115.0,77,2,54.8,2025-12-27
+607,Kayleigh Harris,kayleigh.harris607,44,1981-11-20,Feminino,Great Coates,ENG,Reino Unido,PlayStation,Aventura,2,2025-09-02,36.2,27,0,0,2026-01-27
+608,Hunter Simmons,hunter.simmons608,36,1990-08-14,Masculino,Davidson,NSW,Austrália,PC,Estratégia,6,2018-06-11,142.5,114,0,0,2026-06-28
+609,Emily Hale,emily.hale609,36,1989-09-08,Feminino,Dumas,AR,Estados Unidos,PlayStation,Ação,52,2018-09-11,1285.8,942,30,947.45,2025-09-08
+610,Jeffrey Yates,jeffrey.yates610,45,1981-08-07,Masculino,Sedgwick,ME,Estados Unidos,Xbox,Aventura,51,2013-04-05,1263.6,497,0,0,2025-10-11
+611,Efraín Tamarit,efrain.tamarit611,38,1988-03-19,Masculino,Rena,EX,Espanha,PC,Estratégia,17,2023-10-18,400.5,155,0,0,2026-07-04
+612,Eliana Coardi,eliana.coardi612,35,1990-12-24,Feminino,Vigone,Piedmont,Itália,PC,Esportes,24,2014-08-05,588.1,520,20,628.09,2026-08-14
+613,Pauline Chevallier,pauline.chevallier613,28,1998-05-29,Feminino,Saint-Sylvestre-Cappel,HDF,França,PlayStation,Ação,9,2018-03-10,215.1,136,0,0,2026-07-16
+614,Jonathan Vang,jonathan.vang614,42,1983-10-11,Masculino,Centreville,VA,Estados Unidos,Xbox,Esportes,5,2011-10-15,105.9,193,0,0,2026-03-05
+615,Eric Williams,eric.williams615,43,1983-07-21,Masculino,Bray,OK,Estados Unidos,PC,MOBA,18,2012-05-10,445.8,253,0,0,2026-08-03
+616,Giovanna Barbosa,giovanna.barbosa616,22,2003-11-06,Feminino,São Sebastião,SP,Brasil,Xbox,Survival,100,2019-08-16,3691.8,1558,0,0,2026-02-22
+617,Javier Casillas,javier.casillas617,35,1991-03-27,Masculino,Pueblo Nuevo,MEX,México,Xbox,Survival,1,2025-12-04,15.5,5,0,0,2026-06-14
+618,Minerva Cabrera,minerva.cabrera618,51,1975-02-17,Feminino,El Porvenir,NAY,México,PlayStation,Survival,77,2015-02-08,1904.3,872,0,0,2025-10-14
+619,Laure Jourdan,laure.jourdan619,19,2007-08-01,Feminino,Dogneville,Grand Est,França,PlayStation,Simulação,6,2026-02-24,145.8,37,3,169.7,2026-02-26
+620,Ottmar Wiek,ottmar.wiek620,23,2002-11-27,Masculino,Au in der Hallertau,Bavaria,Alemanha,PlayStation,Esportes,30,2017-09-19,739.9,697,0,0,2026-07-19
+621,Guido Gucci,guido.gucci621,45,1981-01-03,Masculino,Castelfranco di Sopra,Tuscany,Itália,PlayStation,Aventura,100,2018-04-16,3385.3,1897,9,359.28,2026-08-22
+622,Nina Pelli,nina.pelli622,24,2001-10-26,Feminino,Ponterio-Pian di Porto,55,Itália,PC,FPS,8,2017-02-12,183.1,305,0,0,2025-10-18
+623,Fabia Cipolla,fabia.cipolla623,40,1986-03-04,Feminino,Santa Eufemia Lamezia,78,Itália,PC,Estratégia,11,2020-04-26,260.8,156,0,0,2025-11-22
+624,Jose Harrison,jose.harrison624,22,2003-09-05,Masculino,Saddle Ridge,AB,Canadá,PC,Aventura,3,2023-11-29,65.1,41,4,124.6,2026-04-22
+625,Morena Caccioppoli,morena.caccioppoli625,21,2004-09-24,Feminino,Osini,Sardinia,Itália,PlayStation,Corrida,38,2019-01-13,935.1,922,0,0,2026-05-07
+626,Francesca Marshall,francesca.marshall626,39,1987-03-12,Feminino,Ystradgynlais,Wales,Reino Unido,Xbox,Ação,81,2014-05-11,2009.4,1065,0,0,2026-05-06
+627,Luciana Diaz,luciana.diaz627,41,1985-07-10,Feminino,Villa del Totoral,X,Argentina,Xbox,FPS,4,2021-09-09,96.2,180,2,74.8,2026-04-19
+628,Santiago Martins,santiago.martins628,36,1989-11-09,Masculino,Estela,13,Portugal,PlayStation,Aventura,7,2021-07-28,154.7,54,4,99.69,2026-03-21
+629,Erica Williams,erica.williams629,24,2001-10-30,Feminino,Marine Corps Base Hawaii - MCBH,HI,Estados Unidos,PlayStation,RPG,32,2017-07-05,795.2,470,1,39.9,2026-03-04
+630,Darren Pickering,darren.pickering630,49,1976-09-19,Masculino,Claydon,ENG,Reino Unido,Xbox,Simulação,99,2014-11-11,2459.6,648,0,0,2026-01-17
+631,John Francis,john.francis631,33,1992-10-18,Masculino,Burlington,ND,Estados Unidos,Xbox,Esportes,8,2018-06-27,196.2,209,3,104.7,2026-07-31
+632,Anna Howell,anna.howell632,45,1980-12-10,Feminino,Draperstown,NIR,Reino Unido,PlayStation,FPS,99,2012-03-11,2467.0,1505,17,693.57,2026-08-29
+633,Maggie Durand,maggie.durand633,48,1978-06-16,Feminino,Moyeuvre-Grande,Grand Est,França,PC,Survival,29,2022-02-02,710.9,333,3,129.7,2025-11-07
+634,Eric Hill,eric.hill634,44,1981-11-19,Masculino,Gilwern,Wales,Reino Unido,PlayStation,Luta,5,2015-03-15,122.2,313,3,179.7,2026-04-14
+635,Anastasia Ritter,anastasia.ritter635,20,2006-08-24,Feminino,Egenhofen,Bavaria,Alemanha,Xbox,Ação,70,2020-12-05,1738.4,957,22,752.89,2026-06-05
+636,Gerard Long,gerard.long636,46,1980-05-29,Masculino,Countesthorpe,ENG,Reino Unido,PlayStation,Ação,5,2023-08-01,116.2,88,0,0,2026-07-14
+637,Joshua Chen,joshua.chen637,31,1995-05-14,Masculino,Fruitvale,BC,Canadá,PC,RPG,13,2024-11-08,301.1,101,0,0,2025-10-08
+638,Dawn Lee,dawn.lee638,42,1983-09-27,Feminino,Lake Winnebago,MO,Estados Unidos,PC,Estratégia,15,2020-03-03,356.6,137,5,144.59,2025-11-21
+639,Dylan Johnson,dylan.johnson639,44,1981-09-07,Masculino,Haddington,PA,Estados Unidos,PC,Estratégia,100,2010-09-13,5399.0,2461,0,0,2026-03-04
+640,Jade Carvalho,jade.carvalho640,46,1980-01-28,Feminino,Timbaúba dos Batistas,RN,Brasil,PC,Luta,2,2025-07-20,42.6,124,11,403.9,2026-02-22
+641,Jonás Parra,jonas.parra641,29,1997-05-09,Masculino,Teloxtoc,PUE,México,PC,Ação,10,2021-05-05,246.8,247,9,389.28,2026-08-13
+642,Andy Jopich,andy.jopich642,27,1999-07-22,Masculino,Hiddenhausen,North Rhine-Westphalia,Alemanha,PlayStation,Simulação,100,2016-07-19,4706.4,1649,20,523.18,2026-06-18
+643,Susana Covarrubias,susana.covarrubias643,18,2007-10-07,Feminino,Tlacuitlapa,MEX,México,PC,RPG,5,2025-04-23,123.1,75,3,64.79,2026-02-03
+644,Isabel Mesa,isabel.mesa644,34,1992-03-10,Feminino,San Martín Ojo de Agua,PUE,México,PC,Estratégia,71,2012-08-19,1752.0,585,23,702.88,2026-01-02
+645,Joaquín Irizarry,joaquin.irizarry645,51,1975-04-29,Masculino,Tehuixtla,MOR,México,PlayStation,Corrida,23,2013-07-28,568.8,543,28,1032.56,2025-10-15
+646,Paul Lawrence,paul.lawrence646,37,1988-12-23,Masculino,Botany,NSW,Austrália,PC,RPG,1,2023-10-08,10.6,9,0,0,2026-01-28
+647,Virgilio Amorós,virgilio.amoros647,22,2003-11-05,Masculino,Collado de Contreras,Castille and León,Espanha,Xbox,Survival,27,2023-08-04,657.3,190,6,174.67,2026-01-31
+648,Aurélie Marchal,aurelie.marchal648,22,2003-12-04,Feminino,Thiron Gardais,CVL,França,PlayStation,RPG,44,2017-08-23,1079.9,506,0,0,2026-03-03
+649,Monika Staude,monika.staude649,33,1993-04-01,Feminino,Hitzacker,Lower Saxony,Alemanha,PC,Ação,14,2019-03-09,338.1,167,0,0,2026-07-31
+650,Caridad Escamilla,caridad.escamilla650,20,2006-04-28,Feminino,Lindavista,Veracruz,México,PlayStation,FPS,1,2026-06-08,16.5,14,0,0,2026-06-26
+651,Rebecca Blair,rebecca.blair651,51,1975-08-25,Feminino,Timberville,VA,Estados Unidos,PC,Estratégia,44,2022-05-10,1086.2,511,14,553.6,2026-08-27
+652,Francesco Peano,francesco.peano652,45,1981-06-01,Masculino,Roccaforte Ligure,Piedmont,Itália,PlayStation,Simulação,27,2017-12-21,663.8,191,0,0,2026-07-03
+653,Miguel Castro,miguel.castro653,24,2002-04-15,Masculino,São Domingos,SC,Brasil,PC,MOBA,8,2017-01-12,197.6,81,7,229.3,2025-09-27
+654,Kristopher Silva,kristopher.silva654,42,1983-11-27,Masculino,Dousman,WI,Estados Unidos,PC,Corrida,1,2011-08-16,18.8,32,2,9.98,2026-07-28
+655,Thomas Davidson,thomas.davidson655,32,1994-02-22,Masculino,Cushendall,NIR,Reino Unido,PC,MOBA,8,2011-12-04,182.9,122,0,0,2026-01-09
+656,Perla Checa,perla.checa656,35,1991-02-26,Feminino,Alpanseque,Castille and León,Espanha,Xbox,Simulação,71,2021-03-15,1752.9,619,12,273.89,2026-07-29
+657,Tristan Da Costa,tristan.da.costa657,54,1971-10-22,Masculino,Jeumont,HDF,França,PC,FPS,7,2025-03-05,174.1,103,4,139.6,2026-08-23
+658,Michela Salgari,michela.salgari658,29,1996-10-07,Feminino,Ceresole Alba,Piedmont,Itália,Mobile,MOBA,100,2012-11-03,2574.6,1163,0,0,2025-12-09
+659,Dario Pacetti,dario.pacetti659,44,1982-07-07,Masculino,Bauladu,Sardinia,Itália,PlayStation,RPG,16,2025-03-26,386.2,134,5,114.59,2026-03-07
+660,Pastor Lobo,pastor.lobo660,39,1987-08-22,Masculino,Villarta de los Montes,EX,Espanha,PC,Estratégia,54,2016-02-27,1332.1,1592,20,938.18,2026-02-28
+661,Hermann-Josef Schleich,hermann-josef.schleich661,28,1997-11-21,Masculino,Waake,Lower Saxony,Alemanha,PlayStation,Luta,2,2023-10-01,32.5,78,0,0,2026-08-30
+662,Francisco Kobelt,francisco.kobelt662,20,2006-06-29,Masculino,Öhningen,BW,Alemanha,Xbox,Ação,1,2026-07-22,1.0,1,0,0,2026-08-04
+663,Augustin Aubry,augustin.aubry663,51,1975-08-30,Masculino,Izeaux,Rhône-Alpes,França,PC,Estratégia,4,2021-06-27,95.9,42,0,0,2026-06-01
+664,Tim Heinrich,tim.heinrich664,52,1974-05-14,Masculino,Rottenbach,Thuringia,Alemanha,PC,Esportes,51,2011-08-05,1268.5,666,3,149.7,2026-02-02
+665,Burckhard Birnbaum,burckhard.birnbaum665,33,1993-05-22,Masculino,Rohrsen,Lower Saxony,Alemanha,Xbox,Ação,5,2014-10-23,107.5,79,2,84.89,2026-07-30
+666,Ross Smith,ross.smith666,31,1995-03-02,Masculino,Oakington,ENG,Reino Unido,PC,Aventura,34,2014-08-30,842.1,643,8,329.29,2025-12-01
+667,Alexandre Rousseau,alexandre.rousseau667,46,1979-10-24,Masculino,Millau,OCC,França,PlayStation,Luta,7,2018-12-28,154.9,498,30,922.45,2026-04-11
+668,Bethan Wilson,bethan.wilson668,43,1982-09-13,Feminino,Bromsgrove,ENG,Reino Unido,PC,Ação,100,2018-09-24,2702.0,1087,9,199.28,2026-01-16
+669,Berto Corbacho,berto.corbacho669,45,1981-05-22,Masculino,Tejada,Castille and León,Espanha,Xbox,FPS,1,2026-04-02,14.9,9,1,79.9,2026-04-12
+670,Teresa Wright,teresa.wright670,53,1973-01-27,Feminino,Yoe,PA,Estados Unidos,Xbox,Survival,25,2022-06-09,604.0,204,0,0,2026-08-18
+671,Emanuella Souza,emanuella.souza671,39,1986-10-31,Feminino,Jundiaí do Sul,PR,Brasil,PC,Simulação,5,2024-04-27,103.1,39,0,0,2025-10-25
+672,Eli Barón,eli.baron672,53,1973-07-06,Feminino,Zarautz,Basque Country,Espanha,PlayStation,Esportes,96,2013-12-29,2377.9,1470,15,433.59,2025-09-29
+673,Daniel Miller,daniel.miller673,18,2008-07-09,Masculino,Memphis,TN,Estados Unidos,PC,FPS,16,2022-02-20,390.7,312,12,314.07,2025-12-03
+674,Alla Binner,alla.binner674,40,1985-10-08,Feminino,Sölderholz,North Rhine-Westphalia,Alemanha,PlayStation,Simulação,5,2018-05-06,120.2,33,0,0,2026-08-22
+675,Rubén Marroquín,ruben.marroquin675,29,1996-10-09,Masculino,Lagunillas,Michoacán,México,PC,Estratégia,31,2021-06-26,767.2,783,6,184.49,2026-05-04
+676,Alfred Pelletier,alfred.pelletier676,51,1974-09-20,Masculino,Florac,OCC,França,Xbox,Esportes,38,2010-08-02,947.3,2078,0,0,2026-03-17
+677,Gaetano Steckel,gaetano.steckel677,33,1993-02-02,Masculino,Neuburg,MV,Alemanha,PlayStation,FPS,11,2011-02-10,271.4,205,19,738.28,2026-08-14
+678,Tiffany Sullivan,tiffany.sullivan678,54,1972-01-21,Feminino,Cologne,MN,Estados Unidos,PlayStation,Simulação,10,2020-05-12,237.0,107,5,149.5,2025-10-12
+679,Bryan Moreira,bryan.moreira679,17,2008-10-14,Masculino,Foz do Iguaçu,PR,Brasil,PlayStation,Aventura,3,2023-08-21,53.8,26,0,0,2026-06-28
+680,Helena Mendonça,helena.mendonca680,26,2000-03-08,Feminino,Sentinela do Sul,RS,Brasil,PC,Simulação,59,2014-06-24,1467.1,601,29,877.37,2026-04-28
+681,Megan Brock,megan.brock681,20,2006-06-13,Feminino,Minnehaha,WA,Estados Unidos,Xbox,Aventura,4,2023-02-11,79.8,84,6,219.4,2026-02-28
+682,Olivia Zarate,olivia.zarate682,16,2010-05-18,Feminino,San José de la Laja,QUE,México,PC,Survival,12,2024-06-16,275.1,179,0,0,2026-04-30
+683,Gabriel Melgar,gabriel.melgar683,22,2004-06-14,Masculino,San Pedro Tlachichilco,HID,México,PC,Corrida,2,2017-11-02,26.8,35,1,59.9,2025-12-12
+684,Aurora Suárez,aurora.suarez684,23,2003-01-01,Feminino,Euán,YUC,México,PC,MOBA,4,2024-07-17,98.6,92,0,0,2026-06-22
+685,Andrew Duffy,andrew.duffy685,51,1975-08-04,Masculino,Moggill,QLD,Austrália,PlayStation,Survival,1,2025-03-21,19.2,8,0,0,2026-07-16
+686,Andrew Watson,andrew.watson686,43,1983-03-09,Masculino,Citrus City,TX,Estados Unidos,Xbox,RPG,2,2020-08-05,36.7,17,1,29.9,2025-12-10
+687,Kenneth Fritz,kenneth.fritz687,49,1977-03-16,Masculino,Saint James,MO,Estados Unidos,Xbox,Corrida,20,2020-03-14,486.0,303,20,483.18,2025-11-24
+688,Steven Kelly,steven.kelly688,25,2000-12-01,Masculino,Boalsburg,PA,Estados Unidos,PC,Luta,10,2017-04-08,233.9,590,2,49.8,2026-06-24
+689,Anita Clark,anita.clark689,30,1996-06-19,Feminino,Mooroopna,VIC,Austrália,Mobile,MOBA,4,2019-04-27,90.0,114,0,0,2026-03-22
+690,Lucrezia Garzoni,lucrezia.garzoni690,39,1986-12-06,Feminino,Prepotto,36,Itália,PC,FPS,15,2011-05-23,371.2,262,17,418.57,2025-10-20
+691,Alexander Hamilton,alexander.hamilton691,53,1973-03-29,Masculino,Campo,CA,Estados Unidos,PC,Corrida,38,2015-06-21,926.9,2019,0,0,2026-04-11
+692,Maurizio Johann,maurizio.johann692,47,1979-04-22,Masculino,Tarforst,RP,Alemanha,PC,Luta,100,2014-04-13,2727.3,2305,22,607.98,2026-03-04
+693,Thiago Leonel Ayala,thiago.leonel.ayala693,55,1971-05-09,Masculino,Comandante Luis Piedrabuena,Z,Argentina,PC,Ação,1,2024-03-05,10.2,13,1,14.9,2026-02-05
+694,Valentine Schmitt,valentine.schmitt694,44,1982-02-23,Feminino,La Crau,Provence-Alpes-Côte d'Azur,França,Xbox,FPS,1,2026-04-08,1.6,1,0,0,2026-06-18
+695,Katherine Nelson,katherine.nelson695,36,1990-05-21,Feminino,Mendota,IL,Estados Unidos,PlayStation,Survival,4,2025-11-27,87.4,65,0,0,2026-04-29
+696,Claudine Dijoux,claudine.dijoux696,48,1977-11-07,Feminino,Champs-sur-Tarentaine-Marchal,Rhône-Alpes,França,Mobile,MOBA,100,2011-03-03,2950.5,2708,0,0,2026-07-12
+697,Michèle Bernard,michele.bernard697,28,1997-09-17,Feminino,Castelginest,OCC,França,Xbox,Luta,65,2013-06-16,1610.8,1568,0,0,2025-09-04
+698,Jeremy Rodriguez,jeremy.rodriguez698,54,1972-06-21,Masculino,Josephine,TX,Estados Unidos,PC,Luta,1,2024-12-31,7.8,8,1,39.9,2026-06-06
+699,Jemma Edwards,jemma.edwards699,26,2000-02-14,Feminino,Sutton Bonington,ENG,Reino Unido,PlayStation,Ação,13,2025-01-25,304.8,143,0,0,2025-12-20
+700,Emily Brown,emily.brown700,51,1974-09-20,Feminino,Rainbow City,AL,Estados Unidos,PC,Estratégia,52,2014-03-21,1298.7,759,0,0,2026-08-12
+701,Costanzo Bonolis,costanzo.bonolis701,42,1983-10-13,Masculino,Montaquila,67,Itália,PlayStation,Survival,26,2018-08-13,649.4,277,0,0,2025-09-24
+702,Nicolas Leconte,nicolas.leconte702,34,1992-02-05,Masculino,Tabanac,New Aquitaine,França,PC,Luta,1,2024-11-09,10.7,19,0,0,2026-04-03
+703,Amanda Rismondo,amanda.rismondo703,54,1972-05-19,Feminino,Davagna,42,Itália,PC,FPS,21,2019-07-11,500.0,681,0,0,2026-08-24
+704,Juan Pablo Coll,juan.pablo.coll704,53,1972-12-10,Masculino,Navezuelas,EX,Espanha,Xbox,Luta,11,2013-12-09,261.1,283,16,483.49,2026-06-17
+705,Jessica Johnson,jessica.johnson705,35,1991-06-10,Feminino,Bell Gardens,CA,Estados Unidos,PlayStation,FPS,9,2016-05-19,209.8,154,11,343.99,2026-07-14
+706,Gavin Baker,gavin.baker706,35,1990-10-24,Masculino,Spratton,ENG,Reino Unido,Xbox,Simulação,73,2010-11-10,1803.8,1491,4,89.69,2025-12-22
+707,Branko Preiß,branko.prei707,19,2007-03-29,Masculino,Steinhagen,MV,Alemanha,PlayStation,RPG,3,2026-02-04,55.7,18,1,29.9,2026-06-03
+708,Cecília Silveira,cecilia.silveira708,51,1974-11-12,Feminino,Itaguaçu,ES,Brasil,Xbox,Ação,8,2015-11-18,198.8,218,12,358.89,2026-02-24
+709,Isabelle Menard,isabelle.menard709,46,1980-06-08,Feminino,Monthyon,IDF,França,PC,Estratégia,2,2022-02-06,25.3,9,0,0,2026-03-13
+710,Federico Troisi,federico.troisi710,28,1998-06-18,Masculino,Magrè sulla Strada del Vino,32,Itália,PC,Survival,42,2016-08-14,1031.3,246,11,383.99,2026-02-28
+711,Jeanne Colas,jeanne.colas711,55,1971-02-17,Feminino,Saint-Éloi,Bourgogne,França,Xbox,Aventura,59,2018-08-13,1461.4,636,0,0,2025-09-09
+712,Norbert Holzapfel,norbert.holzapfel712,41,1984-09-14,Masculino,Kinderbeuern,RP,Alemanha,PC,RPG,43,2023-03-14,1073.3,294,28,867.56,2025-11-27
+713,Robert Gray,robert.gray713,49,1976-11-08,Masculino,Canvey Island,ENG,Reino Unido,PlayStation,Ação,2,2013-07-12,33.7,47,0,0,2026-04-22
+714,César Lourenço,cesar.lourenco714,51,1975-02-23,Masculino,Ponte da Barca,16,Portugal,Xbox,Corrida,4,2019-08-30,81.7,100,10,469.0,2026-04-26
+715,Matthew Johnson,matthew.johnson715,28,1998-04-23,Masculino,Wauseon,OH,Estados Unidos,PC,Simulação,28,2024-09-18,694.0,336,0,0,2026-08-11
+716,Barbara Hernandez,barbara.hernandez716,26,1999-10-28,Feminino,Holland,MI,Estados Unidos,Xbox,RPG,2,2021-05-28,37.3,26,0,0,2026-08-29
+717,Andrea Rodriguez,andrea.rodriguez717,35,1991-01-28,Feminino,Westport,MD,Estados Unidos,PlayStation,Corrida,30,2015-11-13,739.7,423,21,668.17,2026-08-09
+718,Camilla Oestrovsky,camilla.oestrovsky718,41,1985-08-10,Feminino,Breisach am Rhein,BW,Alemanha,PC,Survival,31,2015-04-03,771.7,304,0,0,2025-10-20
+719,Martino Argan,martino.argan719,24,2001-12-24,Masculino,Civita Castellana,62,Itália,PlayStation,Survival,32,2025-05-14,786.1,201,9,279.28,2025-11-09
+720,Nelson Araújo,nelson.araujo720,50,1975-10-16,Masculino,Constância,14,Portugal,PlayStation,Corrida,10,2022-12-08,239.2,531,24,887.96,2025-09-18
+721,Patrick Prévost,patrick.prevost721,49,1976-11-20,Masculino,Hérin,HDF,França,PC,FPS,100,2010-02-21,3162.7,1899,0,0,2025-09-10
+722,Rossana Porcellato,rossana.porcellato722,18,2008-08-20,Feminino,San Lorenzo,78,Itália,PC,Survival,11,2022-09-14,271.9,126,3,109.7,2026-06-16
+723,Enrico Luna,enrico.luna723,48,1978-04-19,Masculino,Trichiana,34,Itália,PlayStation,Esportes,17,2020-01-19,413.6,849,9,364.19,2025-12-11
+724,Antonio Cruz,antonio.cruz724,46,1980-07-19,Masculino,Grifton,NC,Estados Unidos,PlayStation,Simulação,1,2026-06-30,5.9,2,1,19.9,2026-08-12
+725,Itziar Roca,itziar.roca725,36,1990-02-25,Feminino,Linyola,Catalonia,Espanha,Xbox,Corrida,44,2018-11-10,1078.4,608,10,339.09,2026-02-10
+726,Constance Gomez,constance.gomez726,17,2009-04-15,Feminino,Lagrave,OCC,França,PC,Estratégia,3,2025-07-11,53.8,38,1,79.9,2025-09-10
+727,Zachary Jackson,zachary.jackson727,45,1980-10-09,Masculino,Cranbourne North,VIC,Austrália,Xbox,FPS,2,2020-04-27,44.1,74,7,204.3,2025-10-19
+728,Rodney Maldonado,rodney.maldonado728,46,1980-03-07,Masculino,Westwood,MA,Estados Unidos,PC,Ação,29,2017-05-02,714.5,351,23,697.97,2026-01-09
+729,Louis Payet,louis.payet729,33,1993-01-17,Masculino,Lizy-sur-Ourcq,IDF,França,PlayStation,Corrida,32,2020-02-03,789.4,712,0,0,2026-03-14
+730,Felix Perales,felix.perales730,25,2001-07-26,Masculino,El Cerro de la Sauceda,Michoacán,México,PlayStation,Simulação,65,2017-02-28,1602.7,434,19,698.46,2025-09-21
+731,Jeffrey Burgess,jeffrey.burgess731,54,1972-03-10,Masculino,Greenfield Park,QC,Canadá,Xbox,Ação,34,2021-09-16,830.6,863,0,0,2025-10-19
+732,Geneviève Poirier,genevieve.poirier732,28,1997-11-27,Feminino,Bonnat,New Aquitaine,França,PlayStation,Survival,31,2019-10-24,765.2,676,10,404.09,2025-10-30
+733,Matilda Bocca,matilda.bocca733,35,1991-06-04,Feminino,Molella,62,Itália,PlayStation,Simulação,4,2017-04-09,77.2,77,0,0,2026-05-03
+734,Pamela Snow,pamela.snow734,37,1989-03-10,Feminino,Summersville,WV,Estados Unidos,PC,Ação,70,2019-01-15,1737.3,769,30,827.45,2026-07-05
+735,Richard Reed,richard.reed735,45,1981-06-01,Masculino,Champlain Heights,BC,Canadá,PlayStation,Simulação,44,2020-09-10,1075.1,558,0,0,2026-07-05
+736,Patrick Jones,patrick.jones736,17,2009-02-02,Masculino,Garstang,ENG,Reino Unido,PlayStation,Ação,14,2022-08-30,348.5,152,0,0,2026-03-29
+737,Tadeusz Schaaf,tadeusz.schaaf737,22,2004-08-04,Masculino,Hurlach,Bavaria,Alemanha,PC,RPG,5,2022-02-19,121.6,120,0,0,2026-07-17
+738,Francisco Javier de la O,francisco.javier.de.la.o738,44,1982-03-26,Masculino,San Martín Hidalgo,JAL,México,PlayStation,FPS,19,2024-09-14,462.0,371,0,0,2026-06-19
+739,Eileen George,eileen.george739,44,1981-12-25,Feminino,Irving,TX,Estados Unidos,PC,RPG,19,2021-04-13,472.9,431,23,822.88,2025-09-25
+740,Juan Carlos Arevalo,juan.carlos.arevalo740,37,1988-10-07,Masculino,San Antonio Calichar,GUA,México,PlayStation,Corrida,48,2016-01-02,1185.0,1035,0,0,2026-05-18
+741,Melanie Hargreaves,melanie.hargreaves741,38,1987-10-04,Feminino,Bransgore,ENG,Reino Unido,Xbox,RPG,3,2024-02-19,67.1,38,0,0,2026-03-08
+742,Primitivo Baños,primitivo.banos742,26,1999-11-10,Masculino,Urnieta,Basque Country,Espanha,PlayStation,FPS,20,2013-11-04,482.9,672,23,858.33,2026-01-24
+743,Megan Coleman,megan.coleman743,34,1992-02-14,Feminino,Ickenham,ENG,Reino Unido,Mobile,MOBA,32,2012-05-22,788.4,593,21,543.08,2026-05-25
+744,Jean Daniels,jean.daniels744,42,1984-04-18,Feminino,Tycroes,Wales,Reino Unido,PC,Ação,21,2014-10-07,515.2,389,0,0,2026-06-27
+745,Ehrenfried Schacht,ehrenfried.schacht745,25,2001-06-15,Masculino,Jöhstadt,Saxony,Alemanha,Xbox,Luta,5,2022-05-14,102.4,233,18,408.74,2025-09-27
+746,Luis Manuel Urías,luis.manuel.urias746,39,1987-07-31,Masculino,Sindihui,OAX,México,PlayStation,Aventura,6,2023-12-26,147.2,66,0,0,2026-06-04
+747,Bonnie Murphy,bonnie.murphy747,29,1996-11-07,Feminino,Troy,MI,Estados Unidos,PC,Estratégia,53,2014-06-16,1306.0,589,21,548.17,2026-01-16
+748,Luca Gagliano,luca.gagliano748,53,1973-02-25,Masculino,Montegrosso,Piedmont,Itália,PC,Aventura,53,2021-05-02,1309.8,536,29,792.37,2026-01-27
+749,Brandon Long,brandon.long749,54,1972-01-10,Masculino,Harvest Hills,AB,Canadá,PlayStation,Luta,10,2010-12-04,242.8,514,8,329.29,2026-08-05
+750,Heinz-Walter Staude,heinz-walter.staude750,50,1976-03-31,Masculino,Aichen,Bavaria,Alemanha,Xbox,Simulação,4,2025-08-31,95.2,30,0,0,2026-06-09
+751,Lara Kohl,lara.kohl751,40,1985-11-01,Feminino,Murnau am Staffelsee,Bavaria,Alemanha,PC,Esportes,18,2012-10-02,425.3,381,0,0,2025-10-11
+752,Josefina Torres,josefina.torres752,28,1997-11-06,Feminino,Barracas,Buenos Aires F.D.,Argentina,PC,Estratégia,20,2025-04-01,485.3,177,0,0,2026-08-10
+753,Gerhild Keudel,gerhild.keudel753,24,2001-12-13,Feminino,Ochsenwerder,HH,Alemanha,PC,RPG,11,2015-04-18,261.9,203,16,518.58,2026-08-19
+754,Matthew Savage,matthew.savage754,51,1975-07-22,Masculino,Clendenin,WV,Estados Unidos,PC,Survival,18,2022-03-05,441.0,111,0,0,2026-06-16
+755,Bernard Lefort,bernard.lefort755,24,2002-07-04,Masculino,Pontailler-sur-Saône,Bourgogne,França,PC,Estratégia,68,2016-12-20,1688.7,872,6,204.4,2025-11-23
+756,Erich Jockel,erich.jockel756,23,2002-09-09,Masculino,Sankt Margarethen,SH,Alemanha,PC,Estratégia,1,2025-06-05,10.8,4,1,4.99,2026-02-23
+757,Rubén Villalobos,ruben.villalobos757,49,1977-01-13,Masculino,Ignacio Bastida (Santa Catarina Tlayca),MOR,México,PC,Simulação,100,2011-10-02,3961.1,1196,0,0,2026-02-19
+758,Julie Chang,julie.chang758,25,2000-10-24,Feminino,Schwenksville,PA,Estados Unidos,PC,Estratégia,23,2019-10-30,566.0,234,0,0,2026-03-05
+759,Christopher Savage,christopher.savage759,23,2003-06-10,Masculino,Collingwood Park,QLD,Austrália,Xbox,Survival,10,2019-09-18,242.1,86,8,284.47,2026-05-18
+760,Cristal Montenegro,cristal.montenegro760,35,1991-01-28,Feminino,Arroyo del Maíz Uno,Veracruz,México,PlayStation,Corrida,100,2010-12-12,3856.5,2595,0,0,2026-08-03
+761,Ricciotti Bellucci,ricciotti.bellucci761,23,2003-07-01,Masculino,Pescasseroli,65,Itália,PC,Survival,30,2022-10-08,747.1,338,0,0,2025-12-28
+762,Pauline Boyer,pauline.boyer762,43,1983-06-18,Feminino,Villaz,Rhône-Alpes,França,PlayStation,Esportes,9,2014-01-04,221.0,308,13,508.88,2026-05-21
+763,Magret Junk,magret.junk763,53,1972-09-06,Feminino,Tettau,Bavaria,Alemanha,PC,Estratégia,94,2010-01-13,2342.6,877,3,64.7,2026-06-07
+764,Odalys Yuste,odalys.yuste764,31,1994-10-25,Feminino,Picón,Castille-La Mancha,Espanha,Xbox,Luta,32,2012-01-09,778.7,547,11,318.99,2025-09-05
+765,Davi Sampaio,davi.sampaio765,16,2010-01-06,Masculino,Mar de Espanha,MG,Brasil,PC,MOBA,1,2026-05-18,22.3,12,0,0,2026-08-10
+766,Brunhild Warmer,brunhild.warmer766,30,1996-08-20,Feminino,Erpolzheim,RP,Alemanha,PC,Estratégia,5,2024-08-26,110.5,51,3,54.7,2025-09-24
+767,Guillermina Ojeda,guillermina.ojeda767,24,2002-01-08,Feminino,Oncativo,X,Argentina,PC,Ação,9,2020-11-19,220.7,131,0,0,2025-11-03
+768,Gilles Fleury,gilles.fleury768,53,1973-08-09,Masculino,Sangatte,HDF,França,Xbox,Simulação,20,2019-12-02,481.8,326,0,0,2026-01-20
+769,Alejandra Alcántara,alejandra.alcantara769,48,1978-05-21,Feminino,Villarroya de la Sierra,AR,Espanha,Xbox,Luta,4,2025-08-20,85.0,164,0,0,2026-05-13
+770,Mónica Izquierdo,monica.izquierdo770,46,1980-01-18,Feminino,Lécera,AR,Espanha,PC,RPG,100,2018-02-24,3201.3,1056,21,888.26,2026-01-25
+771,Abigail Vásquez,abigail.vasquez771,39,1987-08-29,Feminino,San Pedro de los Naranjos,GUA,México,PC,Aventura,100,2010-07-15,3134.1,1502,8,369.29,2025-09-20
+772,Heitor Sampaio,heitor.sampaio772,26,2000-06-17,Masculino,Tutóia,MA,Brasil,PC,Simulação,100,2014-09-10,3390.5,1016,9,334.19,2026-02-28
+773,June Baker,june.baker773,40,1986-01-19,Feminino,Winterton,ENG,Reino Unido,PC,FPS,28,2015-06-29,697.5,579,11,448.99,2026-03-08
+774,Christopher Bullock,christopher.bullock774,22,2004-05-16,Masculino,Holly Lake Ranch,TX,Estados Unidos,Xbox,Aventura,16,2023-05-14,384.0,269,0,0,2026-08-06
+775,Ana Carolina Sampaio,ana.carolina.sampaio775,51,1975-07-19,Feminino,Primavera de Rondônia,RO,Brasil,PC,FPS,100,2010-06-14,3249.7,1679,15,533.68,2025-12-21
+776,Amy Trujillo,amy.trujillo776,43,1983-07-23,Feminino,Fall Branch,TN,Estados Unidos,Mobile,MOBA,99,2016-06-02,2472.1,1180,0,0,2025-10-23
+777,Julia Berger,julia.berger777,55,1970-11-10,Feminino,Niederfrohna,Saxony,Alemanha,PC,Aventura,46,2015-06-08,1143.2,480,0,0,2025-12-18
+778,Christopher Bryant,christopher.bryant778,33,1992-11-02,Masculino,Hemlock Farms,PA,Estados Unidos,Xbox,Esportes,22,2014-12-17,534.6,1059,0,0,2026-05-15
+779,Lauren Cain,lauren.cain779,45,1980-11-05,Feminino,New Hyde Park,NY,Estados Unidos,PlayStation,RPG,6,2013-09-30,148.8,102,8,174.38,2026-04-30
+780,Luciano Benjamin Lopez,luciano.benjamin.lopez780,22,2004-08-14,Masculino,Herradura,P,Argentina,PC,Esportes,7,2024-05-21,173.7,225,0,0,2025-10-16
+781,Derek Wilkinson,derek.wilkinson781,37,1988-10-06,Masculino,Higham Ferrers,ENG,Reino Unido,Xbox,Corrida,62,2015-10-24,1548.8,966,11,323.99,2025-12-06
+782,Elizabeth Grant,elizabeth.grant782,41,1985-06-12,Feminino,Mount Shasta,CA,Estados Unidos,PC,Aventura,6,2023-03-27,128.8,126,12,273.89,2026-08-11
+783,Kevin Frank,kevin.frank783,37,1988-12-03,Masculino,Ile-des-Soeurs,QC,Canadá,PlayStation,FPS,8,2021-01-28,194.7,161,3,104.79,2026-07-27
+784,Romeo Bonolis,romeo.bonolis784,49,1977-03-30,Masculino,Osteria dei Cacciatori-Stella,42,Itália,PlayStation,Survival,7,2017-10-29,174.9,146,0,0,2025-12-06
+785,Eckhard Gute,eckhard.gute785,31,1994-09-27,Masculino,Stauchitz,Saxony,Alemanha,PC,MOBA,45,2014-02-04,1106.5,717,2,109.8,2025-09-18
+786,Pedro Lucas da Mata,pedro.lucas.da.mata786,17,2008-10-19,Masculino,Patrocínio do Muriaé,MG,Brasil,PC,MOBA,15,2024-03-18,363.5,296,12,448.89,2025-11-19
+787,Nicole Roberts,nicole.roberts787,53,1973-06-08,Feminino,Meadow Heights,VIC,Austrália,PC,Simulação,32,2017-03-29,792.2,300,29,837.55,2026-04-13
+788,William Woods,william.woods788,54,1971-10-23,Masculino,Landsborough,QLD,Austrália,PlayStation,Simulação,27,2025-04-21,653.0,175,11,458.9,2026-06-15
+789,Jessika Meister,jessika.meister789,25,2001-06-10,Feminino,Zusamaltheim,Bavaria,Alemanha,PlayStation,Luta,8,2020-03-20,191.5,421,0,0,2026-02-06
+790,Reginald Riehl,reginald.riehl790,20,2005-10-12,Masculino,Tecklenburg,North Rhine-Westphalia,Alemanha,PC,MOBA,1,2026-07-06,1.4,1,0,0,2026-08-17
+791,Michele Nguyen,michele.nguyen791,36,1989-09-04,Feminino,Lacolle,QC,Canadá,PC,FPS,4,2014-10-20,91.0,142,4,209.6,2025-09-29
+792,Robin Davidson,robin.davidson792,45,1981-05-06,Feminino,McComb,MS,Estados Unidos,PC,RPG,1,2024-04-03,12.7,10,1,79.9,2025-12-19
+793,Frederick Mccormick,frederick.mccormick793,19,2007-08-10,Masculino,Tuscarawas,OH,Estados Unidos,PC,Esportes,1,2022-10-17,18.1,11,0,0,2026-04-25
+794,Amanda Hampton,amanda.hampton794,30,1996-04-01,Feminino,Forest City,NC,Estados Unidos,PC,Estratégia,19,2020-06-03,465.9,440,0,0,2026-02-17
+795,Maureen Cross,maureen.cross795,48,1978-05-10,Feminino,Banchory,SCT,Reino Unido,Mobile,MOBA,1,2026-08-26,1.8,1,0,0,2026-08-31
+796,Lorenzo Abrego,lorenzo.abrego796,22,2003-10-25,Masculino,Cualác,GRO,México,PC,Estratégia,1,2026-03-04,17.6,9,1,79.9,2026-06-06
+797,Wilfrido Guajardo,wilfrido.guajardo797,31,1995-07-30,Masculino,Tetelilla,MOR,México,Xbox,RPG,8,2021-11-13,179.7,66,0,0,2026-08-25
+798,Gary Lewis,gary.lewis798,21,2004-11-16,Masculino,Fuller Heights,FL,Estados Unidos,PC,Estratégia,7,2024-01-12,167.8,132,5,239.5,2026-04-27
+799,Thomas Viana,thomas.viana799,38,1987-09-22,Masculino,Cordislândia,MG,Brasil,PC,Ação,59,2013-10-09,1468.5,1340,19,593.37,2025-10-20
+800,Denis Wright,denis.wright800,55,1970-09-02,Masculino,Blackpool,ENG,Reino Unido,Xbox,Simulação,48,2023-05-08,1194.7,342,0,0,2025-12-13
+801,Aldonza López,aldonza.lopez801,49,1977-05-18,Feminino,Santa Rosa,PUE,México,PlayStation,Survival,1,2025-10-25,12.3,3,1,14.9,2026-03-07
+802,Tanya Shaw,tanya.shaw802,53,1973-08-08,Feminino,North Puyallup,WA,Estados Unidos,PC,MOBA,65,2013-08-01,1616.3,1292,0,0,2025-10-24
+803,Veronica Gray,veronica.gray803,48,1978-03-20,Feminino,Los Molinos,CA,Estados Unidos,PC,Esportes,3,2015-05-05,63.3,48,1,4.99,2026-06-22
+804,Rachel Smith,rachel.smith804,52,1973-11-03,Feminino,Haverhill,MA,Estados Unidos,PlayStation,Esportes,13,2021-03-22,317.8,259,23,538.15,2025-12-02
+805,Beth Lee,beth.lee805,22,2004-05-29,Feminino,Dillonvale,OH,Estados Unidos,PlayStation,Ação,6,2021-05-20,125.5,64,0,0,2026-06-11
+806,Judy Myers,judy.myers806,34,1992-04-13,Feminino,Olympia Heights,FL,Estados Unidos,Xbox,FPS,3,2016-11-11,50.5,33,2,39.8,2025-11-24
+807,Reingard Stolze,reingard.stolze807,29,1997-02-09,Feminino,Lichtenberg,Bavaria,Alemanha,PC,Corrida,3,2022-05-02,70.3,127,6,104.67,2026-01-05
+808,Dylan Crawford,dylan.crawford808,16,2010-08-24,Masculino,Pewsey,ENG,Reino Unido,PC,Simulação,2,2026-06-14,46.6,12,1,19.9,2026-08-21
+809,Roger Torres,roger.torres809,37,1989-07-11,Masculino,Drulingen,Grand Est,França,Mobile,MOBA,6,2020-06-02,126.9,77,0,0,2026-02-06
+810,Carlos Jackson,carlos.jackson810,35,1991-03-20,Masculino,Mount Carmel,IL,Estados Unidos,PC,RPG,2,2025-11-28,44.8,30,0,0,2026-02-14
+811,John Baker,john.baker811,53,1973-04-05,Masculino,Upper Burnie,TAS,Austrália,PlayStation,RPG,39,2024-12-24,966.4,322,9,194.37,2026-07-01
+812,Enzio Ginesio,enzio.ginesio812,42,1983-12-18,Masculino,Dozza,45,Itália,PlayStation,Esportes,7,2015-06-03,153.8,268,24,962.69,2026-05-05
+813,Nicole Reed,nicole.reed813,51,1975-03-03,Feminino,Stoneham,MA,Estados Unidos,Xbox,Aventura,20,2024-12-19,478.4,164,10,269.0,2025-11-17
+814,Matthew Sullivan,matthew.sullivan814,40,1985-09-10,Masculino,Casas Adobes,AZ,Estados Unidos,Xbox,Simulação,54,2016-09-17,1344.8,500,9,224.28,2026-01-21
+815,Lauretta Zecchini,lauretta.zecchini815,20,2006-07-07,Feminino,Lardirago,Lombardy,Itália,PC,RPG,1,2026-08-26,2.9,1,0,0,2026-08-30
+816,Kamilly Lima,kamilly.lima816,51,1974-12-13,Feminino,Viçosa,MG,Brasil,PlayStation,Luta,1,2018-08-16,2.6,2,1,19.9,2026-08-08
+817,Celia Brito,celia.brito817,52,1974-05-12,Feminino,Masiaca,SON,México,PC,Estratégia,57,2013-08-25,1406.2,526,0,0,2026-04-14
+818,Gérard Maréchal,gerard.marechal818,23,2002-11-16,Masculino,Saint-Céré,OCC,França,Xbox,Aventura,19,2020-10-24,471.7,295,11,573.9,2025-10-12
+819,Simon Tucker,simon.tucker819,37,1989-08-12,Masculino,Harlesden,ENG,Reino Unido,Mobile,MOBA,9,2022-09-09,218.0,173,0,0,2025-10-04
+820,Eric Bennett,eric.bennett820,55,1971-02-13,Masculino,Kew Gardens Hills,NY,Estados Unidos,PlayStation,Simulação,54,2015-04-02,1342.3,373,11,343.99,2025-09-28
+821,Karlheinz Striebitz,karlheinz.striebitz821,48,1977-11-30,Masculino,Stelzenberg,RP,Alemanha,Xbox,RPG,32,2015-10-20,785.9,490,0,0,2025-09-09
+822,Arthur Montenegro,arthur.montenegro822,17,2009-05-12,Masculino,Bacabeira,MA,Brasil,PlayStation,Ação,18,2024-06-16,429.8,224,0,0,2026-07-08
+823,Thomas Richardson,thomas.richardson823,37,1989-02-17,Masculino,Doubleview,WA,Austrália,PC,FPS,59,2014-05-13,1453.5,728,0,0,2026-06-29
+824,Costantino Iannuzzi,costantino.iannuzzi824,43,1982-11-25,Masculino,Piraino,Sicily,Itália,PC,MOBA,8,2010-09-18,188.8,76,6,124.67,2026-01-30
+825,Aria Galilei,aria.galilei825,50,1975-12-30,Feminino,Buseto Palizzolo,Sicily,Itália,PC,Esportes,57,2021-03-05,1411.0,722,19,738.1,2026-06-19
+826,Mohamed James,mohamed.james826,51,1975-03-03,Masculino,Melbourne,ENG,Reino Unido,PC,Estratégia,38,2020-10-03,937.9,543,0,0,2026-07-13
+827,Timothy Valentine,timothy.valentine827,33,1993-07-07,Masculino,Turramurra,NSW,Austrália,Xbox,Ação,1,2022-11-12,22.9,18,1,79.9,2025-10-15
+828,Thomas Jesus,thomas.jesus828,36,1990-08-18,Masculino,Cocos,BA,Brasil,PC,Simulação,16,2022-01-21,381.9,178,8,284.2,2025-10-29
+829,Nico Herrmann,nico.herrmann829,31,1995-04-14,Masculino,Hankensbüttel,Lower Saxony,Alemanha,PlayStation,RPG,15,2017-03-29,364.7,99,1,14.9,2025-12-16
+830,Lauren Welch,lauren.welch830,51,1975-02-08,Feminino,Lac-Alouette,QC,Canadá,PC,Aventura,60,2011-07-29,1487.8,638,20,623.18,2026-06-13
+831,Mary Brady,mary.brady831,40,1986-06-25,Feminino,Middle East,MD,Estados Unidos,PlayStation,Corrida,6,2014-01-03,133.2,82,0,0,2026-07-26
+832,Sherry Allen,sherry.allen832,45,1980-10-08,Feminino,LaGrange,GA,Estados Unidos,Xbox,Corrida,15,2014-05-05,356.8,256,12,343.98,2026-06-15
+833,Vanessa Beffa,vanessa.beffa833,47,1979-03-14,Feminino,Bussolengo,34,Itália,PlayStation,Aventura,73,2018-04-12,1812.8,865,4,104.6,2026-05-21
+834,Elisabeth Bähr,elisabeth.bahr834,16,2010-04-28,Feminino,Klausdorf,SH,Alemanha,PlayStation,Esportes,17,2024-02-13,419.8,358,0,0,2026-05-05
+835,Ashley Coleman,ashley.coleman835,34,1992-01-12,Feminino,Fayette,ME,Estados Unidos,Xbox,Aventura,61,2021-03-10,1508.1,595,28,932.47,2026-06-29
+836,Nayeli Candelaria,nayeli.candelaria836,50,1976-05-19,Feminino,La Joya,MEX,México,PlayStation,Simulação,27,2019-01-16,674.0,401,0,0,2026-04-17
+837,Serafina Pagliaro,serafina.pagliaro837,35,1991-01-11,Feminino,Serrone,62,Itália,PC,Aventura,27,2020-05-12,663.9,641,26,837.58,2025-09-01
+838,Arnulfo Querini,arnulfo.querini838,35,1991-04-03,Masculino,Polvica,72,Itália,PC,Luta,18,2010-03-12,447.0,508,21,858.08,2025-09-09
+839,Ashley Walker,ashley.walker839,52,1974-06-26,Feminino,Salem,WV,Estados Unidos,PlayStation,Survival,15,2013-05-10,351.3,110,0,0,2026-05-24
+840,Julia Ojeda,julia.ojeda840,42,1984-07-18,Feminino,Villa Mercedes,J,Argentina,Xbox,Corrida,5,2022-06-30,117.9,285,20,613.36,2026-05-29
+841,Marilyn Carter,marilyn.carter841,41,1985-02-04,Feminino,Grimsby,ENG,Reino Unido,Xbox,Aventura,18,2021-12-07,443.5,180,0,0,2025-12-27
+842,Carl Hart,carl.hart842,34,1991-11-01,Masculino,Charlton Kings,ENG,Reino Unido,Xbox,Survival,3,2026-07-18,53.9,17,1,29.9,2026-08-17
+843,Sieglinde Seifert,sieglinde.seifert843,23,2002-11-14,Feminino,Seibersbach,RP,Alemanha,PC,Estratégia,32,2022-12-03,799.9,440,5,154.5,2026-02-22
+844,Lorraine Hoarau,lorraine.hoarau844,21,2005-03-11,Feminino,La Chapelle-Saint-Luc,Grand Est,França,PC,Survival,4,2026-03-22,81.2,29,2,39.8,2026-08-04
+845,Karl-Georg Lachmann,karl-georg.lachmann845,41,1984-11-03,Masculino,Marktheidenfeld,Bavaria,Alemanha,Xbox,FPS,6,2024-11-07,127.6,84,5,179.5,2026-05-20
+846,Anne Hines,anne.hines846,55,1971-01-21,Feminino,Kingsville,TX,Estados Unidos,PC,Estratégia,4,2024-03-07,96.5,83,0,0,2026-08-26
+847,Marie Duval,marie.duval847,32,1994-04-01,Feminino,Labruguière,OCC,França,PlayStation,Corrida,19,2017-06-29,472.4,472,3,74.79,2026-01-02
+848,Antônio Silveira,antonio.silveira848,16,2010-04-10,Masculino,Candiba,BA,Brasil,Xbox,Survival,14,2025-01-20,327.2,205,6,169.49,2026-02-09
+849,Panfilo Longhena,panfilo.longhena849,21,2005-01-31,Masculino,Campocavallo,The Marches,Itália,PC,Luta,5,2019-03-28,118.1,102,3,139.7,2025-12-03
+850,Cauê Mendonça,caue.mendonca850,45,1981-02-08,Masculino,Lindóia do Sul,SC,Brasil,PC,Esportes,5,2013-11-01,119.8,125,5,149.59,2025-11-08
+851,Liz Jesus,liz.jesus851,17,2009-04-27,Feminino,Ouvidor,GO,Brasil,Xbox,Aventura,3,2022-10-04,69.6,26,2,79.8,2026-05-28
+852,Pénélope Samson,penelope.samson852,53,1973-05-01,Feminino,Labastide-Rouairoux,OCC,França,PC,RPG,13,2023-05-09,319.8,269,0,0,2025-11-15
+853,Heather Brooks,heather.brooks853,54,1972-03-03,Feminino,Agincourt South-Malvern West,ON,Canadá,PC,Survival,29,2011-05-20,708.2,293,6,149.49,2025-12-07
+854,Magrit Döhn,magrit.dohn854,50,1976-03-31,Feminino,Waxweiler,RP,Alemanha,PC,Corrida,84,2010-02-27,2098.8,1796,16,423.4,2026-07-16
+855,William Hanna,william.hanna855,29,1997-08-11,Masculino,Palmyra,WI,Estados Unidos,Xbox,Simulação,26,2017-07-23,649.5,170,17,498.57,2025-12-12
+856,Celia Camacho,celia.camacho856,34,1992-06-25,Feminino,Estero del Ídolo,Veracruz,México,PC,Simulação,8,2021-03-03,175.5,130,0,0,2025-10-14
+857,Margot Blondel,margot.blondel857,49,1977-05-22,Feminino,Saint-Dié-des-Vosges,Grand Est,França,Xbox,Ação,3,2025-11-09,65.9,78,0,0,2026-07-02
+858,Rebecca Wilson,rebecca.wilson858,29,1996-09-10,Feminino,Tidnish,NS,Canadá,PC,Estratégia,7,2018-03-13,160.7,73,6,154.49,2025-11-13
+859,Lea Putz,lea.putz859,26,2000-04-06,Feminino,Hilchenbach,North Rhine-Westphalia,Alemanha,Mobile,MOBA,40,2016-01-13,997.9,403,0,0,2026-03-28
+860,Modesto Ávila,modesto.avila860,36,1989-09-28,Masculino,Agua Blanca Serranía,CHP,México,PlayStation,RPG,100,2012-02-20,3859.8,2739,7,174.39,2026-08-09
+861,Otmar Juncken,otmar.juncken861,31,1994-11-14,Masculino,Castrop-Rauxel,North Rhine-Westphalia,Alemanha,PlayStation,RPG,24,2017-08-30,591.0,248,0,0,2025-11-25
+862,Jeffrey Stephenson,jeffrey.stephenson862,19,2006-09-19,Masculino,Kugluktuk,NU,Canadá,PC,Estratégia,13,2022-02-19,308.4,132,9,194.28,2026-07-28
+863,Teresa Taylor,teresa.taylor863,21,2005-02-06,Feminino,Capel,WA,Austrália,Xbox,FPS,8,2022-06-26,194.5,157,4,84.78,2026-08-29
+864,Joann Simmons,joann.simmons864,27,1999-06-11,Feminino,Brier,WA,Estados Unidos,PlayStation,Luta,7,2023-07-03,168.8,210,19,643.19,2026-06-11
+865,Stuart Patel,stuart.patel865,43,1983-05-16,Masculino,Hayfield,ENG,Reino Unido,PC,MOBA,4,2010-11-13,84.8,96,3,149.7,2026-08-04
+866,René Barbero,rene.barbero866,21,2005-02-17,Masculino,San Pedro Alcántara,Andalusia,Espanha,Xbox,RPG,4,2020-11-11,87.4,75,6,164.4,2026-04-14
+867,Amanda Yates,amanda.yates867,29,1997-01-14,Feminino,Beaver Dam,AZ,Estados Unidos,Xbox,FPS,11,2011-11-20,268.8,367,2,29.8,2025-10-25
+868,Horacio Narváez,horacio.narvaez868,35,1991-01-25,Masculino,Barrio de Centro del Cerrillo,MEX,México,Xbox,RPG,10,2022-12-23,231.5,64,0,0,2026-07-18
+869,John Williams,john.williams869,16,2010-05-20,Masculino,Oyster Creek,TX,Estados Unidos,PlayStation,FPS,1,2026-03-21,10.5,10,1,29.9,2026-05-16
+870,Eloisa Rivero,eloisa.rivero870,45,1980-11-19,Feminino,Santo Domingo Aztacameca,MEX,México,Xbox,Survival,100,2014-11-19,4531.8,1318,8,179.29,2026-07-11
+871,Thomas Dyer,thomas.dyer871,24,2002-05-11,Masculino,Belgrade,ME,Estados Unidos,PC,Estratégia,21,2018-02-01,507.5,210,8,249.29,2026-07-31
+872,Humberto Garibay,humberto.garibay872,39,1987-04-30,Masculino,San Vicente,NAY,México,PC,MOBA,100,2012-10-18,6403.0,2816,16,463.67,2025-11-02
+873,Kathryn Wilson,kathryn.wilson873,18,2007-10-08,Feminino,Tavistock,ON,Canadá,Xbox,Simulação,6,2022-01-06,130.4,41,0,0,2026-03-11
+874,Viridiana Ungaretti,viridiana.ungaretti874,19,2006-09-13,Feminino,Pozzomaggiore,Sardinia,Itália,PC,Ação,23,2019-10-28,565.4,484,14,463.87,2025-11-20
+875,Hugues Nguyen,hugues.nguyen875,27,1999-04-01,Masculino,Le Crotoy,HDF,França,PC,Esportes,22,2012-09-10,531.6,403,9,389.1,2026-02-02
+876,Stephen Young,stephen.young876,42,1983-12-12,Masculino,Brices Creek,NC,Estados Unidos,PC,Ação,2,2024-03-14,36.4,47,0,0,2025-10-29
+877,Eric Thomas,eric.thomas877,28,1997-10-08,Masculino,Kingston,IL,Estados Unidos,Xbox,Luta,1,2023-03-13,18.6,45,0,0,2025-12-16
+878,Yasmin Câmara,yasmin.camara878,38,1987-09-03,Feminino,Canas,SP,Brasil,PlayStation,Esportes,1,2025-03-09,0.7,1,1,59.9,2026-04-04
+879,Filippo Jessel,filippo.jessel879,33,1992-12-07,Masculino,Wallenfels,Bavaria,Alemanha,Xbox,Simulação,100,2017-08-23,3643.6,975,0,0,2026-03-08
+880,Austin Cross,austin.cross880,55,1971-04-29,Masculino,Lake Odessa,MI,Estados Unidos,PlayStation,Esportes,26,2011-03-31,633.8,324,19,488.46,2026-06-20
+881,Domitila Pons,domitila.pons881,23,2003-05-10,Feminino,Padul,Andalusia,Espanha,Xbox,Luta,7,2020-02-27,156.0,127,4,119.78,2026-03-08
+882,Paul Waller,paul.waller882,43,1983-01-25,Masculino,Farmington,IL,Estados Unidos,Xbox,Simulação,67,2021-06-10,1667.7,464,3,69.7,2025-12-29
+883,Gloria Biagi,gloria.biagi883,52,1973-11-27,Feminino,San Cristoforo,Piedmont,Itália,PC,Estratégia,45,2011-09-06,1114.6,403,0,0,2026-04-22
+884,Katarina Cichorius,katarina.cichorius884,26,2000-02-10,Feminino,Harsewinkel,North Rhine-Westphalia,Alemanha,PC,Simulação,24,2017-10-01,592.2,226,0,0,2025-12-24
+885,Lori Collins,lori.collins885,28,1997-11-27,Feminino,Boston Seaport,MA,Estados Unidos,Mobile,MOBA,11,2024-08-04,263.3,140,14,468.87,2026-07-30
+886,Kim Carroll,kim.carroll886,43,1982-10-21,Feminino,East Setauket,NY,Estados Unidos,PC,Estratégia,14,2018-06-16,345.7,145,0,0,2025-11-06
+887,Dorothy Mason,dorothy.mason887,19,2007-06-12,Feminino,Merrow,ENG,Reino Unido,PC,Luta,26,2022-12-16,635.3,504,14,448.69,2026-01-16
+888,Vincent Toussaint,vincent.toussaint888,30,1996-03-09,Masculino,Rannée,Brittany,França,PC,Aventura,27,2016-07-17,655.2,413,11,418.9,2025-09-23
+889,Tammy Rollins,tammy.rollins889,31,1994-09-03,Feminino,Elmvale Acres,ON,Canadá,PC,RPG,15,2024-07-09,354.7,294,0,0,2026-02-18
+890,Teresa Rose,teresa.rose890,22,2004-07-25,Feminino,Rumson,NJ,Estados Unidos,PC,Estratégia,5,2024-12-24,104.7,86,8,279.29,2026-05-27
+891,Cecilia Dias,cecilia.dias891,34,1992-02-25,Feminino,Miranorte,TO,Brasil,PC,Simulação,35,2020-09-19,867.7,448,0,0,2025-11-02
+892,Henry Gabriel Sales,henry.gabriel.sales892,21,2005-05-08,Masculino,Senador Salgado Filho,RS,Brasil,PlayStation,FPS,4,2024-04-20,93.9,75,2,69.8,2026-03-21
+893,Étienne Labbé,etienne.labbe893,22,2004-01-23,Masculino,Achicourt,HDF,França,PlayStation,Esportes,38,2019-12-01,943.2,1412,2,74.8,2026-01-15
+894,Isaque Leão,isaque.leao894,33,1992-10-03,Masculino,Cumari,GO,Brasil,Xbox,Corrida,100,2012-08-11,3848.8,2491,0,0,2026-02-16
+895,Ramón Ulloa,ramon.ulloa895,25,2001-08-05,Masculino,Don Samuel,CAM,México,PlayStation,Aventura,9,2021-02-14,224.3,130,4,119.69,2026-03-18
+896,Pedro da Cunha,pedro.da.cunha896,38,1987-11-28,Masculino,Baía Formosa,RN,Brasil,PlayStation,Ação,15,2010-09-28,365.0,308,0,0,2026-08-31
+897,Claire Pottier,claire.pottier897,24,2002-01-20,Feminino,Menpenti,Provence-Alpes-Côte d'Azur,França,PC,MOBA,6,2025-10-24,128.8,66,2,34.89,2025-12-30
+898,Katie Gonzalez,katie.gonzalez898,43,1983-07-25,Feminino,Mill Bay,BC,Canadá,PC,Survival,1,2015-09-28,23.5,8,1,29.9,2026-02-09
+899,Amalia Venier,amalia.venier899,19,2006-10-31,Feminino,Montariolo,Piedmont,Itália,PC,FPS,6,2026-02-24,140.6,87,0,0,2026-05-17
+900,Dante Mercadante,dante.mercadante900,40,1986-02-03,Masculino,Valvestino,Lombardy,Itália,PC,Estratégia,17,2013-05-16,416.2,298,0,0,2026-06-02
+901,João Lucas Silveira,joao.lucas.silveira901,38,1988-02-08,Masculino,Jacuípe,AL,Brasil,PlayStation,FPS,4,2023-08-11,90.9,51,0,0,2026-05-09
+902,Susan Hernandez,susan.hernandez902,29,1996-09-24,Feminino,Drulingen,Grand Est,França,PC,Simulação,1,2020-05-06,3.9,1,1,59.9,2025-10-17
+903,Pierina Gagliardi,pierina.gagliardi903,27,1998-09-19,Feminino,Viddalba,Sardinia,Itália,PC,Simulação,75,2020-02-18,1867.6,478,0,0,2025-09-25
+904,Ingried Hamann,ingried.hamann904,38,1988-05-18,Feminino,Wurmberg,BW,Alemanha,Xbox,Aventura,36,2019-07-10,884.7,402,16,448.58,2026-03-17
+905,Gerald Jones,gerald.jones905,17,2008-10-12,Masculino,Nether Edge,ENG,Reino Unido,Xbox,Ação,13,2023-11-01,324.0,262,0,0,2026-04-03
+906,Ann Pratt,ann.pratt906,23,2002-09-07,Feminino,Raleigh Hills,OR,Estados Unidos,Xbox,Ação,5,2020-12-29,110.0,46,0,0,2026-04-29
+907,Bernardo Fabregat,bernardo.fabregat907,24,2001-09-05,Masculino,Alconchel de la Estrella,Castille-La Mancha,Espanha,PlayStation,Luta,17,2021-02-18,423.4,824,30,802.36,2026-06-04
+908,Melissa Mcdonald,melissa.mcdonald908,28,1998-06-11,Feminino,Oak Park,IN,Estados Unidos,PC,Esportes,2,2022-10-07,46.0,54,5,194.59,2026-07-07
+909,Ann Perez,ann.perez909,47,1979-04-24,Feminino,Pittsfield,WI,Estados Unidos,Xbox,FPS,2,2022-12-24,43.8,35,1,59.9,2026-07-04
+910,Hector Nichols,hector.nichols910,54,1972-06-27,Masculino,Cottonwood,MN,Estados Unidos,Xbox,Survival,98,2012-03-29,2446.7,1520,14,408.69,2026-07-11
+911,Jessica Walls,jessica.walls911,51,1975-06-15,Feminino,Colonia,NJ,Estados Unidos,PlayStation,Luta,50,2013-02-12,1239.5,1075,0,0,2026-03-01
+912,Kreszentia Warmer,kreszentia.warmer912,46,1979-12-12,Feminino,Salgen,Bavaria,Alemanha,PC,Luta,7,2018-07-22,153.0,127,0,0,2026-02-22
+913,Barbara Morris,barbara.morris913,16,2009-09-12,Feminino,Drain,OR,Estados Unidos,Mobile,MOBA,10,2022-12-08,237.3,432,0,0,2026-03-05
+914,Laurence Cordier,laurence.cordier914,18,2007-10-28,Feminino,Saint-Gilles-Croix-de-Vie,Pays de la Loire,França,PC,Estratégia,54,2022-10-04,1348.6,503,30,1152.09,2026-03-31
+915,Katie Johnson,katie.johnson915,19,2007-02-25,Feminino,Churt,ENG,Reino Unido,PlayStation,Esportes,12,2024-08-06,279.4,177,0,0,2026-01-19
+916,Emma Cross,emma.cross916,29,1997-07-18,Feminino,Hoquiam,WA,Estados Unidos,PlayStation,Esportes,89,2012-04-23,2224.2,2054,0,0,2025-10-17
+917,Marcella Schicchi,marcella.schicchi917,32,1994-05-26,Feminino,Mendicino,78,Itália,PC,Aventura,20,2022-08-24,497.1,259,18,573.38,2026-06-12
+918,Sean Ward,sean.ward918,40,1986-03-25,Masculino,Lytchett Matravers,ENG,Reino Unido,Xbox,Corrida,6,2018-09-20,132.5,325,25,647.95,2026-03-20
+919,Viktor Jäkel,viktor.jakel919,55,1970-10-03,Masculino,Egling,Bavaria,Alemanha,PC,Aventura,16,2019-01-31,399.4,227,0,0,2026-08-29
+920,Marisol Ayala,marisol.ayala920,32,1993-09-12,Feminino,Matacapan,Veracruz,México,PC,Estratégia,23,2012-07-12,561.5,464,27,1172.66,2026-07-05
+921,Mary Clark,mary.clark921,42,1984-02-04,Feminino,Douglass,KS,Estados Unidos,PlayStation,Esportes,35,2017-10-10,873.5,1282,3,99.7,2026-04-30
+922,Vincent Joly,vincent.joly922,54,1972-05-19,Masculino,Chamalières,Rhône-Alpes,França,PC,Esportes,26,2013-01-28,645.8,916,28,817.74,2025-11-13
+923,Veronica Johnson,veronica.johnson923,24,2002-07-06,Feminino,Chapleau,ON,Canadá,PlayStation,Aventura,47,2021-09-14,1169.4,708,0,0,2025-11-04
+924,Arthur Rousset,arthur.rousset924,54,1971-11-02,Masculino,Beaumont,Rhône-Alpes,França,Xbox,Corrida,20,2024-05-16,475.4,330,22,642.98,2026-07-23
+925,Katy Mende,katy.mende925,17,2008-09-01,Feminino,Apfeldorf,Bavaria,Alemanha,PlayStation,RPG,9,2025-02-12,213.7,56,0,0,2026-06-30
+926,Lara Silveira,lara.silveira926,34,1992-05-19,Feminino,Veredinha,MG,Brasil,Xbox,FPS,4,2022-06-12,99.2,89,8,319.29,2026-06-30
+927,Hans-Günther Liebelt,hans-gunther.liebelt927,24,2001-10-24,Masculino,Bergwitz,Saxony-Anhalt,Alemanha,Mobile,MOBA,13,2017-04-10,319.0,310,2,79.8,2025-10-08
+928,João Guerreiro,joao.guerreiro928,44,1981-12-08,Masculino,Sandim,13,Portugal,PlayStation,FPS,3,2023-05-11,61.6,148,4,174.69,2026-03-15
+929,Araceli Pulido,araceli.pulido929,23,2003-06-13,Feminino,Xalatlaco,Veracruz,México,PlayStation,RPG,1,2025-03-02,6.4,2,0,0,2026-02-14
+930,Dulce Solano,dulce.solano930,41,1984-10-30,Feminino,X-Cán,YUC,México,PlayStation,RPG,12,2022-01-13,280.8,241,21,642.99,2026-07-30
+931,Hannah Munoz,hannah.munoz931,39,1986-10-24,Feminino,Fairfield,IA,Estados Unidos,PC,RPG,27,2020-06-22,673.5,432,0,0,2026-02-04
+932,John Gibbs,john.gibbs932,52,1973-12-20,Masculino,Palmona Park,FL,Estados Unidos,PlayStation,Aventura,100,2014-06-04,3306.4,1504,28,847.56,2025-10-15
+933,Marguerite Rey,marguerite.rey933,30,1996-05-30,Feminino,Le Vigen,New Aquitaine,França,PC,Luta,30,2011-01-06,737.1,550,0,0,2026-02-11
+934,Casey Martinez,casey.martinez934,20,2006-04-21,Masculino,Barraute,QC,Canadá,Xbox,FPS,5,2019-12-22,109.5,92,9,269.28,2025-11-22
+935,Paco Puerta,paco.puerta935,19,2007-02-13,Masculino,Argelita,V,Espanha,PC,Estratégia,1,2025-10-05,3.7,4,0,0,2026-01-27
+936,Sue Torres,sue.torres936,36,1990-01-24,Feminino,Exeter,RI,Estados Unidos,PC,MOBA,2,2015-12-13,47.9,37,3,109.7,2026-01-07
+937,Gareth O'Neill,gareth.o'neill937,53,1973-07-18,Masculino,Upton Scudamore,ENG,Reino Unido,PC,Aventura,38,2013-07-31,944.1,367,0,0,2026-08-16
+938,James Morales,james.morales938,22,2004-08-20,Masculino,Jonesborough,TN,Estados Unidos,PlayStation,Simulação,4,2023-07-05,95.1,68,2,19.89,2025-12-19
+939,Lauren Hernandez,lauren.hernandez939,54,1972-02-06,Feminino,Fortune,NL,Canadá,PC,Corrida,25,2020-04-03,613.4,524,29,822.46,2026-01-04
+940,Tyrone Rodriguez,tyrone.rodriguez940,52,1973-12-28,Masculino,Maylands,SA,Austrália,Xbox,Esportes,41,2012-05-02,1000.8,912,0,0,2026-03-12
+941,Laurie Jimenez,laurie.jimenez941,20,2005-09-15,Feminino,Adelaide,SA,Austrália,Xbox,Simulação,72,2019-05-18,1777.4,656,22,827.89,2026-02-10
+942,Stephen Munoz,stephen.munoz942,50,1976-08-30,Masculino,Littlestown,PA,Estados Unidos,PC,Survival,11,2015-02-02,261.9,87,0,0,2026-03-06
+943,Peter Reeves,peter.reeves943,26,2000-02-13,Masculino,Georgetown,GA,Estados Unidos,PC,Ação,82,2017-05-20,2049.8,1028,0,0,2026-04-02
+944,Catherine Marty,catherine.marty944,37,1989-04-25,Feminino,Romilly-sur-Seine,Grand Est,França,PlayStation,FPS,24,2019-12-13,599.4,336,2,24.89,2026-02-10
+945,Philomena Gumprich,philomena.gumprich945,42,1984-02-18,Feminino,Achim,Lower Saxony,Alemanha,Mobile,MOBA,14,2018-08-18,325.8,165,3,94.79,2026-04-15
+946,Claudia Shaw,claudia.shaw946,55,1971-02-19,Feminino,Coralville,IA,Estados Unidos,PC,Ação,70,2013-11-15,1730.5,1081,0,0,2026-06-07
+947,Catherine Smith,catherine.smith947,38,1987-09-28,Feminino,Asbury Lake,FL,Estados Unidos,PC,Aventura,15,2016-10-02,354.0,169,0,0,2026-04-17
+948,Carlos Ybarra,carlos.ybarra948,49,1976-11-05,Masculino,El Nilo,Coahuila,México,Xbox,RPG,2,2026-02-04,28.1,11,0,0,2026-04-25
+949,Heino Röhrdanz,heino.rohrdanz949,38,1988-01-16,Masculino,Zeitz,Saxony-Anhalt,Alemanha,Xbox,Ação,40,2018-06-29,975.4,403,15,408.77,2026-02-13
+950,Mateo Benjamin Sosa,mateo.benjamin.sosa950,37,1989-06-24,Masculino,Villa Elisa,E,Argentina,PC,FPS,100,2017-06-09,3288.8,1994,6,159.49,2026-03-29
+951,Shannon Ward,shannon.ward951,49,1977-07-01,Feminino,Muncie,IN,Estados Unidos,PlayStation,Luta,17,2022-11-27,410.1,462,18,633.38,2025-09-01
+952,Amancio Pineda,amancio.pineda952,53,1973-06-22,Masculino,Ojos-Albos,Castille and León,Espanha,Xbox,Simulação,100,2013-01-10,8738.3,2251,0,0,2026-06-08
+953,Matheus Câmara,matheus.camara953,45,1980-09-10,Masculino,Recreio,MG,Brasil,PlayStation,Aventura,10,2014-08-20,242.5,177,4,79.69,2026-06-17
+954,Valentina  Garcia,valentina..garcia954,55,1970-12-23,Feminino,Pasco,X,Argentina,PlayStation,Survival,9,2020-05-30,214.7,62,2,29.8,2026-07-21
+955,Nadia Pavanello,nadia.pavanello955,40,1986-07-02,Feminino,Terranova da Sibari,78,Itália,PlayStation,RPG,13,2024-09-13,311.9,150,7,274.39,2026-07-22
+956,Lauren Johnson,lauren.johnson956,26,2000-06-20,Feminino,Dale,IN,Estados Unidos,PlayStation,Simulação,61,2014-04-09,1501.4,849,2,139.8,2026-05-25
+957,David Parra,david.parra957,31,1995-03-07,Masculino,San Lorenzo,Coahuila,México,Xbox,FPS,6,2012-03-13,148.7,156,7,239.39,2026-06-15
+958,Nicholas Neal,nicholas.neal958,54,1971-11-27,Masculino,Rochelle Park,NJ,Estados Unidos,PC,Ação,4,2026-05-10,87.2,51,0,0,2026-06-02
+959,Mohammad Liebelt,mohammad.liebelt959,37,1988-09-25,Masculino,Thiendorf,Saxony,Alemanha,Xbox,Ação,100,2012-04-12,3989.7,1701,0,0,2026-02-07
+960,Virginia Pham,virginia.pham960,18,2008-07-28,Feminino,Elmer,NJ,Estados Unidos,PlayStation,Corrida,1,2024-12-28,9.9,7,0,0,2026-06-06
+961,Davi Cardoso,davi.cardoso961,30,1995-10-01,Masculino,Palmeira do Piauí,PI,Brasil,Xbox,Corrida,39,2017-03-02,962.5,1197,17,563.3,2026-08-11
+962,Leigh Smith,leigh.smith962,29,1997-08-22,Masculino,Gresford,Wales,Reino Unido,PC,MOBA,5,2013-05-19,118.7,66,0,0,2026-04-04
+963,Audrey Mallet,audrey.mallet963,16,2010-05-24,Feminino,Loison-sous-Lens,HDF,França,PlayStation,Simulação,52,2023-06-03,1296.5,353,30,972.36,2026-05-22
+964,Jason Lin,jason.lin964,41,1985-03-17,Masculino,Royse City,TX,Estados Unidos,PC,Luta,2,2012-06-06,32.8,29,0,0,2025-12-16
+965,Charo Miranda,charo.miranda965,23,2002-11-23,Feminino,Atapuerca,Castille and León,Espanha,Mobile,MOBA,15,2019-10-18,374.5,437,0,0,2026-03-01
+966,Malcolm Farmer,malcolm.farmer966,39,1987-05-31,Masculino,Kirkwall,SCT,Reino Unido,PlayStation,Simulação,5,2022-01-26,103.5,76,1,19.9,2026-03-25
+967,Joe Davison,joe.davison967,39,1986-10-01,Masculino,Broadway,ENG,Reino Unido,PC,Ação,22,2017-11-02,533.8,419,0,0,2025-11-28
+968,Massimo Bonbach,massimo.bonbach968,48,1977-11-09,Masculino,Retzstadt,Bavaria,Alemanha,Xbox,Aventura,2,2025-11-23,39.9,22,2,64.89,2026-06-21
+969,Aurora Giammusso,aurora.giammusso969,47,1979-08-07,Feminino,San Demetrio Ne' Vestini,65,Itália,Xbox,Corrida,1,2025-05-24,2.8,4,0,0,2026-02-13
+970,Susan Cook,susan.cook970,47,1978-12-06,Feminino,Mount Pleasant,NSW,Austrália,PC,Estratégia,100,2014-05-04,2933.7,1969,0,0,2025-12-05
+971,Diana Leone,diana.leone971,46,1980-05-27,Feminino,Mongiuffi Melia,Sicily,Itália,Xbox,Survival,72,2019-01-19,1798.0,448,0,0,2026-06-25
+972,Cornelia Geißler,cornelia.geiler972,42,1983-12-11,Feminino,Neufahrn bei Freising,Bavaria,Alemanha,PC,Corrida,2,2018-10-05,48.6,44,0,0,2026-06-15
+973,Alexander Morgan,alexander.morgan973,45,1981-03-06,Masculino,Kilmacolm,SCT,Reino Unido,PC,Aventura,19,2017-04-05,474.3,374,8,269.29,2026-05-20
+974,Alejo Sanchez,alejo.sanchez974,47,1979-02-04,Masculino,Las Varillas,X,Argentina,PC,Estratégia,1,2026-08-15,14.5,7,0,0,2026-08-24
+975,Panfilo Dulbecco,panfilo.dulbecco975,23,2003-01-09,Masculino,Piozzano,45,Itália,Xbox,Luta,1,2025-11-04,21.7,53,1,19.9,2025-12-23
+976,Íngrid Tomás,ingrid.tomas976,55,1970-10-03,Feminino,El Álamo,M,Espanha,PC,Ação,17,2025-06-03,408.9,177,12,338.98,2026-04-15
+977,Amanda Walter,amanda.walter977,26,2000-04-09,Feminino,Jersey Shore,PA,Estados Unidos,PlayStation,RPG,10,2025-06-16,241.8,122,4,114.69,2026-06-26
+978,Maria Spears,maria.spears978,44,1982-01-13,Feminino,Georgetown,IN,Estados Unidos,PC,Esportes,43,2010-08-16,1055.9,720,2,44.89,2026-02-05
+979,Mónica Amador,monica.amador979,37,1989-07-14,Feminino,Xalpatláhuac,GRO,México,PlayStation,Esportes,35,2016-02-19,865.5,935,7,314.3,2026-06-02
+980,Lorraine Bigot,lorraine.bigot980,28,1998-07-21,Feminino,Reillanne,Provence-Alpes-Côte d'Azur,França,PlayStation,FPS,23,2013-09-16,572.8,719,2,29.8,2026-06-27
+981,Aldonza Esparza,aldonza.esparza981,28,1998-03-26,Feminino,Montemorelos,NLE,México,PC,MOBA,37,2012-11-21,901.3,1718,0,0,2026-05-15
+982,Denise Clark,denise.clark982,39,1986-12-13,Feminino,Thomas,OK,Estados Unidos,PlayStation,Survival,100,2013-09-10,4448.5,2820,0,0,2025-12-26
+983,Nadia Cañete,nadia.canete983,21,2005-05-28,Feminino,Casarrubios del Monte,Castille-La Mancha,Espanha,Xbox,Corrida,1,2022-11-28,13.6,14,0,0,2025-09-15
+984,Faruk Löchel,faruk.lochel984,34,1992-04-20,Masculino,Freyung,Bavaria,Alemanha,PC,RPG,6,2022-03-29,146.9,125,1,19.9,2025-12-23
+985,Christine Mclean,christine.mclean985,17,2009-08-02,Feminino,Rockmart,GA,Estados Unidos,Xbox,Aventura,5,2025-03-28,113.2,43,4,194.6,2026-08-19
+986,Jade Reeves,jade.reeves986,22,2004-03-31,Feminino,Euless,TX,Estados Unidos,PC,Corrida,28,2020-08-29,678.2,587,0,0,2026-03-18
+987,Ashley Campbell,ashley.campbell987,35,1990-10-21,Feminino,Kuranda,QLD,Austrália,Xbox,RPG,33,2017-03-29,807.5,229,2,44.89,2026-03-24
+988,Albert Vollbrecht,albert.vollbrecht988,29,1997-02-08,Masculino,Soltendieck,Lower Saxony,Alemanha,PlayStation,FPS,15,2021-07-02,358.0,387,0,0,2026-03-12
+989,Guadalupe Rentería,guadalupe.renteria989,42,1984-07-07,Feminino,San Lorenzo Victoria,OAX,México,PlayStation,Simulação,5,2020-03-30,120.5,67,0,0,2026-01-02
+990,Luis Buchholz,luis.buchholz990,48,1978-02-27,Masculino,Rain,Bavaria,Alemanha,Xbox,RPG,100,2014-06-22,3157.2,898,0,0,2026-02-18
+991,Jos Arenas,jos.arenas991,19,2006-10-04,Masculino,Jala,NAY,México,PC,Aventura,70,2020-09-03,1725.3,735,9,264.1,2026-08-24
+992,Jürgen Zänker,jurgen.zanker992,22,2004-04-14,Masculino,Lubnjow,BB,Alemanha,Xbox,Ação,94,2017-05-05,2327.6,1307,0,0,2025-11-23
+993,Salvi Tommaseo,salvi.tommaseo993,27,1999-07-23,Masculino,Civitella San Paolo,62,Itália,Mobile,MOBA,36,2018-02-04,875.3,360,0,0,2026-02-25
+994,Paulina Pizarro,paulina.pizarro994,45,1981-06-02,Feminino,Piedras Albas,EX,Espanha,PlayStation,Ação,14,2019-03-19,347.9,169,2,79.8,2025-09-26
+995,Roland Colin,roland.colin995,24,2002-04-22,Masculino,Zegerscappel,HDF,França,Xbox,RPG,17,2016-09-07,420.8,125,12,429.07,2026-04-13
+996,Genaro Ayala,genaro.ayala996,42,1984-07-18,Masculino,Cieneguilla,DUR,México,Xbox,Ação,11,2011-11-21,260.5,105,0,0,2026-03-09
+997,Robin Solis,robin.solis997,20,2006-08-05,Feminino,East Hanover,NJ,Estados Unidos,Mobile,MOBA,1,2026-02-08,0.9,1,1,29.9,2026-05-19
+998,Tony Swift,tony.swift998,38,1987-10-30,Masculino,Tyberton,ENG,Reino Unido,PC,Estratégia,44,2019-10-20,1094.0,955,0,0,2026-01-06
+999,Benjamin Dunn,benjamin.dunn999,42,1984-07-15,Masculino,Wells,ENG,Reino Unido,Xbox,Simulação,32,2018-12-26,799.9,241,17,683.39,2026-05-10
+1000,José Schleich,jose.schleich1000,47,1978-09-14,Masculino,Schülp bei Rendsburg,SH,Alemanha,PC,Corrida,14,2020-07-21,347.2,338,0,0,2026-02-26
