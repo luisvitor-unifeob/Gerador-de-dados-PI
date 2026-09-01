@@ -18,8 +18,9 @@ from regras import (
 )
 
 
-# Pasta onde está este arquivo jogadores.py
-BASE_DIR = Path(__file__).resolve().parent
+# Pasta principal do gerador
+# ../
+BASE_DIR = Path(__file__).resolve().parent.parent
 
 
 # Países
@@ -58,7 +59,8 @@ gc = geonamescache.GeonamesCache(
 PASTA_BASE = BASE_DIR / "base_geografica"
 
 ARQUIVO_ESTADOS = (
-    PASTA_BASE / "admin1CodesASCII.txt"
+    # PASTA_BASE / "admin1CodesASCII.txt"
+    PASTA_BASE / "codigos_divisoes_administrativas.txt"
 )
 
 URL_ESTADOS = (
@@ -479,7 +481,7 @@ def gerar_jogador(player_id):
 def gerar_arquivo_jogadores(quantidade):
 
     # Sempre salva dentro da pasta gerador/dados
-    pasta = BASE_DIR / "dados"
+    pasta = BASE_DIR / "output"
 
     pasta.mkdir(
         exist_ok=True

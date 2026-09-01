@@ -1,4 +1,4 @@
-from jogadores import gerar_arquivo_jogadores
+from src.jogadores import gerar_arquivo_jogadores
 
 
 QUANTIDADE = 1_000
