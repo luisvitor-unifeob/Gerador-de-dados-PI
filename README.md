@@ -5,15 +5,15 @@ pip install faker geonamescache pycountry Babel
 
 ## Estrutura de diretórios
 
-.venv
-gerador
-├── data
-│   └── base_geografica
-├── main.py
-└── src
-    ├── jogadores.py
-    ├── partidas.py
-    └── regras.py
+.venv<br>
+gerador<br>
+├── data<br>
+│   └── base_geografica<br>
+├── main.py<br>
+└── src<br>
+    ├── jogadores.py<br>
+    ├── partidas.py<br>
+    └── regras.py<br>
 
 - src: Código principal
 - data: Dados pré-carregados utilizados pelo código
