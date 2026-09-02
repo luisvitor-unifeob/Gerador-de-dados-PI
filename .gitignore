@@ -1,3 +1,5 @@
 **/__pycache__/
 gerador/output/
 .venv/
+
+.vscode/
