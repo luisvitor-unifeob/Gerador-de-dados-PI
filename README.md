@@ -5,6 +5,7 @@ pip install faker geonamescache pycountry Babel
 
 ## Estrutura de diretórios
 
+.venv
 gerador
 ├── data
 │   └── base_geografica
@@ -17,5 +18,6 @@ gerador
 - src: Código principal
 - data: Dados pré-carregados utilizados pelo código
 - output*: Arquivos gerados pelo código
+- .venv*: Arquivos do ambiente virtal python
 
 * Está no .gitignore

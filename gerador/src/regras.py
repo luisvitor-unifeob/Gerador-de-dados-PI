@@ -11,8 +11,7 @@ def gerar_data_nascimento(idade):
     ano = HOJE.year - idade
 
     dia = random.randint(
-        1,
-        calendar.monthrange(ano, mes)[1]
+        1, calendar.monthrange(ano, mes)[1]
     )
 
     # Faz a data realmente corresponder à idade
@@ -27,7 +26,6 @@ def adicionar_anos(data_original, anos):
         return data_original.replace(
             year=data_original.year + anos
         )
-
     except ValueError:
         # Caso de 29 de fevereiro
         return data_original.replace(
@@ -39,7 +37,6 @@ def adicionar_anos(data_original, anos):
 
 def data_aleatoria(inicio, fim):
     quantidade_dias = (fim - inicio).days
-
     return inicio + timedelta(
         days=random.randint(0, quantidade_dias)
     )
@@ -47,11 +44,9 @@ def data_aleatoria(inicio, fim):
 
 def criar_username(nome):
     nome = unicodedata.normalize(
-        "NFKD",
-        nome
+        "NFKD", nome
     ).encode(
-        "ascii",
-        "ignore"
+        "ascii", "ignore"
     ).decode("ascii")
 
     return nome.lower().replace(" ", ".")
