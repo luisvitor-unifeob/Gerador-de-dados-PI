@@ -9,7 +9,7 @@ import unicodedata
 import geonamescache
 import pycountry
 
-from regras import (
+from src.regras import (
     HOJE,
     gerar_data_nascimento,
     adicionar_anos,
@@ -56,7 +56,7 @@ gc = geonamescache.GeonamesCache(
 )
 
 
-PASTA_BASE = BASE_DIR / "base_geografica"
+PASTA_BASE = BASE_DIR / "data/base_geografica"
 
 ARQUIVO_ESTADOS = (
     # PASTA_BASE / "admin1CodesASCII.txt"
@@ -480,7 +480,7 @@ def gerar_jogador(player_id):
 
 def gerar_arquivo_jogadores(quantidade):
 
-    # Sempre salva dentro da pasta gerador/dados
+    # Sempre salva dentro da pasta gerador/output
     pasta = BASE_DIR / "output"
 
     pasta.mkdir(
