@@ -1,5 +1,9 @@
+# Arquivos do python
 **/__pycache__/
-gerador/output/
 .venv/
 
+gerador/output/
+
 .vscode/
+
+**/.obsidian/
