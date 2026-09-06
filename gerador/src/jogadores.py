@@ -179,6 +179,7 @@ GENEROS_JOGO = [
 ]
 
 
+# Mobile só aparece em um gênero, talvez seja legal adicioná-lo a outros
 PLATAFORMAS = {
     "FPS": ["PC", "PlayStation", "Xbox"],
     "RPG": ["PC", "PlayStation", "Xbox"],
@@ -193,6 +194,7 @@ PLATAFORMAS = {
     "Survival": ["PC", "PlayStation", "Xbox"]
 }
 
+# limites hardcodados, pode ser legal randomizá-los
 TEMPO_SESSAO_MEDIO = {
     "FPS": (0.4, 2.0),
     "RPG": (1.0, 4.0),
@@ -281,6 +283,7 @@ def gerar_jogador(player_id):
         30, max(1, numero_sessoes // 10)
     )
 
+    # joga uma moeda torta pra saber se gasta dinheiro ou não
     if random.random() < 0.45:
         compras = 0
     else:
@@ -314,6 +317,18 @@ def gerar_jogador(player_id):
         HOJE
     )
 
+    '''
+        notas:
+        
+        Manter a consistência não vai ser o único problema.
+        Também precisaremos inserir pequenos vieses no código
+        para que o resultado final não seja tão homogêneo (como
+        vimos nos datasets abertos da atividade do Gabriel). Por
+        exemplo, as faixas etárias não terão todas a mesma duração
+        média de sessão. Pelo contrário, é quase certo que devem
+        ser diferentes. Então algo no código deve "selecionar" quais
+        idades terão um tempo maior e quais terão um tempo menor
+    '''
     return {
         "player_id": player_id,
         "nome": nome,
