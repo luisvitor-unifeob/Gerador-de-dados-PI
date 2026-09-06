@@ -4,16 +4,16 @@
 
 ## Dados de jogadores
 
-| Nome               | Tipo   | Formato          | Max | Min | Exemplo      |
-| ------------------ | ------ | ---------------- | --- | --- | ------------ |
-| player_id          | int    | -                | -   | 1   | 55           |
-| nome               | string | "Nome Sobrenome" |     |     | "João Silva" |
-| username           | string | -                |     |     | "joao"       |
-| idade              | int    | -                |     |     | 12           |
-| data_nascimento    | string | yyyy-MM-dd       |     |     | "2025-05-12" |
-| genero             | string | -                |     |     | "Masculino"  |
-| nivel_jogador      | int    | -                |     |     | 45           |
-| data_criacao_conta | string | yyyy-MM-dd       |     |     | "2023-02-21" |
+| Nome               | Tipo   | Formato          | Min        | Max  | Exemplo      |
+| ------------------ | ------ | ---------------- | ---------- | ---- | ------------ |
+| player_id          | int    | -                | 1          | -    | 55           |
+| nome               | string | "Nome Sobrenome" | -          | -    | "João Silva" |
+| username           | string | -                | -          | -    | "joao"       |
+| idade              | int    | -                | 16         | 55   | 17           |
+| data_nascimento    | string | yyyy-MM-dd       | 2010-01-01 | HOJE | "2025-05-12" |
+| genero             | string | -                | -          | -    | "Masculino"  |
+| nivel_jogador      | int    | -                | 1          | 100  | 45           |
+| data_criacao_conta | string | yyyy-MM-dd       | 2010-01-01 | HOJE | "2023-02-21" |
 
 ## Dados geográficos
 
@@ -38,11 +38,11 @@
 com alguns dados do que ocorreu naquela sessão?
 ajudaria a criar uma dimensão no data warehouse
 
-| Nome           | Tipo   | Formato    | Max | Min | Exemplo      |
+| Nome           | Tipo   | Formato    | Min | Max | Exemplo      |
 | -------------- | ------ | ---------- | --- | --- | ------------ |
-| horas_jogadas  | float  | -          |     |     | 101.4        |
-| numero_sessoes | int    | -          |     |     | 450          |
-| ultimo_acesso  | string | yyyy-MM-dd |     |     | "2023-02-21" |
+| horas_jogadas  | float  | -          | 1   | -   | 101.4        |
+| numero_sessoes | int    | -          | 1   | -   | 450          |
+| ultimo_acesso  | string | yyyy-MM-dd | ?   | -   | "2023-02-21" |
 
 ## Dados de receita
 
@@ -50,7 +50,7 @@ ajudaria a criar uma dimensão no data warehouse
 
 > o último acesso pode ser conseguido na exploração
 
-| Nome               | Tipo  | Formato | Max | Min | Exemplo |
-| ------------------ | ----- | ------- | --- | --- | ------- |
-| quantidade_compras | int   | -       |     |     | 16      |
-| valor_gasto        | float | -       |     |     | 263.4   |
+| Nome               | Tipo  | Formato | Min | Max                        | Exemplo |
+| ------------------ | ----- | ------- | --- | -------------------------- | ------- |
+| quantidade_compras | int   | -       | 0   | 30                         | 16      |
+| valor_gasto        | float | -       | 0   | maior preço \* max compras | 263.4   |

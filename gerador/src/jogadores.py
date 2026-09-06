@@ -239,6 +239,11 @@ def gerar_jogador(player_id):
 
     idade = random.randint(16, 55)
     nascimento = gerar_data_nascimento(idade)
+    # esse nome de variável não é muito bom
+    # o intuito é garantir que a data de criação da conta
+    # não aconteça antes do usuário atingir a idade mínima,
+    # mas da forma como o código está, eu levei um bom tempo
+    # para entender isso
     idade_minima = adicionar_anos(nascimento, 13)
     inicio_sistema = date(2010, 1, 1)
 
@@ -308,6 +313,7 @@ def gerar_jogador(player_id):
         2
     )
 
+    # não acho que eu entendi isso aqui muito bem
     inicio_acesso = max(
         data_criacao,
         HOJE - timedelta(days=365)
